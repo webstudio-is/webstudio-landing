@@ -1,4 +1,16 @@
-# Welcome to Remix!
+# Webstudio landing site
+
+To sync the project with a Webstudio instance.
+
+**Important** - treat your project id like private key, since there is no authentification for now.
+
+Host needs to point at any instance, it can be local or in the cloud.
+
+```
+wstd sync <project id> --host <http://localhost:3000>
+```
+
+## Remix
 
 - [Remix Docs](https://remix.run/docs)
 
