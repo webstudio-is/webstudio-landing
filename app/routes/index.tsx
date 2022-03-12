@@ -1,4 +1,3 @@
-// @ts-expect-error @todo
 import { Root, loader } from "@webstudio-is/sdk";
 import { useLoaderData } from "remix";
 
