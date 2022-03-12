@@ -504,6 +504,11 @@
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-4.6.0.tgz#3c7c9c46e678feefe7a2e5bb609d3dbd665ffb3f"
   integrity sha512-t09vSN3MdfsyCHoFcTRCH/iUtG7OJ0CsjzB8cjAmKc/va/kIgeDI/TxsigdncE/4be734m0cvIYwNaV4i2XqAw==
 
+"@stitches/react@^1.2.7":
+  version "1.2.7"
+  resolved "https://registry.yarnpkg.com/@stitches/react/-/react-1.2.7.tgz#aea2403fac726db66d1740d29557e3910b1a1dc7"
+  integrity sha512-6AxpUag7OW55ANzRnuy7R15FEyQeZ66fytVo3BBilFIU0mfo3t49CAMcEAL/A1SbhSj/FCdWkn/XrbjGBTJTzg==
+
 "@szmarczak/http-timer@^4.0.5":
   version "4.0.6"
   resolved "https://registry.yarnpkg.com/@szmarczak/http-timer/-/http-timer-4.0.6.tgz#b4a914bb62e7c272d4e5989fe4440f812ab1d807"
@@ -796,6 +801,12 @@
   integrity sha512-jyIbdVl+0ZJyKGTV0Ohb9E6UnxP+t7ZzX4Do3AHjZKxUXKMs9EmqnBDQgHF7bEw0EzbQygOjtt/7gvtmi//iCQ==
   dependencies:
     web-streams-polyfill "^3.1.1"
+
+"@webstudio-is/sdk@../webstudio-sdk":
+  version "0.1.0"
+  dependencies:
+    "@stitches/react" "^1.2.7"
+    react-nano-state "^0.4.0"
 
 "@zxing/text-encoding@0.9.0":
   version "0.9.0"
@@ -3899,6 +3910,11 @@ react-is@^17.0.1:
   version "17.0.2"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.2.tgz#e691d4a8e9c789365655539ab372762b0efb54f0"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
+
+react-nano-state@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/react-nano-state/-/react-nano-state-0.4.0.tgz#775fd0e03ff457fcb58a35ba159bd419d76632bc"
+  integrity sha512-SqSNd9Y5scLhaMpD0tqMcCl3nijFlPFJzOmOFc4ITuhjjbsyKHcdjv02tamI88fCt8bAcjWA/It0k/+QP61w9w==
 
 react-router-dom@^6.2.2:
   version "6.2.2"

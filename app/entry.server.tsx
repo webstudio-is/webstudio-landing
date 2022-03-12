@@ -1,6 +1,7 @@
 import { renderToString } from "react-dom/server";
 import { RemixServer } from "remix";
 import type { EntryContext } from "remix";
+import { insertCriticalCss } from "@webstudio-is/sdk";
 
 export default function handleRequest(
   request: Request,
@@ -8,9 +9,11 @@ export default function handleRequest(
   responseHeaders: Headers,
   remixContext: EntryContext
 ) {
-  const markup = renderToString(
+  let markup = renderToString(
     <RemixServer context={remixContext} url={request.url} />
   );
+
+  markup = insertCriticalCss(markup);
 
   responseHeaders.set("Content-Type", "text/html");
 

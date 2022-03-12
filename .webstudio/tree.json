@@ -1,0 +1,70 @@
+{
+  "id": "622b652995287e4f8f7b15e6",
+  "root": {
+    "component": "Box",
+    "id": "6226b9f535b065f575ffec3c",
+    "style": {
+      "fontFamily": {
+        "type": "keyword",
+        "value": "Arial"
+      },
+      "fontSize": {
+        "type": "unit",
+        "unit": "px",
+        "value": 14
+      },
+      "lineHeight": {
+        "type": "unit",
+        "unit": "px",
+        "value": 20
+      },
+      "color": {
+        "type": "keyword",
+        "value": "rgba(102,102,102,1)"
+      },
+      "minHeight": {
+        "type": "unit",
+        "unit": "vh",
+        "value": 100
+      },
+      "flexDirection": {
+        "type": "keyword",
+        "value": "column"
+      },
+      "backgroundColor": {
+        "type": "keyword",
+        "value": "rgba(240,10,10,0)"
+      }
+    },
+    "children": [
+      {
+        "component": "Box",
+        "id": "622b451f8a64c8720815538e",
+        "style": {},
+        "children": [
+          {
+            "component": "Form",
+            "id": "622b45238a64c8720815538f",
+            "style": {},
+            "children": [
+              {
+                "component": "Input",
+                "id": "622b45348a64c87208155391",
+                "style": {},
+                "children": []
+              },
+              {
+                "component": "Button",
+                "id": "622b452d8a64c87208155390",
+                "style": {},
+                "children": [
+                  "Subscribe"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
