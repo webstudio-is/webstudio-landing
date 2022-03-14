@@ -828,15 +828,17 @@
     web-streams-polyfill "^3.1.1"
 
 "@webstudio-is/cli@../webstudio-cli":
-  version "0.1.0"
+  version "0.1.3"
   dependencies:
     fs-extra "^10.0.1"
     inquirer "^8.2.1"
     meow "^10.1.2"
     node-fetch "^3.2.2"
 
-"@webstudio-is/sdk@../webstudio-sdk":
-  version "0.1.0"
+"@webstudio-is/sdk@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@webstudio-is/sdk/-/sdk-0.1.1.tgz#0d980e05f7045852b8c8fa65f14436ce9af55c12"
+  integrity sha512-e08P2RhuM1UyHjHp5CTGEkqeiUoke5m+efOaAS0urZDLhwpnWXHUD5Fu8FPYGDxdRxAE0cxb53tQ8G6HS64A7g==
   dependencies:
     "@prisma/client" "^3.10.0"
     "@stitches/react" "^1.2.7"
