@@ -5,7 +5,7 @@ import {
   WrapperComponent,
   type WrapperComponentProps,
 } from "@webstudio-is/sdk";
-import { useLoaderData, useTransition, Form, type ActionFunction } from "remix";
+import { useLoaderData, type ActionFunction } from "remix";
 import { subscribe } from "~/signup/subscribe";
 import { SignupForm, SignupSuccess } from "~/signup/components";
 
