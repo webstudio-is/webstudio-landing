@@ -1,5 +1,5 @@
 {
-  "id": "622f319b6e2393f9c83abc1f",
+  "id": "622fa82e1ae8705265cca1b5",
   "root": {
     "component": "Box",
     "id": "root",
@@ -260,6 +260,29 @@
                   "Subscribe"
                 ]
               }
+            ]
+          },
+          {
+            "component": "Paragraph",
+            "id": "622fa41b00ea8231d10bddd8",
+            "style": {
+              "fontSize": {
+                "type": "unit",
+                "unit": "px",
+                "value": 16
+              }
+            },
+            "children": [
+              "Thank you for your interest! Feel free to follow us on twitter or say hi per ",
+              {
+                "component": "Link",
+                "id": "622fa4d11c3110f34df1fc04",
+                "style": {},
+                "children": [
+                  "email"
+                ]
+              },
+              "."
             ]
           }
         ]

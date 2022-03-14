@@ -12,8 +12,61 @@
         "value": "_blank"
       }
     ],
-    "id": "622f319c6e2393f9c83abc20",
+    "id": "622fa82f1ae8705265cca1b6",
     "instanceId": "622b239ed6f6c165cd175005",
-    "treeId": "622f319b6e2393f9c83abc1f"
+    "treeId": "622fa82e1ae8705265cca1b5"
+  },
+  {
+    "props": [
+      {
+        "id": "622f48d18e2b1626b6ff0f29",
+        "prop": "type",
+        "value": "email"
+      },
+      {
+        "id": "622f976e8e2b1626b6ff0f2a",
+        "prop": "name",
+        "value": "email"
+      }
+    ],
+    "id": "622fa82f1ae8705265cca1b7",
+    "instanceId": "6228f1891d8408d9c068f1d1",
+    "treeId": "622fa82e1ae8705265cca1b5"
+  },
+  {
+    "props": [
+      {
+        "id": "622fa4c3a548036ea6f7c5b2",
+        "prop": "href",
+        "value": "mailto:hi@webstudio.is"
+      }
+    ],
+    "id": "622fa82f1ae8705265cca1b8",
+    "instanceId": "622fa4d11c3110f34df1fc04",
+    "treeId": "622fa82e1ae8705265cca1b5"
+  },
+  {
+    "props": [
+      {
+        "id": "622fa4c3a548036ea6f7c5b2",
+        "prop": "override",
+        "value": "SignupSuccess"
+      }
+    ],
+    "id": "622fa82f1ae8705265cca1b9",
+    "instanceId": "622fa41b00ea8231d10bddd8",
+    "treeId": "622fa82e1ae8705265cca1b5"
+  },
+  {
+    "props": [
+      {
+        "id": "622fa4c3a548036ea6f7c5b2",
+        "prop": "override",
+        "value": "SignupForm"
+      }
+    ],
+    "id": "622fa82f1ae8705265cca1ba",
+    "instanceId": "6228f1581d8408d9c068f1cf",
+    "treeId": "622fa82e1ae8705265cca1b5"
   }
 ]
