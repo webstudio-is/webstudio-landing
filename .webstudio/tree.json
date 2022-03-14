@@ -1,8 +1,8 @@
 {
-  "id": "622b652995287e4f8f7b15e6",
+  "id": "622f319b6e2393f9c83abc1f",
   "root": {
     "component": "Box",
-    "id": "6226b9f535b065f575ffec3c",
+    "id": "root",
     "style": {
       "fontFamily": {
         "type": "keyword",
@@ -20,7 +20,7 @@
       },
       "color": {
         "type": "keyword",
-        "value": "rgba(102,102,102,1)"
+        "value": "#232323"
       },
       "minHeight": {
         "type": "unit",
@@ -31,31 +31,230 @@
         "type": "keyword",
         "value": "column"
       },
-      "backgroundColor": {
+      "maxWidth": {
+        "type": "unit",
+        "unit": "px",
+        "value": 700
+      },
+      "minWidth": {
+        "type": "unit",
+        "unit": "px",
+        "value": 200
+      },
+      "marginRight": {
         "type": "keyword",
-        "value": "rgba(240,10,10,0)"
+        "value": "auto"
+      },
+      "marginLeft": {
+        "type": "keyword",
+        "value": "auto"
+      },
+      "paddingRight": {
+        "type": "unit",
+        "unit": "px",
+        "value": 20
+      },
+      "paddingLeft": {
+        "type": "unit",
+        "unit": "px",
+        "value": 20
+      },
+      "display": {
+        "type": "keyword",
+        "value": "flex"
+      },
+      "rowGap": {
+        "type": "unit",
+        "unit": "em",
+        "value": 1
       }
     },
     "children": [
       {
-        "component": "Box",
-        "id": "622b451f8a64c8720815538e",
+        "component": "Heading",
+        "id": "6228f878d52c4d9e56202b81",
         "style": {},
         "children": [
+          "Webstudio"
+        ]
+      },
+      {
+        "component": "Paragraph",
+        "id": "62154c7b05b68d36fac42a9e",
+        "style": {
+          "marginBottom": {
+            "type": "unit",
+            "unit": "px",
+            "value": 0
+          },
+          "marginTop": {
+            "type": "unit",
+            "unit": "px",
+            "value": 0
+          },
+          "fontSize": {
+            "type": "unit",
+            "unit": "px",
+            "value": 16
+          }
+        },
+        "children": [
+          "Webstudio is an Open Source Visual Development Platform for Developers, Designers and cross-functional teams.",
+          "\n"
+        ]
+      },
+      {
+        "component": "Heading",
+        "id": "62154cad05b68d36fac42a9f",
+        "style": {
+          "fontSize": {
+            "type": "unit",
+            "unit": "px",
+            "value": 24
+          },
+          "lineHeight": {
+            "type": "unit",
+            "unit": "number",
+            "value": 1.3
+          },
+          "marginBottom": {
+            "type": "unit",
+            "unit": "em",
+            "value": 0
+          },
+          "marginTop": {
+            "type": "unit",
+            "unit": "px",
+            "value": 0
+          }
+        },
+        "children": [
+          "On the mission to democratize software creation on the web\n"
+        ]
+      },
+      {
+        "component": "Paragraph",
+        "id": "62154deb05b68d36fac42aa1",
+        "style": {
+          "lineHeight": {
+            "type": "unit",
+            "unit": "number",
+            "value": 1.3
+          },
+          "marginBottom": {
+            "type": "unit",
+            "unit": "px",
+            "value": 0
+          },
+          "marginTop": {
+            "type": "unit",
+            "unit": "px",
+            "value": 0
+          },
+          "fontSize": {
+            "type": "unit",
+            "unit": "px",
+            "value": 16
+          },
+          "display": {
+            "type": "keyword",
+            "value": "block"
+          }
+        },
+        "children": [
+          "A Nocode tool for building for the web today can be powerful. It doesn't have to be limited in what you can do with it. It doesn't have to produce slow sites, and it doesn't have to generate unreadable, one-way code.\n\nRemoving the need to write code and deal with the setup and infrastructure enables the next billion people to create software without programming knowledge.\n\nWebstudio's mission is to provide a powerful tool that enables visual development, integrates with the ecosystem over APIs, and integrates with your custom codebase.\n\nWebstudio will never impose a vendor lock-in: you will always own everything you created and be free to choose where and how you deploy it.\n\nDemocratizing software creation means for us lowering the barrier for creation, lowering the cost of maintenance as well as reducing or even removing the cost of keeping it running on the web\n"
+        ]
+      },
+      {
+        "component": "Box",
+        "id": "6228f3f16bf5bc91af5c7615",
+        "style": {
+          "display": {
+            "type": "keyword",
+            "value": "flex"
+          },
+          "flexDirection": {
+            "type": "keyword",
+            "value": "column"
+          },
+          "columnGap": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          },
+          "rowGap": {
+            "type": "unit",
+            "unit": "em",
+            "value": 1
+          },
+          "minHeight": {
+            "type": "unit",
+            "unit": "px",
+            "value": 0
+          }
+        },
+        "children": [
+          {
+            "component": "TextBlock",
+            "id": "6228f3d96bf5bc91af5c7614",
+            "style": {
+              "fontSize": {
+                "type": "unit",
+                "unit": "px",
+                "value": 16
+              }
+            },
+            "children": [
+              {
+                "component": "Bold",
+                "id": "622b23c6d6f6c165cd175008",
+                "style": {},
+                "children": [
+                  "Sounds exciting?"
+                ]
+              },
+              "\n",
+              "Subscribe and follow on Twitter ",
+              {
+                "component": "Link",
+                "id": "622b239ed6f6c165cd175005",
+                "style": {},
+                "children": [
+                  "@webstudiois"
+                ]
+              },
+              " "
+            ]
+          },
           {
             "component": "Form",
-            "id": "622b45238a64c8720815538f",
-            "style": {},
+            "id": "6228f1581d8408d9c068f1cf",
+            "style": {
+              "display": {
+                "type": "keyword",
+                "value": "flex"
+              },
+              "rowGap": {
+                "type": "unit",
+                "unit": "px",
+                "value": 0
+              },
+              "columnGap": {
+                "type": "unit",
+                "unit": "px",
+                "value": 10
+              }
+            },
             "children": [
               {
                 "component": "Input",
-                "id": "622b45348a64c87208155391",
+                "id": "6228f1891d8408d9c068f1d1",
                 "style": {},
                 "children": []
               },
               {
                 "component": "Button",
-                "id": "622b452d8a64c87208155390",
+                "id": "6228f203010493ef242d86f1",
                 "style": {},
                 "children": [
                   "Subscribe"
@@ -63,6 +262,43 @@
               }
             ]
           }
+        ]
+      },
+      {
+        "component": "Heading",
+        "id": "6215567f85eb55cfe714d73d",
+        "style": {
+          "fontSize": {
+            "type": "unit",
+            "unit": "px",
+            "value": 24
+          },
+          "lineHeight": {
+            "type": "unit",
+            "unit": "number",
+            "value": 1.3
+          },
+          "marginBottom": {
+            "type": "unit",
+            "unit": "em",
+            "value": 0
+          },
+          "marginTop": {
+            "type": "unit",
+            "unit": "px",
+            "value": 0
+          }
+        },
+        "children": [
+          "Export and synchronize data from Webstudio over API\n"
+        ]
+      },
+      {
+        "component": "Paragraph",
+        "id": "622e01a53850a4661b0a4cf4",
+        "style": {},
+        "children": [
+          "Test"
         ]
       }
     ]
