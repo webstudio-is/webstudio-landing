@@ -837,10 +837,10 @@
     meow "^10.1.2"
     node-fetch "^3.2.2"
 
-"@webstudio-is/sdk@^0.1.9":
-  version "0.1.9"
-  resolved "https://registry.yarnpkg.com/@webstudio-is/sdk/-/sdk-0.1.9.tgz#2d49b6fac51cc48e5d910db6ba45436bce2030af"
-  integrity sha512-CRxTQjj54V1b0ep+TlTNEwGYBwl3KYWiGMQiUpt48NdHOEueZXpXafWF0j3nZt3iKsbEIyrvtUkJGxpxeKcW+A==
+"@webstudio-is/sdk@^0.1.10":
+  version "0.1.10"
+  resolved "https://registry.yarnpkg.com/@webstudio-is/sdk/-/sdk-0.1.10.tgz#0e5199dbf9419d709b818480b943e1bcef326dc2"
+  integrity sha512-QFlLcDllM7JhTNmvtGKOQg+OXju6FoTn4gjdQNCNYJehviEmZDrYLheVFDNYz52bojnyqPAs69HHs30OAmO2Lw==
   dependencies:
     "@prisma/client" "^3.10.0"
     "@stitches/react" "^1.2.7"
