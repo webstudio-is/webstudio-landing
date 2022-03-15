@@ -1,5 +1,5 @@
 {
-  "id": "622fa82e1ae8705265cca1b5",
+  "id": "6230fe722a94769e140f2867",
   "root": {
     "component": "Box",
     "id": "root",
@@ -20,7 +20,7 @@
       },
       "color": {
         "type": "keyword",
-        "value": "#232323"
+        "value": "rgba(5,5,5,1)"
       },
       "minHeight": {
         "type": "unit",
@@ -29,12 +29,11 @@
       },
       "flexDirection": {
         "type": "keyword",
-        "value": "column"
+        "value": "row"
       },
       "maxWidth": {
-        "type": "unit",
-        "unit": "px",
-        "value": 700
+        "type": "keyword",
+        "value": "none"
       },
       "minWidth": {
         "type": "unit",
@@ -42,22 +41,24 @@
         "value": 200
       },
       "marginRight": {
-        "type": "keyword",
-        "value": "auto"
+        "type": "unit",
+        "unit": "px",
+        "value": 0
       },
       "marginLeft": {
-        "type": "keyword",
-        "value": "auto"
+        "type": "unit",
+        "unit": "px",
+        "value": 0
       },
       "paddingRight": {
         "type": "unit",
         "unit": "px",
-        "value": 20
+        "value": 0
       },
       "paddingLeft": {
         "type": "unit",
         "unit": "px",
-        "value": 20
+        "value": 0
       },
       "display": {
         "type": "keyword",
@@ -66,262 +67,1256 @@
       "rowGap": {
         "type": "unit",
         "unit": "em",
-        "value": 1
+        "value": 0
+      },
+      "paddingTop": {
+        "type": "unit",
+        "unit": "px",
+        "value": 0
+      },
+      "backgroundColor": {
+        "type": "keyword",
+        "value": "rgba(245,245,245,1)"
+      },
+      "width": {
+        "type": "keyword",
+        "value": "auto"
+      },
+      "height": {
+        "type": "keyword",
+        "value": "auto"
+      },
+      "alignItems": {
+        "type": "keyword",
+        "value": "center"
+      },
+      "justifyContent": {
+        "type": "keyword",
+        "value": "center"
+      },
+      "justifyItems": {
+        "type": "keyword",
+        "value": "center"
       }
     },
     "children": [
       {
-        "component": "Heading",
-        "id": "6228f878d52c4d9e56202b81",
-        "style": {},
-        "children": [
-          "Webstudio"
-        ]
-      },
-      {
-        "component": "Paragraph",
-        "id": "62154c7b05b68d36fac42a9e",
+        "component": "Box",
+        "id": "6230f40d9b118da42f65d3ed",
         "style": {
-          "marginBottom": {
+          "paddingBottom": {
             "type": "unit",
             "unit": "px",
-            "value": 0
-          },
-          "marginTop": {
-            "type": "unit",
-            "unit": "px",
-            "value": 0
-          },
-          "fontSize": {
-            "type": "unit",
-            "unit": "px",
-            "value": 16
-          }
-        },
-        "children": [
-          "Webstudio is an Open Source Visual Development Platform for Developers, Designers and cross-functional teams.",
-          "\n"
-        ]
-      },
-      {
-        "component": "Heading",
-        "id": "62154cad05b68d36fac42a9f",
-        "style": {
-          "fontSize": {
-            "type": "unit",
-            "unit": "px",
-            "value": 24
-          },
-          "lineHeight": {
-            "type": "unit",
-            "unit": "number",
-            "value": 1.3
-          },
-          "marginBottom": {
-            "type": "unit",
-            "unit": "em",
-            "value": 0
-          },
-          "marginTop": {
-            "type": "unit",
-            "unit": "px",
-            "value": 0
-          }
-        },
-        "children": [
-          "On the mission to democratize software creation on the web\n"
-        ]
-      },
-      {
-        "component": "Paragraph",
-        "id": "62154deb05b68d36fac42aa1",
-        "style": {
-          "lineHeight": {
-            "type": "unit",
-            "unit": "number",
-            "value": 1.3
-          },
-          "marginBottom": {
-            "type": "unit",
-            "unit": "px",
-            "value": 0
-          },
-          "marginTop": {
-            "type": "unit",
-            "unit": "px",
-            "value": 0
-          },
-          "fontSize": {
-            "type": "unit",
-            "unit": "px",
-            "value": 16
+            "value": 30
           },
           "display": {
             "type": "keyword",
             "value": "block"
-          }
-        },
-        "children": [
-          "A Nocode tool for building for the web today can be powerful. It doesn't have to be limited in what you can do with it. It doesn't have to produce slow sites, and it doesn't have to generate unreadable, one-way code.\n\nRemoving the need to write code and deal with the setup and infrastructure enables the next billion people to create software without programming knowledge.\n\nWebstudio's mission is to provide a powerful tool that enables visual development, integrates with the ecosystem over APIs, and integrates with your custom codebase.\n\nWebstudio will never impose a vendor lock-in: you will always own everything you created and be free to choose where and how you deploy it.\n\nDemocratizing software creation means for us lowering the barrier for creation, lowering the cost of maintenance as well as reducing or even removing the cost of keeping it running on the web\n"
-        ]
-      },
-      {
-        "component": "Box",
-        "id": "6228f3f16bf5bc91af5c7615",
-        "style": {
-          "display": {
-            "type": "keyword",
-            "value": "flex"
           },
           "flexDirection": {
             "type": "keyword",
             "value": "column"
           },
-          "columnGap": {
-            "type": "unit",
-            "unit": "number",
-            "value": 0
-          },
           "rowGap": {
             "type": "unit",
             "unit": "em",
-            "value": 1
+            "value": 0
           },
-          "minHeight": {
+          "marginLeft": {
             "type": "unit",
             "unit": "px",
             "value": 0
+          },
+          "maxWidth": {
+            "type": "unit",
+            "unit": "px",
+            "value": 700
+          },
+          "paddingTop": {
+            "type": "unit",
+            "unit": "px",
+            "value": 30
+          },
+          "fontSize": {
+            "type": "unit",
+            "unit": "px",
+            "value": 18
+          },
+          "paddingLeft": {
+            "type": "unit",
+            "unit": "px",
+            "value": 20
+          },
+          "paddingRight": {
+            "type": "unit",
+            "unit": "px",
+            "value": 20
           }
         },
         "children": [
           {
-            "component": "TextBlock",
-            "id": "6228f3d96bf5bc91af5c7614",
+            "component": "Heading",
+            "id": "6228f878d52c4d9e56202b81",
+            "style": {
+              "marginTop": {
+                "type": "unit",
+                "unit": "em",
+                "value": 2
+              },
+              "marginBottom": {
+                "type": "unit",
+                "unit": "px",
+                "value": 0
+              },
+              "fontSize": {
+                "type": "unit",
+                "unit": "px",
+                "value": 24
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              }
+            },
+            "children": [
+              "Webstudio"
+            ]
+          },
+          {
+            "component": "Paragraph",
+            "id": "62154c7b05b68d36fac42a9e",
+            "style": {
+              "marginBottom": {
+                "type": "unit",
+                "unit": "px",
+                "value": 18
+              },
+              "marginTop": {
+                "type": "unit",
+                "unit": "px",
+                "value": 18
+              },
+              "fontSize": {
+                "type": "unit",
+                "unit": "em",
+                "value": 1
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              }
+            },
+            "children": [
+              "Webstudio is an Open Source Visual Development Platform for Developers, Designers and cross-functional teams.",
+              "\n"
+            ]
+          },
+          {
+            "component": "Heading",
+            "id": "62154cad05b68d36fac42a9f",
             "style": {
               "fontSize": {
                 "type": "unit",
                 "unit": "px",
-                "value": 16
+                "value": 24
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              },
+              "marginBottom": {
+                "type": "unit",
+                "unit": "em",
+                "value": 0
+              },
+              "marginTop": {
+                "type": "unit",
+                "unit": "em",
+                "value": 2
               }
             },
             "children": [
-              {
-                "component": "Bold",
-                "id": "622b23c6d6f6c165cd175008",
-                "style": {},
-                "children": [
-                  "Sounds exciting?"
-                ]
-              },
-              "\n",
-              "Subscribe and follow on Twitter ",
-              {
-                "component": "Link",
-                "id": "622b239ed6f6c165cd175005",
-                "style": {},
-                "children": [
-                  "@webstudiois"
-                ]
-              },
-              " "
+              "On the mission to democratize software creation on the web\n"
             ]
           },
           {
-            "component": "Form",
-            "id": "6228f1581d8408d9c068f1cf",
+            "component": "Paragraph",
+            "id": "62154deb05b68d36fac42aa1",
+            "style": {
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              },
+              "marginBottom": {
+                "type": "unit",
+                "unit": "px",
+                "value": 18
+              },
+              "marginTop": {
+                "type": "unit",
+                "unit": "px",
+                "value": 18
+              },
+              "fontSize": {
+                "type": "unit",
+                "unit": "em",
+                "value": 1
+              },
+              "display": {
+                "type": "keyword",
+                "value": "block"
+              }
+            },
+            "children": [
+              "A Nocode tool for building for the web today can be powerful. It doesn't have to be limited in what you can do with it. It doesn't have to produce slow sites, and it doesn't have to generate unreadable, one-way code.\n\nRemoving the need to write code and deal with the setup and infrastructure enables the next billion people to create software without programming knowledge.\n\nWebstudio's mission is to provide a powerful tool that enables visual development, integrates with the ecosystem over APIs, and integrates with your custom codebase.\n\nWebstudio will never impose a vendor lock-in: you will always own everything you created and be free to choose where and how you deploy it.\n\nDemocratizing software creation means for us lowering the barrier for creation, lowering the cost of maintenance as well as reducing or even removing the hosting cost."
+            ]
+          },
+          {
+            "component": "Box",
+            "id": "6228f3f16bf5bc91af5c7615",
             "style": {
               "display": {
                 "type": "keyword",
                 "value": "flex"
               },
+              "flexDirection": {
+                "type": "keyword",
+                "value": "column"
+              },
+              "columnGap": {
+                "type": "unit",
+                "unit": "number",
+                "value": 0
+              },
               "rowGap": {
+                "type": "unit",
+                "unit": "em",
+                "value": 1
+              },
+              "minHeight": {
                 "type": "unit",
                 "unit": "px",
                 "value": 0
               },
-              "columnGap": {
+              "paddingTop": {
                 "type": "unit",
                 "unit": "px",
-                "value": 10
+                "value": 18
+              },
+              "paddingBottom": {
+                "type": "unit",
+                "unit": "px",
+                "value": 18
               }
             },
             "children": [
               {
-                "component": "Input",
-                "id": "6228f1891d8408d9c068f1d1",
-                "style": {},
-                "children": []
+                "component": "TextBlock",
+                "id": "6228f3d96bf5bc91af5c7614",
+                "style": {
+                  "fontSize": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 1
+                  },
+                  "lineHeight": {
+                    "type": "unit",
+                    "unit": "number",
+                    "value": 1.3
+                  }
+                },
+                "children": [
+                  {
+                    "component": "Bold",
+                    "id": "622b23c6d6f6c165cd175008",
+                    "style": {},
+                    "children": [
+                      "Sounds exciting?"
+                    ]
+                  },
+                  "\n",
+                  "Subscribe and follow on Twitter ",
+                  {
+                    "component": "Link",
+                    "id": "622b239ed6f6c165cd175005",
+                    "style": {
+                      "color": {
+                        "type": "keyword",
+                        "value": "rgba(5,111,236,1)"
+                      },
+                      "textDecorationColor": {
+                        "type": "keyword",
+                        "value": "rgba(5,111,236,1)"
+                      },
+                      "textDecorationLine": {
+                        "type": "keyword",
+                        "value": "underline"
+                      }
+                    },
+                    "children": [
+                      "@webstudiois"
+                    ]
+                  },
+                  " "
+                ]
               },
               {
-                "component": "Button",
-                "id": "6228f203010493ef242d86f1",
-                "style": {},
+                "component": "Form",
+                "id": "6228f1581d8408d9c068f1cf",
+                "style": {
+                  "display": {
+                    "type": "keyword",
+                    "value": "flex"
+                  },
+                  "rowGap": {
+                    "type": "unit",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  "columnGap": {
+                    "type": "unit",
+                    "unit": "px",
+                    "value": 10
+                  }
+                },
                 "children": [
-                  "Subscribe"
+                  {
+                    "component": "Input",
+                    "id": "6228f1891d8408d9c068f1d1",
+                    "style": {},
+                    "children": []
+                  },
+                  {
+                    "component": "Button",
+                    "id": "6228f203010493ef242d86f1",
+                    "style": {},
+                    "children": [
+                      "Subscribe"
+                    ]
+                  }
+                ]
+              },
+              {
+                "component": "Paragraph",
+                "id": "622fa41b00ea8231d10bddd8",
+                "style": {
+                  "fontSize": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 1
+                  },
+                  "lineHeight": {
+                    "type": "unit",
+                    "unit": "number",
+                    "value": 1.3
+                  },
+                  "marginBottom": {
+                    "type": "unit",
+                    "unit": "px",
+                    "value": 0
+                  }
+                },
+                "children": [
+                  "Thank you for your interest! Follow us on ",
+                  {
+                    "component": "Link",
+                    "id": "6230bb1decd6c567fd796106",
+                    "style": {
+                      "color": {
+                        "type": "keyword",
+                        "value": "rgba(5,111,236,1)"
+                      }
+                    },
+                    "children": [
+                      "twitter"
+                    ]
+                  },
+                  " or say hi per ",
+                  {
+                    "component": "Link",
+                    "id": "6230bb4eecd6c567fd796109",
+                    "style": {
+                      "color": {
+                        "type": "keyword",
+                        "value": "rgba(5,111,236,1)"
+                      }
+                    },
+                    "children": [
+                      "email"
+                    ]
+                  },
+                  "!"
                 ]
               }
             ]
           },
           {
-            "component": "Paragraph",
-            "id": "622fa41b00ea8231d10bddd8",
+            "component": "Heading",
+            "id": "6215567f85eb55cfe714d73d",
             "style": {
               "fontSize": {
                 "type": "unit",
                 "unit": "px",
-                "value": 16
+                "value": 24
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              },
+              "marginBottom": {
+                "type": "unit",
+                "unit": "em",
+                "value": 0
+              },
+              "marginTop": {
+                "type": "unit",
+                "unit": "em",
+                "value": 2
               }
             },
             "children": [
-              "Thank you for your interest! Feel free to follow us on twitter or say hi per ",
+              "Export and synchronize data from Webstudio",
+              "\n"
+            ]
+          },
+          {
+            "component": "Paragraph",
+            "id": "622e01a53850a4661b0a4cf4",
+            "style": {
+              "fontSize": {
+                "type": "unit",
+                "unit": "em",
+                "value": 1
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              }
+            },
+            "children": [
+              "Webstudio produces three types of data and enables access to it over ",
+              "API: components tree, styles, and ",
               {
                 "component": "Link",
-                "id": "622fa4d11c3110f34df1fc04",
-                "style": {},
+                "id": "6230d9cc9122509e462ee748",
+                "style": {
+                  "color": {
+                    "type": "keyword",
+                    "value": "rgba(5,111,236,1)"
+                  }
+                },
                 "children": [
-                  "email"
+                  "GraphQL"
+                ]
+              },
+              " bindings. Additionally, it provides primitive components you can install via ",
+              {
+                "component": "Link",
+                "id": "6230d988a7e3cb54f414e09c",
+                "style": {
+                  "color": {
+                    "type": "keyword",
+                    "value": "rgba(5,111,236,1)"
+                  }
+                },
+                "children": [
+                  "npm"
+                ]
+              },
+              " in your codebase.",
+              "\n",
+              "\n",
+              "Webstudio will generate a ",
+              {
+                "component": "Link",
+                "id": "6230bd2653dc2d48c7c6243e",
+                "style": {
+                  "color": {
+                    "type": "keyword",
+                    "value": "rgba(5,111,236,1)"
+                  }
+                },
+                "children": [
+                  "Remix"
+                ]
+              },
+              " app for you out of the box, or you can choose to integrate primitive components and data from Webstudio with your custom code.",
+              "\n",
+              "\n",
+              "You can use a single component, one page, or the entire site from Webstudio because everything is a React component.",
+              "\n",
+              "\n",
+              "There is no \"eject\". You can synchronize the data any time and keep collaborating between custom code and Webstudio."
+            ]
+          },
+          {
+            "component": "Heading",
+            "id": "6230da269122509e462ee774",
+            "style": {
+              "fontSize": {
+                "type": "unit",
+                "unit": "px",
+                "value": 24
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              },
+              "marginTop": {
+                "type": "unit",
+                "unit": "em",
+                "value": 2
+              },
+              "marginBottom": {
+                "type": "unit",
+                "unit": "px",
+                "value": 0
+              }
+            },
+            "children": [
+              "",
+              "Deploy anywhere",
+              ""
+            ]
+          },
+          {
+            "component": "Paragraph",
+            "id": "6230e0f90dba0c391a1ecdf5",
+            "style": {
+              "fontSize": {
+                "type": "unit",
+                "unit": "em",
+                "value": 1
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              }
+            },
+            "children": [
+              "You can choose to deploy with one click in a hosted version directly from Webstudio. You can choose to generate a Remix app and deploy it to any other service like Vercel, Netlify, AWS, etc. yourself."
+            ]
+          },
+          {
+            "component": "Heading",
+            "id": "6230da4c9122509e462ee7a5",
+            "style": {
+              "fontSize": {
+                "type": "unit",
+                "unit": "px",
+                "value": 24
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              },
+              "marginTop": {
+                "type": "unit",
+                "unit": "em",
+                "value": 2
+              },
+              "marginBottom": {
+                "type": "unit",
+                "unit": "px",
+                "value": 0
+              }
+            },
+            "children": [
+              "Ecosystem integration over GraphQL APIs"
+            ]
+          },
+          {
+            "component": "Paragraph",
+            "id": "6230e17696358f7c8fa739f1",
+            "style": {
+              "fontSize": {
+                "type": "unit",
+                "unit": "em",
+                "value": 1
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              }
+            },
+            "children": [
+              "Webstudio doesn't have a built-in CMS or E-Commerce. Instead, it has a UI to create API bindings.",
+              "\n",
+              "\n",
+              "You can add a ",
+              {
+                "component": "Link",
+                "id": "6230e8ad7da11e570e9e663f",
+                "style": {
+                  "color": {
+                    "type": "keyword",
+                    "value": "rgba(5,111,236,1)"
+                  }
+                },
+                "children": [
+                  "GraphQL"
+                ]
+              },
+              " ",
+              " binding to any component and choose which endpoint and data properties to bind to each component property.",
+              "\n",
+              "\n",
+              "Webstudio will optimize and cache data for you, making as few and as small requests as possible.",
+              "\n",
+              "\n",
+              "With this foundation, you can use any headless CMS or E-Commerce. For example, you can build a site or app that integrates ",
+              {
+                "component": "Link",
+                "id": "6230e6c11f320907cc0aff78",
+                "style": {
+                  "color": {
+                    "type": "keyword",
+                    "value": "rgba(5,111,236,1)"
+                  }
+                },
+                "children": [
+                  "Shopify"
+                ]
+              },
+              " for online shop or ",
+              {
+                "component": "Link",
+                "id": "6230e77d2606eb164128a774",
+                "style": {
+                  "color": {
+                    "type": "keyword",
+                    "value": "rgba(5,111,236,1)"
+                  }
+                },
+                "children": [
+                  "GraphCMS"
+                ]
+              },
+              " and ",
+              {
+                "component": "Link",
+                "id": "6230e8568f680a597d125de0",
+                "style": {
+                  "color": {
+                    "type": "keyword",
+                    "value": "rgba(5,111,236,1)"
+                  }
+                },
+                "children": [
+                  "Contentful"
+                ]
+              },
+              " for CMS content."
+            ]
+          },
+          {
+            "component": "Heading",
+            "id": "6230dcc345867d509f5dd46e",
+            "style": {
+              "fontSize": {
+                "type": "unit",
+                "unit": "px",
+                "value": 24
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              },
+              "marginTop": {
+                "type": "unit",
+                "unit": "em",
+                "value": 2
+              },
+              "marginBottom": {
+                "type": "unit",
+                "unit": "px",
+                "value": 0
+              }
+            },
+            "children": [
+              "",
+              "Design Principles embracing the web foundation"
+            ]
+          },
+          {
+            "component": "Paragraph",
+            "id": "6230e22c2383ed51e4baafd2",
+            "style": {
+              "fontSize": {
+                "type": "unit",
+                "unit": "em",
+                "value": 1
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              }
+            },
+            "children": [
+              "Webstudio embraces CSS and doesn't abstract away its properties or values. You can use the same concepts as if you write regular CSS, but visually. You will learn CSS by playing with the UI!",
+              "\n",
+              "\n",
+              "No selectors - no CSS specificity conflicts. You can select anything from the canvas.",
+              "\n",
+              "\n",
+              "Any component can be overwritten or wrapped by a custom code component.",
+              "\n",
+              "\n",
+              "Data source agnostic - create bindings for any ",
+              {
+                "component": "Link",
+                "id": "6230f0bdb54a80105f732264",
+                "style": {
+                  "color": {
+                    "type": "keyword",
+                    "value": "rgba(5,111,236,1)"
+                  }
+                },
+                "children": [
+                  "GraphQL"
+                ]
+              },
+              " API to any component, visually.",
+              "\n",
+              "\n",
+              "Embrace the web foundation on top of a distributed infrastructure, philosophy brought to us by ",
+              {
+                "component": "Link",
+                "id": "6230e927b54a80105f731fc3",
+                "style": {
+                  "color": {
+                    "type": "keyword",
+                    "value": "rgba(5,111,236,1)"
+                  }
+                },
+                "children": [
+                  "Remix"
                 ]
               },
               "."
             ]
+          },
+          {
+            "component": "Heading",
+            "id": "6230dda00dba0c391a1ecc2a",
+            "style": {
+              "marginTop": {
+                "type": "unit",
+                "unit": "em",
+                "value": 2
+              },
+              "marginBottom": {
+                "type": "unit",
+                "unit": "px",
+                "value": 0
+              },
+              "fontSize": {
+                "type": "unit",
+                "unit": "px",
+                "value": 24
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              }
+            },
+            "children": [
+              "Accessibility has the highest priority"
+            ]
+          },
+          {
+            "component": "Paragraph",
+            "id": "6230e2652383ed51e4bab002",
+            "style": {
+              "fontSize": {
+                "type": "unit",
+                "unit": "em",
+                "value": 1
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              }
+            },
+            "children": [
+              "Accessibility is our priority number one. Our commitment is to ensure the highest possible accessibility standard in Webstudio UI and produced sites or web apps.",
+              "\n",
+              "\n",
+              "Webstudio itself is already built using an accessible components foundation - ",
+              {
+                "component": "Link",
+                "id": "6230e94cb54a80105f731feb",
+                "style": {
+                  "color": {
+                    "type": "keyword",
+                    "value": "rgba(5,111,236,1)"
+                  }
+                },
+                "children": [
+                  "Radix UI"
+                ]
+              },
+              ". On top of that, we are committed to guiding the user towards fully accessible content, validating their work in real-time and identifying problems, pushing them to create accessible content."
+            ]
+          },
+          {
+            "component": "Heading",
+            "id": "6230e2762383ed51e4bab038",
+            "style": {
+              "marginTop": {
+                "type": "unit",
+                "unit": "em",
+                "value": 2
+              },
+              "marginBottom": {
+                "type": "unit",
+                "unit": "px",
+                "value": 0
+              },
+              "fontSize": {
+                "type": "unit",
+                "unit": "px",
+                "value": 24
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              }
+            },
+            "children": [
+              "Performance is our foundation"
+            ]
+          },
+          {
+            "component": "Paragraph",
+            "id": "6230e2872383ed51e4bab068",
+            "style": {
+              "fontSize": {
+                "type": "unit",
+                "unit": "em",
+                "value": 1
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              }
+            },
+            "children": [
+              "We want you to deploy your ",
+              {
+                "component": "Link",
+                "id": "6230e96ab54a80105f732000",
+                "style": {
+                  "color": {
+                    "type": "keyword",
+                    "value": "rgba(5,111,236,1)"
+                  }
+                },
+                "children": [
+                  "serverless"
+                ]
+              },
+              " app to the ",
+              {
+                "component": "Link",
+                "id": "6230e986b54a80105f73205a",
+                "style": {
+                  "color": {
+                    "type": "keyword",
+                    "value": "rgba(5,111,236,1)"
+                  }
+                },
+                "children": [
+                  "edge"
+                ]
+              },
+              " with just one click. Running on the edge means your code runs on a globally distributed server infrastructure, close to your users.",
+              "\n",
+              "\n",
+              "Furthermore, thanks to ",
+              {
+                "component": "Link",
+                "id": "6230e9adb54a80105f73211c",
+                "style": {
+                  "color": {
+                    "type": "keyword",
+                    "value": "rgba(5,111,236,1)"
+                  }
+                },
+                "children": [
+                  "Remix"
+                ]
+              },
+              " your app runtime won’t even depend on Node and can be deployed virtually anywhere, for example, Cloudflare Workers or Vercel Serverless Function.",
+              "\n",
+              "\n",
+              "Remix also ensures the highest possible Frontend performance by lazy loading and progressive enhancement. Webstudio takes full advantage of that."
+            ]
+          },
+          {
+            "component": "Heading",
+            "id": "6230e2aa2383ed51e4bab0c6",
+            "style": {
+              "marginTop": {
+                "type": "unit",
+                "unit": "em",
+                "value": 2
+              },
+              "marginBottom": {
+                "type": "unit",
+                "unit": "px",
+                "value": 0
+              },
+              "fontSize": {
+                "type": "unit",
+                "unit": "px",
+                "value": 24
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              }
+            },
+            "children": [
+              "Power is in our DNA"
+            ]
+          },
+          {
+            "component": "Paragraph",
+            "id": "6230e2b62383ed51e4bab109",
+            "style": {
+              "fontSize": {
+                "type": "unit",
+                "unit": "em",
+                "value": 1
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              }
+            },
+            "children": [
+              "We build the tool to leverage the web platform and give that power to the user.\n\nNo walled garden, no artificial simplification or limitation. If something is possible on the web - it should be possible with Webstudio."
+            ]
+          },
+          {
+            "component": "Heading",
+            "id": "6230e2bf2383ed51e4bab14d",
+            "style": {
+              "marginTop": {
+                "type": "unit",
+                "unit": "em",
+                "value": 2
+              },
+              "marginBottom": {
+                "type": "unit",
+                "unit": "px",
+                "value": 0
+              },
+              "fontSize": {
+                "type": "unit",
+                "unit": "px",
+                "value": 24
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              }
+            },
+            "children": [
+              "Extensibility - everything is a component"
+            ]
+          },
+          {
+            "component": "Paragraph",
+            "id": "6230e2c92383ed51e4bab194",
+            "style": {
+              "fontSize": {
+                "type": "unit",
+                "unit": "em",
+                "value": 1
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              }
+            },
+            "children": [
+              "A page is a component, a link is a component, a text is a component.",
+              "\n",
+              "\n",
+              "A component can be wrapped in a new component or replaced. You can extend the functionality of any visual component created in Webstudio with ",
+              {
+                "component": "Bold",
+                "id": "6230ea1ab54a80105f732124",
+                "style": {},
+                "children": [
+                  "any"
+                ]
+              },
+              " custom logic, or you can choose to replace it entirely."
+            ]
+          },
+          {
+            "component": "Heading",
+            "id": "6230e2ea2383ed51e4bab226",
+            "style": {
+              "marginTop": {
+                "type": "unit",
+                "unit": "em",
+                "value": 2
+              },
+              "marginBottom": {
+                "type": "unit",
+                "unit": "px",
+                "value": 0
+              },
+              "fontSize": {
+                "type": "unit",
+                "unit": "px",
+                "value": 24
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              }
+            },
+            "children": [
+              "Real-time collaboration for cross-functional teams"
+            ]
+          },
+          {
+            "component": "Paragraph",
+            "id": "6230e2f32383ed51e4bab25a",
+            "style": {
+              "fontSize": {
+                "type": "unit",
+                "unit": "em",
+                "value": 1
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              }
+            },
+            "children": [
+              "We envision a cross-functional team collaboration between designers, engineers, product owners, and customers in real-time. Any of them can adjust components visually and shorten the communication loop between all parties.\n\nFurthermore, each of them can work on a different version of the same product, validate their assumptions and merge their version when consensus is reached."
+            ]
+          },
+          {
+            "component": "Heading",
+            "id": "6230e33b2383ed51e4bab353",
+            "style": {
+              "marginTop": {
+                "type": "unit",
+                "unit": "em",
+                "value": 2
+              },
+              "marginBottom": {
+                "type": "unit",
+                "unit": "px",
+                "value": 0
+              },
+              "fontSize": {
+                "type": "unit",
+                "unit": "px",
+                "value": 24
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              }
+            },
+            "children": [
+              "A sustainable business model on top of Open Source"
+            ]
+          },
+          {
+            "component": "Paragraph",
+            "id": "6230e3442383ed51e4bab39f",
+            "style": {
+              "fontSize": {
+                "type": "unit",
+                "unit": "em",
+                "value": 1
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              }
+            },
+            "children": [
+              "If everything is Open Source and free, how can we sustain the development?\n\nWebstudio is free forever for all non-profits and any personal or commercial usage by individuals. We will also have a cloud version that is far more capable than comparable products and free of charge.\n\nOur business model is based on:\n\n1. A cloud version of the Webstudio for for-profit companies\n2. An on-premises installation of Webstudio for for-profit companies\n3. Premium support"
+            ]
+          },
+          {
+            "component": "Heading",
+            "id": "6230e3502383ed51e4bab3c7",
+            "style": {
+              "marginTop": {
+                "type": "unit",
+                "unit": "em",
+                "value": 2
+              },
+              "marginBottom": {
+                "type": "unit",
+                "unit": "px",
+                "value": 0
+              },
+              "fontSize": {
+                "type": "unit",
+                "unit": "px",
+                "value": 24
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              }
+            },
+            "children": [
+              "For developers"
+            ]
+          },
+          {
+            "component": "Paragraph",
+            "id": "6230e3582383ed51e4bab3f0",
+            "style": {
+              "fontSize": {
+                "type": "unit",
+                "unit": "em",
+                "value": 1
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              }
+            },
+            "children": [
+              "What if you could avoid writing declarative render components and CSS in code completely?\n\nWhat if you could create the visual components in a visual tool?\n\nWhat if you could play with CSS like you do in dev tools and make it synchronize with your production code?\n\nWell, that's the goal with Webstudio.\n\nMore than that, designers and product owners on your team can apply the changes without creating tickets you have to work on.\n\nThe goal is to let you focus on business logic and custom rendering logic that requires code and remove pixel-moving tasks from your to-do list."
+            ]
+          },
+          {
+            "component": "Heading",
+            "id": "6230e3672383ed51e4bab46a",
+            "style": {
+              "marginTop": {
+                "type": "unit",
+                "unit": "em",
+                "value": 2
+              },
+              "marginBottom": {
+                "type": "unit",
+                "unit": "px",
+                "value": 0
+              },
+              "fontSize": {
+                "type": "unit",
+                "unit": "px",
+                "value": 24
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              }
+            },
+            "children": [
+              "For designers"
+            ]
+          },
+          {
+            "component": "Paragraph",
+            "id": "6230e3722383ed51e4bab4be",
+            "style": {
+              "fontSize": {
+                "type": "unit",
+                "unit": "em",
+                "value": 1
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              }
+            },
+            "children": [
+              "What if you could change any color in the system, and it would automatically get applied to the entire product?\n\nWhat if you could change any layout and any other CSS property in the design and deploy it to production yourself?\n\nThis is the full power of visual development instead of a developer handoff."
+            ]
+          },
+          {
+            "component": "Heading",
+            "id": "6230e37c2383ed51e4bab514",
+            "style": {
+              "marginTop": {
+                "type": "unit",
+                "unit": "em",
+                "value": 2
+              },
+              "marginBottom": {
+                "type": "unit",
+                "unit": "px",
+                "value": 0
+              },
+              "fontSize": {
+                "type": "unit",
+                "unit": "px",
+                "value": 24
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              }
+            },
+            "children": [
+              "For everyone"
+            ]
+          },
+          {
+            "component": "Paragraph",
+            "id": "6230e3882383ed51e4bab56c",
+            "style": {
+              "fontSize": {
+                "type": "unit",
+                "unit": "em",
+                "value": 1
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              }
+            },
+            "children": [
+              "We want Webstudio to be useful to everyone. No matter what your role or skills are - you should be able to use it. Our mission is to democratize software creation for the web."
+            ]
           }
-        ]
-      },
-      {
-        "component": "Heading",
-        "id": "6215567f85eb55cfe714d73d",
-        "style": {
-          "fontSize": {
-            "type": "unit",
-            "unit": "px",
-            "value": 24
-          },
-          "lineHeight": {
-            "type": "unit",
-            "unit": "number",
-            "value": 1.3
-          },
-          "marginBottom": {
-            "type": "unit",
-            "unit": "em",
-            "value": 0
-          },
-          "marginTop": {
-            "type": "unit",
-            "unit": "px",
-            "value": 0
-          }
-        },
-        "children": [
-          "Export and synchronize data from Webstudio over API\n"
-        ]
-      },
-      {
-        "component": "Paragraph",
-        "id": "622e01a53850a4661b0a4cf4",
-        "style": {},
-        "children": [
-          "Test"
         ]
       }
     ]

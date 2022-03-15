@@ -5,9 +5,16 @@ import {
   WrapperComponent,
   type WrapperComponentProps,
 } from "@webstudio-is/sdk";
-import { useLoaderData, type ActionFunction } from "remix";
+import { useLoaderData, type ActionFunction, type MetaFunction } from "remix";
 import { subscribe } from "~/signup/subscribe";
 import { SignupForm, SignupSuccess } from "~/signup/components";
+
+export const meta: MetaFunction = () => {
+  return {
+    title:
+      "Webstudio is an Open Source Visual Development Platform for Developers, Designers and cross-functional teams.",
+  };
+};
 
 export { loader };
 
