@@ -17,6 +17,8 @@ export const meta: MetaFunction = () => {
   return {
     title:
       "Webstudio is an Open Source Visual Development Platform for Developers, Designers and cross-functional teams.",
+    description:
+      "Webstudio is an open NoCode tool with no vendor lock-in. It lets you export components and integrate them with your custom codebase.",
   };
 };
 
