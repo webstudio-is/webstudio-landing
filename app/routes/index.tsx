@@ -1,11 +1,15 @@
 import {
   Root,
-  loader,
   useUserProps,
   WrapperComponent,
   type WrapperComponentProps,
 } from "@webstudio-is/sdk";
-import { useLoaderData, type ActionFunction, type MetaFunction } from "remix";
+import {
+  useLoaderData,
+  type ActionFunction,
+  type MetaFunction,
+  type LoaderFunction,
+} from "remix";
 import { subscribe } from "~/signup/subscribe";
 import { SignupForm, SignupSuccess } from "~/signup/components";
 
@@ -16,7 +20,9 @@ export const meta: MetaFunction = () => {
   };
 };
 
-export { loader };
+export const loader: LoaderFunction = async () => {
+  return await import(".webstudio");
+};
 
 export const action: ActionFunction = async ({ request }) => {
   const formData = await request.formData();

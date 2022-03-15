@@ -13,7 +13,7 @@
     "paths": {
       "~/*": ["./app/*"]
     },
-
+    "module": "ES2020",
     // Remix takes care of building everything in `remix build`.
     "noEmit": true
   }

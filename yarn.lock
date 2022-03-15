@@ -827,20 +827,20 @@
   dependencies:
     web-streams-polyfill "^3.1.1"
 
-"@webstudio-is/cli@^0.1.3":
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/@webstudio-is/cli/-/cli-0.1.3.tgz#526932eb2bd222538f88f8bb674c8a1c5bd329d2"
-  integrity sha512-1UhmrBrjmqgfoYBWXUZ4TOHDu2WgH3FtzJmlU1rKjBsSsv17d1rGOXW77AyiILNYm3s6eJkQ8HcdsbEUfScGFw==
+"@webstudio-is/cli@^0.1.4":
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/@webstudio-is/cli/-/cli-0.1.4.tgz#168a4b8a9f7f5361933bf77655e8c1e68da1ffb3"
+  integrity sha512-ikb1fgLP2hil/QnTjm/GWsmTnSZsjFiTnz+3VHCagIS+3StRjd21xtVUtqd5pD1lpQs6pNxXCKXXECxH0FJFQQ==
   dependencies:
     fs-extra "^10.0.1"
     inquirer "^8.2.1"
     meow "^10.1.2"
     node-fetch "^3.2.2"
 
-"@webstudio-is/sdk@0.1.6":
-  version "0.1.6"
-  resolved "https://registry.yarnpkg.com/@webstudio-is/sdk/-/sdk-0.1.6.tgz#88f4eb1ba6268308aac5708da335f023a9131603"
-  integrity sha512-jTvHk51+F7cwf3m3cDS4CM+2qFHui3XIo0MU5URnYZM3gmIwZI8+YMOi37XoDV2/0gb7xrao2eT/uFO+rmKJIA==
+"@webstudio-is/sdk@^0.1.9":
+  version "0.1.9"
+  resolved "https://registry.yarnpkg.com/@webstudio-is/sdk/-/sdk-0.1.9.tgz#2d49b6fac51cc48e5d910db6ba45436bce2030af"
+  integrity sha512-CRxTQjj54V1b0ep+TlTNEwGYBwl3KYWiGMQiUpt48NdHOEueZXpXafWF0j3nZt3iKsbEIyrvtUkJGxpxeKcW+A==
   dependencies:
     "@prisma/client" "^3.10.0"
     "@stitches/react" "^1.2.7"
