@@ -1,5 +1,5 @@
 {
-  "id": "6230fe722a94769e140f2867",
+  "id": "623123f9c19fb90253f653b6",
   "root": {
     "component": "Box",
     "id": "root",
@@ -135,7 +135,7 @@
           "paddingTop": {
             "type": "unit",
             "unit": "px",
-            "value": 30
+            "value": 50
           },
           "fontSize": {
             "type": "unit",
@@ -155,33 +155,63 @@
         },
         "children": [
           {
-            "component": "Heading",
-            "id": "6228f878d52c4d9e56202b81",
+            "component": "Link",
+            "id": "62311c912f049ea39db7d784",
             "style": {
+              "width": {
+                "type": "unit",
+                "unit": "px",
+                "value": 70
+              },
+              "height": {
+                "type": "unit",
+                "unit": "px",
+                "value": 70
+              },
+              "backgroundImage": {
+                "type": "keyword",
+                "value": "url(/logo.svg)"
+              },
+              "backgroundRepeat": {
+                "type": "keyword",
+                "value": "no-repeat"
+              },
+              "backgroundSize": {
+                "type": "keyword",
+                "value": "contain"
+              },
+              "backgroundPositionX": {
+                "type": "keyword",
+                "value": "center"
+              },
+              "backgroundPositionY": {
+                "type": "keyword",
+                "value": "center"
+              },
+              "marginLeft": {
+                "type": "keyword",
+                "value": "auto"
+              },
+              "marginRight": {
+                "type": "keyword",
+                "value": "auto"
+              },
               "marginTop": {
                 "type": "unit",
-                "unit": "em",
-                "value": 2
+                "unit": "px",
+                "value": 0
               },
               "marginBottom": {
                 "type": "unit",
                 "unit": "px",
                 "value": 0
               },
-              "fontSize": {
-                "type": "unit",
-                "unit": "px",
-                "value": 24
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
+              "display": {
+                "type": "keyword",
+                "value": "block"
               }
             },
-            "children": [
-              "Webstudio"
-            ]
+            "children": []
           },
           {
             "component": "Paragraph",
@@ -195,7 +225,7 @@
               "marginTop": {
                 "type": "unit",
                 "unit": "px",
-                "value": 18
+                "value": 40
               },
               "fontSize": {
                 "type": "unit",
