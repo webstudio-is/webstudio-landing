@@ -1,5 +1,5 @@
 {
-  "id": "623129bdc19fb90253f65481",
+  "id": "62312ab2c19fb90253f654a0",
   "root": {
     "component": "Box",
     "id": "root",
@@ -434,7 +434,7 @@
                   "columnGap": {
                     "type": "unit",
                     "unit": "px",
-                    "value": 10
+                    "value": 0
                   }
                 },
                 "children": [
@@ -520,6 +520,11 @@
                         "type": "unit",
                         "unit": "px",
                         "value": 4
+                      },
+                      "marginRight": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 10
                       }
                     },
                     "children": []
