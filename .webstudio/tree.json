@@ -1,5 +1,5 @@
 {
-  "id": "623123f9c19fb90253f653b6",
+  "id": "623129bdc19fb90253f65481",
   "root": {
     "component": "Box",
     "id": "root",
@@ -97,6 +97,30 @@
       "justifyItems": {
         "type": "keyword",
         "value": "center"
+      },
+      "borderLeftWidth": {
+        "type": "unit",
+        "unit": "number",
+        "value": 0
+      },
+      "borderBottomWidth": {
+        "type": "unit",
+        "unit": "number",
+        "value": 0
+      },
+      "borderRightWidth": {
+        "type": "unit",
+        "unit": "number",
+        "value": 0
+      },
+      "borderTopWidth": {
+        "type": "unit",
+        "unit": "number",
+        "value": 0
+      },
+      "boxShadow": {
+        "type": "keyword",
+        "value": "inset 0 0 0 1px #d7dbdf"
       }
     },
     "children": [
@@ -404,7 +428,7 @@
                   },
                   "rowGap": {
                     "type": "unit",
-                    "unit": "px",
+                    "unit": "em",
                     "value": 0
                   },
                   "columnGap": {
@@ -417,13 +441,148 @@
                   {
                     "component": "Input",
                     "id": "6228f1891d8408d9c068f1d1",
-                    "style": {},
+                    "style": {
+                      "borderLeftWidth": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 0
+                      },
+                      "borderBottomWidth": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 0
+                      },
+                      "borderRightWidth": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 0
+                      },
+                      "borderTopWidth": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 0
+                      },
+                      "paddingLeft": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 5
+                      },
+                      "paddingRight": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 5
+                      },
+                      "paddingTop": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 0
+                      },
+                      "paddingBottom": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 0
+                      },
+                      "width": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 150
+                      },
+                      "height": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 25
+                      },
+                      "boxShadow": {
+                        "type": "keyword",
+                        "value": "inset 0 0 0 1px #d7dbdf"
+                      },
+                      "lineHeight": {
+                        "type": "unit",
+                        "unit": "number",
+                        "value": 1
+                      },
+                      "borderBottomRightRadius": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 4
+                      },
+                      "borderBottomLeftRadius": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 4
+                      },
+                      "borderTopRightRadius": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 4
+                      },
+                      "borderTopLeftRadius": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 4
+                      }
+                    },
                     "children": []
                   },
                   {
                     "component": "Button",
                     "id": "6228f203010493ef242d86f1",
-                    "style": {},
+                    "style": {
+                      "boxShadow": {
+                        "type": "keyword",
+                        "value": "inset 0 0 0 1px #d7dbdf"
+                      },
+                      "borderBottomRightRadius": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 4
+                      },
+                      "borderBottomLeftRadius": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 4
+                      },
+                      "borderTopRightRadius": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 4
+                      },
+                      "borderTopLeftRadius": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 4
+                      },
+                      "paddingLeft": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 10
+                      },
+                      "paddingRight": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 10
+                      },
+                      "borderTopWidth": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 0
+                      },
+                      "borderRightWidth": {
+                        "type": "unit",
+                        "unit": "number",
+                        "value": 0
+                      },
+                      "borderBottomWidth": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 0
+                      },
+                      "borderLeftWidth": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 0
+                      }
+                    },
                     "children": [
                       "Subscribe"
                     ]

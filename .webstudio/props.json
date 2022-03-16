@@ -12,9 +12,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623123fac19fb90253f653b7",
+    "id": "623129bec19fb90253f65482",
     "instanceId": "622b239ed6f6c165cd175005",
-    "treeId": "623123f9c19fb90253f653b6"
+    "treeId": "623129bdc19fb90253f65481"
   },
   {
     "props": [
@@ -29,9 +29,9 @@
         "value": "email"
       }
     ],
-    "id": "623123fac19fb90253f653b8",
+    "id": "623129bec19fb90253f65483",
     "instanceId": "6228f1891d8408d9c068f1d1",
-    "treeId": "623123f9c19fb90253f653b6"
+    "treeId": "623129bdc19fb90253f65481"
   },
   {
     "props": [
@@ -41,9 +41,9 @@
         "value": "SignupSuccess"
       }
     ],
-    "id": "623123fac19fb90253f653b9",
+    "id": "623129bec19fb90253f65484",
     "instanceId": "622fa41b00ea8231d10bddd8",
-    "treeId": "623123f9c19fb90253f653b6"
+    "treeId": "623129bdc19fb90253f65481"
   },
   {
     "props": [
@@ -53,9 +53,9 @@
         "value": "SignupForm"
       }
     ],
-    "id": "623123fac19fb90253f653ba",
+    "id": "623129bec19fb90253f65485",
     "instanceId": "6228f1581d8408d9c068f1cf",
-    "treeId": "623123f9c19fb90253f653b6"
+    "treeId": "623129bdc19fb90253f65481"
   },
   {
     "props": [
@@ -70,9 +70,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623123fac19fb90253f653bb",
+    "id": "623129bec19fb90253f65486",
     "instanceId": "6230bb1decd6c567fd796106",
-    "treeId": "623123f9c19fb90253f653b6"
+    "treeId": "623129bdc19fb90253f65481"
   },
   {
     "props": [
@@ -82,9 +82,9 @@
         "value": "mailto:hi@webstudio.is"
       }
     ],
-    "id": "623123fac19fb90253f653bc",
+    "id": "623129bec19fb90253f65487",
     "instanceId": "6230bb4eecd6c567fd796109",
-    "treeId": "623123f9c19fb90253f653b6"
+    "treeId": "623129bdc19fb90253f65481"
   },
   {
     "props": [
@@ -99,9 +99,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623123fac19fb90253f653bd",
+    "id": "623129bec19fb90253f65488",
     "instanceId": "6230d9cc9122509e462ee748",
-    "treeId": "623123f9c19fb90253f653b6"
+    "treeId": "623129bdc19fb90253f65481"
   },
   {
     "props": [
@@ -116,9 +116,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623123fac19fb90253f653be",
+    "id": "623129bec19fb90253f65489",
     "instanceId": "6230d988a7e3cb54f414e09c",
-    "treeId": "623123f9c19fb90253f653b6"
+    "treeId": "623129bdc19fb90253f65481"
   },
   {
     "props": [
@@ -133,9 +133,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623123fac19fb90253f653bf",
+    "id": "623129bec19fb90253f6548a",
     "instanceId": "6230bd2653dc2d48c7c6243e",
-    "treeId": "623123f9c19fb90253f653b6"
+    "treeId": "623129bdc19fb90253f65481"
   },
   {
     "props": [
@@ -150,9 +150,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623123fac19fb90253f653c0",
+    "id": "623129bec19fb90253f6548b",
     "instanceId": "6230e63b1f320907cc0afda3",
-    "treeId": "623123f9c19fb90253f653b6"
+    "treeId": "623129bdc19fb90253f65481"
   },
   {
     "props": [
@@ -167,9 +167,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623123fac19fb90253f653c1",
+    "id": "623129bec19fb90253f6548c",
     "instanceId": "6230e6c11f320907cc0aff78",
-    "treeId": "623123f9c19fb90253f653b6"
+    "treeId": "623129bdc19fb90253f65481"
   },
   {
     "props": [
@@ -184,9 +184,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623123fac19fb90253f653c2",
+    "id": "623129bec19fb90253f6548d",
     "instanceId": "6230e77d2606eb164128a774",
-    "treeId": "623123f9c19fb90253f653b6"
+    "treeId": "623129bdc19fb90253f65481"
   },
   {
     "props": [
@@ -201,9 +201,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623123fac19fb90253f653c3",
+    "id": "623129bec19fb90253f6548e",
     "instanceId": "6230e7d42606eb164128a87a",
-    "treeId": "623123f9c19fb90253f653b6"
+    "treeId": "623129bdc19fb90253f65481"
   },
   {
     "props": [
@@ -218,9 +218,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623123fac19fb90253f653c4",
+    "id": "623129bec19fb90253f6548f",
     "instanceId": "6230e8568f680a597d125de0",
-    "treeId": "623123f9c19fb90253f653b6"
+    "treeId": "623129bdc19fb90253f65481"
   },
   {
     "props": [
@@ -235,9 +235,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623123fac19fb90253f653c5",
+    "id": "623129bec19fb90253f65490",
     "instanceId": "6230e8ad7da11e570e9e663f",
-    "treeId": "623123f9c19fb90253f653b6"
+    "treeId": "623129bdc19fb90253f65481"
   },
   {
     "props": [
@@ -252,9 +252,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623123fac19fb90253f653c6",
+    "id": "623129bec19fb90253f65491",
     "instanceId": "6230e8f0b54a80105f731ea9",
-    "treeId": "623123f9c19fb90253f653b6"
+    "treeId": "623129bdc19fb90253f65481"
   },
   {
     "props": [
@@ -269,9 +269,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623123fac19fb90253f653c7",
+    "id": "623129bec19fb90253f65492",
     "instanceId": "6230e927b54a80105f731fc3",
-    "treeId": "623123f9c19fb90253f653b6"
+    "treeId": "623129bdc19fb90253f65481"
   },
   {
     "props": [
@@ -286,9 +286,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623123fac19fb90253f653c8",
+    "id": "623129bec19fb90253f65493",
     "instanceId": "6230e94cb54a80105f731feb",
-    "treeId": "623123f9c19fb90253f653b6"
+    "treeId": "623129bdc19fb90253f65481"
   },
   {
     "props": [
@@ -303,9 +303,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623123fac19fb90253f653c9",
+    "id": "623129bec19fb90253f65494",
     "instanceId": "6230e96ab54a80105f732000",
-    "treeId": "623123f9c19fb90253f653b6"
+    "treeId": "623129bdc19fb90253f65481"
   },
   {
     "props": [
@@ -320,9 +320,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623123fac19fb90253f653ca",
+    "id": "623129bec19fb90253f65495",
     "instanceId": "6230e986b54a80105f73205a",
-    "treeId": "623123f9c19fb90253f653b6"
+    "treeId": "623129bdc19fb90253f65481"
   },
   {
     "props": [
@@ -337,9 +337,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623123fac19fb90253f653cb",
+    "id": "623129bec19fb90253f65496",
     "instanceId": "6230e9adb54a80105f73211c",
-    "treeId": "623123f9c19fb90253f653b6"
+    "treeId": "623129bdc19fb90253f65481"
   },
   {
     "props": [
@@ -354,9 +354,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623123fac19fb90253f653cc",
+    "id": "623129bec19fb90253f65497",
     "instanceId": "6230f0bdb54a80105f732264",
-    "treeId": "623123f9c19fb90253f653b6"
+    "treeId": "623129bdc19fb90253f65481"
   },
   {
     "props": [
@@ -364,10 +364,15 @@
         "id": "623123852dee83bcf7d52ddc",
         "prop": "href",
         "value": "https://webstudio.is"
+      },
+      {
+        "id": "62312975cbbf21d5f122b377",
+        "prop": "aria-label",
+        "value": "Logo"
       }
     ],
-    "id": "623123fac19fb90253f653cd",
+    "id": "623129bec19fb90253f65498",
     "instanceId": "62311c912f049ea39db7d784",
-    "treeId": "623123f9c19fb90253f653b6"
+    "treeId": "623129bdc19fb90253f65481"
   }
 ]
