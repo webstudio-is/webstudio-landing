@@ -1,5 +1,5 @@
 {
-  "id": "62312ebac19fb90253f654e7",
+  "id": "6231b9a8e18b3f3991bbf271",
   "root": {
     "component": "Box",
     "id": "root",
@@ -178,6 +178,59 @@
           }
         },
         "children": [
+          {
+            "component": "Link",
+            "id": "6231b7450d69e2661a490581",
+            "style": {
+              "position": {
+                "type": "keyword",
+                "value": "absolute"
+              },
+              "top": {
+                "type": "unit",
+                "unit": "px",
+                "value": 0
+              },
+              "right": {
+                "type": "unit",
+                "unit": "px",
+                "value": 0
+              },
+              "bottom": {
+                "type": "keyword",
+                "value": "auto"
+              },
+              "left": {
+                "type": "keyword",
+                "value": "auto"
+              },
+              "height": {
+                "type": "unit",
+                "unit": "px",
+                "value": 200
+              },
+              "width": {
+                "type": "unit",
+                "unit": "px",
+                "value": 200
+              },
+              "backgroundImage": {
+                "type": "keyword",
+                "value": "url(/github-ribbon.svg)"
+              },
+              "backgroundRepeat": {
+                "type": "keyword",
+                "value": "no-repeat"
+              },
+              "backgroundSize": {
+                "type": "keyword",
+                "value": "cover"
+              }
+            },
+            "children": [
+              "\n"
+            ]
+          },
           {
             "component": "Link",
             "id": "62311c912f049ea39db7d784",
