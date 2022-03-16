@@ -1,5 +1,5 @@
 {
-  "id": "6231d7fa64bfbbc83e182cd3",
+  "id": "623233dbd959c17be2908093",
   "root": {
     "component": "Box",
     "id": "root",
@@ -578,6 +578,11 @@
                         "type": "unit",
                         "unit": "px",
                         "value": 10
+                      },
+                      "fontSize": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 14
                       }
                     },
                     "children": []
@@ -649,6 +654,45 @@
                         "type": "unit",
                         "unit": "px",
                         "value": 25
+                      },
+                      "fontSize": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 14
+                      },
+                      "lineHeight": {
+                        "type": "unit",
+                        "unit": "number",
+                        "value": 1
+                      },
+                      "display": {
+                        "type": "keyword",
+                        "value": "flex"
+                      },
+                      "justifyContent": {
+                        "type": "keyword",
+                        "value": "center"
+                      },
+                      "justifyItems": {
+                        "type": "keyword",
+                        "value": "center"
+                      },
+                      "alignItems": {
+                        "type": "keyword",
+                        "value": "center"
+                      },
+                      "width": {
+                        "type": "keyword",
+                        "value": "auto"
+                      },
+                      "paddingTop": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 0
+                      },
+                      "backgroundColor": {
+                        "type": "keyword",
+                        "value": "rgba(255,255,255,1)"
                       }
                     },
                     "children": [
@@ -859,7 +903,7 @@
               }
             },
             "children": [
-              "You can choose to deploy with one click in a hosted version directly from Webstudio. You can choose to generate a Remix app and deploy it to any other service like Vercel, Netlify, AWS, etc. yourself."
+              "You can choose to deploy with one click in a hosted version directly from Webstudio. You can choose to generate a Remix app or create a custom app and deploy it to any other service like Vercel, Netlify, AWS, etc. yourself."
             ]
           },
           {
