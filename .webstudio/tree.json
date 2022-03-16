@@ -1,5 +1,5 @@
 {
-  "id": "6231b9a8e18b3f3991bbf271",
+  "id": "6231baaae18b3f3991bbf291",
   "root": {
     "component": "Box",
     "id": "root",
@@ -184,7 +184,7 @@
             "style": {
               "position": {
                 "type": "keyword",
-                "value": "absolute"
+                "value": "fixed"
               },
               "top": {
                 "type": "unit",
