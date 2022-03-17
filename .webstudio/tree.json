@@ -1,5 +1,5 @@
 {
-  "id": "62325dae93f362d49e2b75fd",
+  "id": "62327b9393f362d49e2b764e",
   "root": {
     "component": "Box",
     "id": "root",
@@ -607,14 +607,14 @@
                     ]
                   },
                   "\n",
-                  "Subscribe and follow on Twitter ",
+                  "Subscribe and follow us on Twitter ",
                   {
                     "component": "Link",
                     "id": "622b239ed6f6c165cd175005",
                     "style": {
                       "color": {
                         "type": "keyword",
-                        "value": "rgba(5,111,236,1)"
+                        "value": "rgba(9,105,218,1)"
                       },
                       "textDecorationColor": {
                         "type": "keyword",
@@ -890,7 +890,7 @@
                     "style": {
                       "color": {
                         "type": "keyword",
-                        "value": "rgba(5,111,236,1)"
+                        "value": "rgba(9,105,218,1)"
                       }
                     },
                     "children": [
@@ -904,7 +904,7 @@
                     "style": {
                       "color": {
                         "type": "keyword",
-                        "value": "rgba(5,111,236,1)"
+                        "value": "rgba(9,105,218,1)"
                       }
                     },
                     "children": [
@@ -970,7 +970,7 @@
                 "style": {
                   "color": {
                     "type": "keyword",
-                    "value": "rgba(5,111,236,1)"
+                    "value": "rgba(9,105,218,1)"
                   }
                 },
                 "children": [
@@ -984,7 +984,7 @@
                 "style": {
                   "color": {
                     "type": "keyword",
-                    "value": "rgba(5,111,236,1)"
+                    "value": "rgba(9,105,218,1)"
                   }
                 },
                 "children": [
@@ -1001,7 +1001,7 @@
                 "style": {
                   "color": {
                     "type": "keyword",
-                    "value": "rgba(5,111,236,1)"
+                    "value": "rgba(9,105,218,1)"
                   }
                 },
                 "children": [
@@ -1122,7 +1122,7 @@
                 "style": {
                   "color": {
                     "type": "keyword",
-                    "value": "rgba(5,111,236,1)"
+                    "value": "rgba(9,105,218,1)"
                   }
                 },
                 "children": [
@@ -1143,7 +1143,7 @@
                 "style": {
                   "color": {
                     "type": "keyword",
-                    "value": "rgba(5,111,236,1)"
+                    "value": "rgba(9,105,218,1)"
                   }
                 },
                 "children": [
@@ -1157,7 +1157,7 @@
                 "style": {
                   "color": {
                     "type": "keyword",
-                    "value": "rgba(5,111,236,1)"
+                    "value": "rgba(9,105,218,1)"
                   }
                 },
                 "children": [
@@ -1171,7 +1171,7 @@
                 "style": {
                   "color": {
                     "type": "keyword",
-                    "value": "rgba(5,111,236,1)"
+                    "value": "rgba(9,105,218,1)"
                   }
                 },
                 "children": [
@@ -1243,7 +1243,7 @@
                 "style": {
                   "color": {
                     "type": "keyword",
-                    "value": "rgba(5,111,236,1)"
+                    "value": "rgba(9,105,218,1)"
                   }
                 },
                 "children": [
@@ -1260,7 +1260,7 @@
                 "style": {
                   "color": {
                     "type": "keyword",
-                    "value": "rgba(5,111,236,1)"
+                    "value": "rgba(9,105,218,1)"
                   }
                 },
                 "children": [
@@ -1325,7 +1325,7 @@
                 "style": {
                   "color": {
                     "type": "keyword",
-                    "value": "rgba(5,111,236,1)"
+                    "value": "rgba(9,105,218,1)"
                   }
                 },
                 "children": [
@@ -1387,7 +1387,7 @@
                 "style": {
                   "color": {
                     "type": "keyword",
-                    "value": "rgba(5,111,236,1)"
+                    "value": "rgba(9,105,218,1)"
                   }
                 },
                 "children": [
@@ -1401,7 +1401,7 @@
                 "style": {
                   "color": {
                     "type": "keyword",
-                    "value": "rgba(5,111,236,1)"
+                    "value": "rgba(9,105,218,1)"
                   }
                 },
                 "children": [
@@ -1418,7 +1418,7 @@
                 "style": {
                   "color": {
                     "type": "keyword",
-                    "value": "rgba(5,111,236,1)"
+                    "value": "rgba(9,105,218,1)"
                   }
                 },
                 "children": [
