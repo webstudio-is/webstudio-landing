@@ -1,5 +1,5 @@
 {
-  "id": "62337e26567cd422411d8915",
+  "id": "6233841b1a7dc4b78e2e711e",
   "root": {
     "component": "Box",
     "id": "root",
@@ -233,6 +233,19 @@
               "justifyContent": {
                 "type": "keyword",
                 "value": "space-between"
+              },
+              "position": {
+                "type": "keyword",
+                "value": "sticky"
+              },
+              "top": {
+                "type": "unit",
+                "unit": "px",
+                "value": 0
+              },
+              "backgroundColor": {
+                "type": "keyword",
+                "value": "rgba(245,245,245,1)"
               }
             },
             "children": [
@@ -460,6 +473,10 @@
                   "display": {
                     "type": "keyword",
                     "value": "inline-block"
+                  },
+                  "backgroundColor": {
+                    "type": "keyword",
+                    "value": "rgba(0,0,0,0)"
                   }
                 },
                 "children": []
