@@ -1,5 +1,5 @@
 {
-  "id": "623386cbf4e9d84cd9f91fd6",
+  "id": "6233876a685ec9b37a40c3de",
   "root": {
     "component": "Box",
     "id": "root",
@@ -439,12 +439,12 @@
                   "width": {
                     "type": "unit",
                     "unit": "px",
-                    "value": 70
+                    "value": 50
                   },
                   "height": {
                     "type": "unit",
                     "unit": "px",
-                    "value": 70
+                    "value": 50
                   },
                   "backgroundImage": {
                     "type": "keyword",
