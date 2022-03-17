@@ -1,5 +1,5 @@
 {
-  "id": "6233abd71dd518b460a18a5c",
+  "id": "6233b3b275b8a86f8ad4fee1",
   "root": {
     "component": "Box",
     "id": "root",
@@ -274,6 +274,11 @@
                 "type": "unit",
                 "unit": "px",
                 "value": 10
+              },
+              "opacity": {
+                "type": "unit",
+                "unit": "number",
+                "value": 0.95
               }
             },
             "children": [
@@ -738,7 +743,15 @@
               }
             },
             "children": [
-              "Webstudio is an Open Source Visual Development Platform for Developers, Designers and cross-functional teams.",
+              "",
+              {
+                "component": "Bold",
+                "id": "6233b39dae0cb4861bdc8d58",
+                "style": {},
+                "children": [
+                  "Webstudio is an Open Source Visual Development Platform for Developers, Designers and cross-functional teams."
+                ]
+              },
               "\n"
             ]
           },
