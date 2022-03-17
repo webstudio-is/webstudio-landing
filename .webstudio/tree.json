@@ -1,5 +1,5 @@
 {
-  "id": "6233a5c971b3e2913b6f84c8",
+  "id": "6233abd71dd518b460a18a5c",
   "root": {
     "component": "Box",
     "id": "root",
@@ -227,6 +227,11 @@
             "type": "unit",
             "unit": "px",
             "value": 20
+          },
+          "minWidth": {
+            "type": "unit",
+            "unit": "px",
+            "value": 360
           }
         },
         "children": [
