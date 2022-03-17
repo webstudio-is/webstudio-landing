@@ -1,22 +1,29 @@
 # Webstudio landing site
 
-To sync the project with a Webstudio instance.
+This is the landing site at https://webstudio.is and, at the same time, a demonstration of a site built with Webstudio and deployed as a standalone [Remix](https://remix.run) app to [Vercel](https://vercel.com/). Data is synchronized using [CLI](https://github.com/webstudio-is/webstudio-cli) and rendered using [SDK](https://github.com/webstudio-is/webstudio-sdk).
 
-**Important** - treat your project id like private key, since there is no authentification for now.
+## Development
 
-Host needs to point at any instance, it can be local or in the cloud.
+To run this site we only need to install node and JS dependencies, no database or designer is required, since they are decoupled.
+
+1. Install [Node.js](https://nodejs.dev/learn/how-to-install-nodejs)
+2. Install [Yarn](https://yarnpkg.com/) `npm i -g yarn`
+3. Install dependencies `yarn`
+4. Run `yarn dev` and it will log the URL
+
+## Syncing Webstudio data
+
+**Important** - treat your project id like a private key, since there is no authentification for now.
+
+Host needs to point at any Designer instance, it can be local or in the cloud.
 
 ```
-wstd sync <project id> --host <http://localhost:3000>
+wstd sync <project id> --host <instance url>
 ```
-
-## Remix
-
-- [Remix Docs](https://remix.run/docs)
 
 ## Deployment
 
-After having run the `create-remix` command and selected "Vercel" as a deployment target, you only need to [import your Git repository](https://vercel.com/new) into Vercel, and it will be deployed.
+After pushing it to some remote git repository, [import your Git repository](https://vercel.com/new) into Vercel, and it will be deployed.
 
 If you'd like to avoid using a Git repository, you can also deploy the directory by running [Vercel CLI](https://vercel.com/cli):
 
@@ -26,21 +33,3 @@ vercel
 ```
 
 It is generally recommended to use a Git repository, because future commits will then automatically be deployed by Vercel, through its [Git Integration](https://vercel.com/docs/concepts/git).
-
-## Development
-
-To run your Remix app locally, make sure your project's local dependencies are installed:
-
-```sh
-npm install
-```
-
-Afterwards, start the Remix development server like so:
-
-```sh
-npm run dev
-```
-
-Open up [http://localhost:3000](http://localhost:3000) and you should be ready to go!
-
-If you're used to using the `vercel dev` command provided by [Vercel CLI](https://vercel.com/cli) instead, you can also use that, but it's not needed.
