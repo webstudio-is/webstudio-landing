@@ -12,9 +12,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623393dc779b0c76e7e0762d",
+    "id": "6233a5ca71b3e2913b6f84c9",
     "instanceId": "622b239ed6f6c165cd175005",
-    "treeId": "623393dc779b0c76e7e0762c"
+    "treeId": "6233a5c971b3e2913b6f84c8"
   },
   {
     "props": [
@@ -39,9 +39,9 @@
         "value": "Email"
       }
     ],
-    "id": "623393dc779b0c76e7e0762e",
+    "id": "6233a5ca71b3e2913b6f84ca",
     "instanceId": "6228f1891d8408d9c068f1d1",
-    "treeId": "623393dc779b0c76e7e0762c"
+    "treeId": "6233a5c971b3e2913b6f84c8"
   },
   {
     "props": [
@@ -51,9 +51,9 @@
         "value": "SignupSuccess"
       }
     ],
-    "id": "623393dc779b0c76e7e0762f",
+    "id": "6233a5ca71b3e2913b6f84cb",
     "instanceId": "622fa41b00ea8231d10bddd8",
-    "treeId": "623393dc779b0c76e7e0762c"
+    "treeId": "6233a5c971b3e2913b6f84c8"
   },
   {
     "props": [
@@ -63,9 +63,9 @@
         "value": "SignupForm"
       }
     ],
-    "id": "623393dc779b0c76e7e07630",
+    "id": "6233a5ca71b3e2913b6f84cc",
     "instanceId": "6228f1581d8408d9c068f1cf",
-    "treeId": "623393dc779b0c76e7e0762c"
+    "treeId": "6233a5c971b3e2913b6f84c8"
   },
   {
     "props": [
@@ -80,9 +80,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623393dc779b0c76e7e07631",
+    "id": "6233a5ca71b3e2913b6f84cd",
     "instanceId": "6230bb1decd6c567fd796106",
-    "treeId": "623393dc779b0c76e7e0762c"
+    "treeId": "6233a5c971b3e2913b6f84c8"
   },
   {
     "props": [
@@ -92,9 +92,9 @@
         "value": "mailto:hi@webstudio.is"
       }
     ],
-    "id": "623393dc779b0c76e7e07632",
+    "id": "6233a5ca71b3e2913b6f84ce",
     "instanceId": "6230bb4eecd6c567fd796109",
-    "treeId": "623393dc779b0c76e7e0762c"
+    "treeId": "6233a5c971b3e2913b6f84c8"
   },
   {
     "props": [
@@ -109,9 +109,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623393dc779b0c76e7e07633",
+    "id": "6233a5ca71b3e2913b6f84cf",
     "instanceId": "6230d9cc9122509e462ee748",
-    "treeId": "623393dc779b0c76e7e0762c"
+    "treeId": "6233a5c971b3e2913b6f84c8"
   },
   {
     "props": [
@@ -126,9 +126,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623393dc779b0c76e7e07634",
+    "id": "6233a5ca71b3e2913b6f84d0",
     "instanceId": "6230d988a7e3cb54f414e09c",
-    "treeId": "623393dc779b0c76e7e0762c"
+    "treeId": "6233a5c971b3e2913b6f84c8"
   },
   {
     "props": [
@@ -143,9 +143,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623393dc779b0c76e7e07635",
+    "id": "6233a5ca71b3e2913b6f84d1",
     "instanceId": "6230bd2653dc2d48c7c6243e",
-    "treeId": "623393dc779b0c76e7e0762c"
+    "treeId": "6233a5c971b3e2913b6f84c8"
   },
   {
     "props": [
@@ -160,9 +160,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623393dc779b0c76e7e07636",
+    "id": "6233a5ca71b3e2913b6f84d2",
     "instanceId": "6230e63b1f320907cc0afda3",
-    "treeId": "623393dc779b0c76e7e0762c"
+    "treeId": "6233a5c971b3e2913b6f84c8"
   },
   {
     "props": [
@@ -177,9 +177,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623393dc779b0c76e7e07637",
+    "id": "6233a5ca71b3e2913b6f84d3",
     "instanceId": "6230e6c11f320907cc0aff78",
-    "treeId": "623393dc779b0c76e7e0762c"
+    "treeId": "6233a5c971b3e2913b6f84c8"
   },
   {
     "props": [
@@ -194,9 +194,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623393dc779b0c76e7e07638",
+    "id": "6233a5ca71b3e2913b6f84d4",
     "instanceId": "6230e77d2606eb164128a774",
-    "treeId": "623393dc779b0c76e7e0762c"
+    "treeId": "6233a5c971b3e2913b6f84c8"
   },
   {
     "props": [
@@ -211,9 +211,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623393dc779b0c76e7e07639",
+    "id": "6233a5ca71b3e2913b6f84d5",
     "instanceId": "6230e7d42606eb164128a87a",
-    "treeId": "623393dc779b0c76e7e0762c"
+    "treeId": "6233a5c971b3e2913b6f84c8"
   },
   {
     "props": [
@@ -228,9 +228,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623393dc779b0c76e7e0763a",
+    "id": "6233a5ca71b3e2913b6f84d6",
     "instanceId": "6230e8568f680a597d125de0",
-    "treeId": "623393dc779b0c76e7e0762c"
+    "treeId": "6233a5c971b3e2913b6f84c8"
   },
   {
     "props": [
@@ -245,9 +245,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623393dc779b0c76e7e0763b",
+    "id": "6233a5ca71b3e2913b6f84d7",
     "instanceId": "6230e8ad7da11e570e9e663f",
-    "treeId": "623393dc779b0c76e7e0762c"
+    "treeId": "6233a5c971b3e2913b6f84c8"
   },
   {
     "props": [
@@ -262,9 +262,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623393dc779b0c76e7e0763c",
+    "id": "6233a5ca71b3e2913b6f84d8",
     "instanceId": "6230e8f0b54a80105f731ea9",
-    "treeId": "623393dc779b0c76e7e0762c"
+    "treeId": "6233a5c971b3e2913b6f84c8"
   },
   {
     "props": [
@@ -279,9 +279,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623393dc779b0c76e7e0763d",
+    "id": "6233a5ca71b3e2913b6f84d9",
     "instanceId": "6230e927b54a80105f731fc3",
-    "treeId": "623393dc779b0c76e7e0762c"
+    "treeId": "6233a5c971b3e2913b6f84c8"
   },
   {
     "props": [
@@ -296,9 +296,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623393dc779b0c76e7e0763e",
+    "id": "6233a5ca71b3e2913b6f84da",
     "instanceId": "6230e94cb54a80105f731feb",
-    "treeId": "623393dc779b0c76e7e0762c"
+    "treeId": "6233a5c971b3e2913b6f84c8"
   },
   {
     "props": [
@@ -313,9 +313,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623393dc779b0c76e7e0763f",
+    "id": "6233a5ca71b3e2913b6f84db",
     "instanceId": "6230e96ab54a80105f732000",
-    "treeId": "623393dc779b0c76e7e0762c"
+    "treeId": "6233a5c971b3e2913b6f84c8"
   },
   {
     "props": [
@@ -330,9 +330,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623393dc779b0c76e7e07640",
+    "id": "6233a5ca71b3e2913b6f84dc",
     "instanceId": "6230e986b54a80105f73205a",
-    "treeId": "623393dc779b0c76e7e0762c"
+    "treeId": "6233a5c971b3e2913b6f84c8"
   },
   {
     "props": [
@@ -347,9 +347,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623393dc779b0c76e7e07641",
+    "id": "6233a5ca71b3e2913b6f84dd",
     "instanceId": "6230e9adb54a80105f73211c",
-    "treeId": "623393dc779b0c76e7e0762c"
+    "treeId": "6233a5c971b3e2913b6f84c8"
   },
   {
     "props": [
@@ -364,9 +364,9 @@
         "value": "_blank"
       }
     ],
-    "id": "623393dc779b0c76e7e07642",
+    "id": "6233a5ca71b3e2913b6f84de",
     "instanceId": "6230f0bdb54a80105f732264",
-    "treeId": "623393dc779b0c76e7e0762c"
+    "treeId": "6233a5c971b3e2913b6f84c8"
   },
   {
     "props": [
@@ -381,9 +381,9 @@
         "value": "Logo"
       }
     ],
-    "id": "623393dc779b0c76e7e07643",
+    "id": "6233a5ca71b3e2913b6f84df",
     "instanceId": "62311c912f049ea39db7d784",
-    "treeId": "623393dc779b0c76e7e0762c"
+    "treeId": "6233a5c971b3e2913b6f84c8"
   },
   {
     "props": [
@@ -403,9 +403,9 @@
         "value": "Follow @webstudio-is on GitHub"
       }
     ],
-    "id": "623393dc779b0c76e7e07644",
+    "id": "6233a5ca71b3e2913b6f84e0",
     "instanceId": "6231b7450d69e2661a490581",
-    "treeId": "623393dc779b0c76e7e0762c"
+    "treeId": "6233a5c971b3e2913b6f84c8"
   },
   {
     "props": [
@@ -420,8 +420,25 @@
         "value": "_blank"
       }
     ],
-    "id": "623393dc779b0c76e7e07645",
+    "id": "6233a5ca71b3e2913b6f84e1",
     "instanceId": "6233771ea41246f8ea0225ce",
-    "treeId": "623393dc779b0c76e7e0762c"
+    "treeId": "6233a5c971b3e2913b6f84c8"
+  },
+  {
+    "props": [
+      {
+        "id": "6233a49561fa5fc3e135621b",
+        "prop": "target",
+        "value": "_blank"
+      },
+      {
+        "id": "6233a5b761fa5fc3e135621d",
+        "prop": "href",
+        "value": "https://webstudio.is"
+      }
+    ],
+    "id": "6233a5ca71b3e2913b6f84e2",
+    "instanceId": "6233a4362e5d952bb6fb2177",
+    "treeId": "6233a5c971b3e2913b6f84c8"
   }
 ]
