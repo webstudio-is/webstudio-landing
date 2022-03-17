@@ -1,5 +1,5 @@
 {
-  "id": "6233841b1a7dc4b78e2e711e",
+  "id": "623386cbf4e9d84cd9f91fd6",
   "root": {
     "component": "Box",
     "id": "root",
@@ -101,22 +101,22 @@
       "borderLeftWidth": {
         "type": "unit",
         "unit": "px",
-        "value": 1
+        "value": 0
       },
       "borderBottomWidth": {
         "type": "unit",
         "unit": "px",
-        "value": 1
+        "value": 0
       },
       "borderRightWidth": {
         "type": "unit",
         "unit": "px",
-        "value": 1
+        "value": 0
       },
       "borderTopWidth": {
         "type": "unit",
         "unit": "px",
-        "value": 1
+        "value": 0
       },
       "boxShadow": {
         "type": "keyword",
@@ -125,38 +125,54 @@
       "borderTopLeftRadius": {
         "type": "unit",
         "unit": "em",
-        "value": 0.25
+        "value": 0
       },
       "borderTopRightRadius": {
         "type": "unit",
         "unit": "em",
-        "value": 0.25
+        "value": 0
       },
       "borderBottomLeftRadius": {
         "type": "unit",
         "unit": "em",
-        "value": 0.25
+        "value": 0
       },
       "borderBottomRightRadius": {
         "type": "unit",
         "unit": "em",
-        "value": 0.25
+        "value": 0
       },
       "borderTopStyle": {
         "type": "keyword",
-        "value": "solid"
+        "value": "none"
       },
       "borderRightStyle": {
         "type": "keyword",
-        "value": "solid"
+        "value": "none"
       },
       "borderBottomStyle": {
         "type": "keyword",
-        "value": "solid"
+        "value": "none"
       },
       "borderLeftStyle": {
         "type": "keyword",
-        "value": "solid"
+        "value": "none"
+      },
+      "borderTopColor": {
+        "type": "keyword",
+        "value": "rgba(0,0,0,0)"
+      },
+      "borderRightColor": {
+        "type": "keyword",
+        "value": "rgba(0,0,0,0)"
+      },
+      "borderBottomColor": {
+        "type": "keyword",
+        "value": "rgba(0,0,0,0)"
+      },
+      "borderLeftColor": {
+        "type": "keyword",
+        "value": "rgba(0,0,0,0)"
       }
     },
     "children": [
