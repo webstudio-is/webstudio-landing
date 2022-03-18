@@ -1,5 +1,5 @@
 {
-  "id": "6233b3b275b8a86f8ad4fee1",
+  "id": "6233ce85073d301782d5cb83",
   "root": {
     "component": "Box",
     "id": "root",
@@ -279,6 +279,18 @@
                 "type": "unit",
                 "unit": "number",
                 "value": 0.95
+              },
+              "filter": {
+                "type": "keyword",
+                "value": "none"
+              },
+              "backdropFilter": {
+                "type": "keyword",
+                "value": "none"
+              },
+              "mixBlendMode": {
+                "type": "keyword",
+                "value": "normal"
               }
             },
             "children": [
@@ -718,46 +730,8 @@
             ]
           },
           {
-            "component": "Paragraph",
-            "id": "62154c7b05b68d36fac42a9e",
-            "style": {
-              "marginBottom": {
-                "type": "unit",
-                "unit": "px",
-                "value": 18
-              },
-              "marginTop": {
-                "type": "unit",
-                "unit": "px",
-                "value": 40
-              },
-              "fontSize": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              }
-            },
-            "children": [
-              "",
-              {
-                "component": "Bold",
-                "id": "6233b39dae0cb4861bdc8d58",
-                "style": {},
-                "children": [
-                  "Webstudio is an Open Source Visual Development Platform for Developers, Designers and cross-functional teams."
-                ]
-              },
-              "\n"
-            ]
-          },
-          {
             "component": "Heading",
-            "id": "62154cad05b68d36fac42a9f",
+            "id": "6233cca0b4438c31bbb4fb5c",
             "style": {
               "fontSize": {
                 "type": "unit",
@@ -768,53 +742,29 @@
                 "type": "unit",
                 "unit": "number",
                 "value": 1.3
-              },
-              "marginBottom": {
-                "type": "unit",
-                "unit": "em",
-                "value": 0
-              },
-              "marginTop": {
-                "type": "unit",
-                "unit": "em",
-                "value": 2
               }
             },
             "children": [
-              "On the mission to democratize software creation on the web\n"
+              "Webstudio is an Open Source Visual Development Platform for Developers, Designers and cross-functional teams."
             ]
           },
           {
             "component": "Paragraph",
-            "id": "62154deb05b68d36fac42aa1",
+            "id": "6233cc59b4438c31bbb4fb19",
             "style": {
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              },
-              "marginBottom": {
-                "type": "unit",
-                "unit": "px",
-                "value": 18
-              },
-              "marginTop": {
-                "type": "unit",
-                "unit": "px",
-                "value": 18
-              },
               "fontSize": {
                 "type": "unit",
                 "unit": "em",
                 "value": 1
               },
-              "display": {
-                "type": "keyword",
-                "value": "block"
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
               }
             },
             "children": [
-              "A Nocode tool for building for the web today can be powerful. It doesn't have to be limited in what you can do with it. It doesn't have to produce slow sites, and it doesn't have to generate unreadable, one-way code.\n\nRemoving the need to write code and deal with the setup and infrastructure enables the next billion people to create software without programming knowledge.\n\nWebstudio's mission is to provide a powerful tool that enables visual development, integrates with the ecosystem over APIs, and integrates with your custom codebase.\n\nWebstudio will never impose a vendor lock-in: you will always own everything you created and be free to choose where and how you deploy it.\n\nDemocratizing software creation means for us lowering the barrier for creation, lowering the cost of maintenance as well as reducing or even removing the hosting cost."
+              "Webstudio is designed to return the ownership to their users, dramatically reduce the cost as well as let you produce the fastest sites in the world, deployed to the edge. It is going to dramatically simplify collaboration between designers and developers on any type of site or web app."
             ]
           },
           {
@@ -853,6 +803,19 @@
                 "type": "unit",
                 "unit": "px",
                 "value": 18
+              },
+              "position": {
+                "type": "keyword",
+                "value": "static"
+              },
+              "top": {
+                "type": "unit",
+                "unit": "px",
+                "value": 100
+              },
+              "backgroundColor": {
+                "type": "keyword",
+                "value": "rgba(0,0,0,0)"
               }
             },
             "children": [
@@ -869,6 +832,10 @@
                     "type": "unit",
                     "unit": "number",
                     "value": 1.3
+                  },
+                  "backgroundColor": {
+                    "type": "keyword",
+                    "value": "rgba(0,0,0,0)"
                   }
                 },
                 "children": [
@@ -923,6 +890,14 @@
                     "type": "unit",
                     "unit": "px",
                     "value": 0
+                  },
+                  "position": {
+                    "type": "keyword",
+                    "value": "static"
+                  },
+                  "top": {
+                    "type": "keyword",
+                    "value": "auto"
                   }
                 },
                 "children": [
@@ -1188,6 +1163,68 @@
                   "!"
                 ]
               }
+            ]
+          },
+          {
+            "component": "Heading",
+            "id": "62154cad05b68d36fac42a9f",
+            "style": {
+              "fontSize": {
+                "type": "unit",
+                "unit": "px",
+                "value": 24
+              },
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              },
+              "marginBottom": {
+                "type": "unit",
+                "unit": "em",
+                "value": 0
+              },
+              "marginTop": {
+                "type": "unit",
+                "unit": "em",
+                "value": 2
+              }
+            },
+            "children": [
+              "On the mission to democratize software creation on the web\n"
+            ]
+          },
+          {
+            "component": "Paragraph",
+            "id": "62154deb05b68d36fac42aa1",
+            "style": {
+              "lineHeight": {
+                "type": "unit",
+                "unit": "number",
+                "value": 1.3
+              },
+              "marginBottom": {
+                "type": "unit",
+                "unit": "px",
+                "value": 18
+              },
+              "marginTop": {
+                "type": "unit",
+                "unit": "px",
+                "value": 18
+              },
+              "fontSize": {
+                "type": "unit",
+                "unit": "em",
+                "value": 1
+              },
+              "display": {
+                "type": "keyword",
+                "value": "block"
+              }
+            },
+            "children": [
+              "A Nocode tool for building for the web today can be powerful. It doesn't have to be limited in what you can do with it. It doesn't have to produce slow sites, and it doesn't have to generate unreadable, one-way code.\n\nRemoving the need to write code and deal with the setup and infrastructure enables the next billion people to create software without programming knowledge.\n\nWebstudio's mission is to provide a powerful tool that enables visual development, integrates with the ecosystem over APIs, and integrates with your custom codebase.\n\nWebstudio will never impose a vendor lock-in: you will always own everything you created and be free to choose where and how you deploy it.\n\nDemocratizing software creation means for us lowering the barrier for creation, lowering the cost of maintenance as well as reducing or even removing the hosting cost."
             ]
           },
           {
