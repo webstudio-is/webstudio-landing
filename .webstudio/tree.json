@@ -1,5 +1,5 @@
 {
-  "id": "6234fcf11f5015000ce0e2b3",
+  "id": "6234fee8fc53df3f97248811",
   "root": {
     "component": "Box",
     "id": "root",
@@ -1792,7 +1792,7 @@
               " with just one click. Running on the edge means your code runs on a globally distributed server infrastructure, close to your users. Furthermore, thanks to Remix your app runtime won’t depend on Node and can be deployed virtually anywhere, for example, Cloudflare Workers or Vercel Serverless Function.",
               "\n",
               "\n",
-              "Remix also ensures the highest possible front-end performance by utlizing lazy loading and progressive enhancement."
+              "Remix also ensures the highest possible front-end performance by utilizing lazy loading and progressive enhancement."
             ]
           },
           {
