@@ -1,5 +1,5 @@
 {
-  "id": "6233ce85073d301782d5cb83",
+  "id": "6233d05db2cafbfaea01b963",
   "root": {
     "component": "Box",
     "id": "root",
@@ -530,7 +530,7 @@
                       }
                     },
                     "children": [
-                      "Edit this site (alpha)"
+                      "Try Webstudio (alpha)"
                     ]
                   },
                   {
