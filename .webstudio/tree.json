@@ -1,5 +1,5 @@
 {
-  "id": "6234f79b31acea5ea42060e7",
+  "id": "6234fcf11f5015000ce0e2b3",
   "root": {
     "component": "Box",
     "id": "root",
@@ -206,7 +206,7 @@
           "maxWidth": {
             "type": "unit",
             "unit": "px",
-            "value": 700
+            "value": 750
           },
           "paddingTop": {
             "type": "unit",
@@ -232,6 +232,10 @@
             "type": "unit",
             "unit": "px",
             "value": 360
+          },
+          "width": {
+            "type": "keyword",
+            "value": "auto"
           }
         },
         "children": [
@@ -735,8 +739,8 @@
             "style": {
               "fontSize": {
                 "type": "unit",
-                "unit": "px",
-                "value": 24
+                "unit": "em",
+                "value": 1.7
               },
               "lineHeight": {
                 "type": "unit",
@@ -769,15 +773,7 @@
               }
             },
             "children": [
-              "",
-              {
-                "component": "Bold",
-                "id": "6234ee40c778ff6aff3f3233",
-                "style": {},
-                "children": [
-                  "Visual development, without limitations.\n"
-                ]
-              },
+              "Visual development, without limitations.\n",
               "\n",
               "No platform risk",
               "\n",
@@ -859,12 +855,13 @@
                   }
                 },
                 "children": [
+                  "",
                   {
                     "component": "Bold",
-                    "id": "622b23c6d6f6c165cd175008",
+                    "id": "6234f806344e003f935b07a8",
                     "style": {},
                     "children": [
-                      "Sounds exciting?"
+                      "Sound exciting?"
                     ]
                   },
                   "\n",
@@ -1196,8 +1193,8 @@
             "style": {
               "fontSize": {
                 "type": "unit",
-                "unit": "px",
-                "value": 24
+                "unit": "em",
+                "value": 1.7
               },
               "lineHeight": {
                 "type": "unit",
@@ -1258,8 +1255,8 @@
             "style": {
               "fontSize": {
                 "type": "unit",
-                "unit": "px",
-                "value": 24
+                "unit": "em",
+                "value": 1.7
               },
               "lineHeight": {
                 "type": "unit",
@@ -1307,8 +1304,8 @@
             "style": {
               "fontSize": {
                 "type": "unit",
-                "unit": "px",
-                "value": 24
+                "unit": "em",
+                "value": 1.7
               },
               "lineHeight": {
                 "type": "unit",
@@ -1355,8 +1352,8 @@
             "style": {
               "fontSize": {
                 "type": "unit",
-                "unit": "px",
-                "value": 24
+                "unit": "em",
+                "value": 1.7
               },
               "lineHeight": {
                 "type": "unit",
@@ -1403,8 +1400,8 @@
             "style": {
               "fontSize": {
                 "type": "unit",
-                "unit": "px",
-                "value": 24
+                "unit": "em",
+                "value": 1.7
               },
               "lineHeight": {
                 "type": "unit",
@@ -1461,8 +1458,8 @@
               },
               "fontSize": {
                 "type": "unit",
-                "unit": "px",
-                "value": 24
+                "unit": "em",
+                "value": 1.7
               },
               "lineHeight": {
                 "type": "unit",
@@ -1509,8 +1506,8 @@
               },
               "fontSize": {
                 "type": "unit",
-                "unit": "px",
-                "value": 24
+                "unit": "em",
+                "value": 1.7
               },
               "lineHeight": {
                 "type": "unit",
@@ -1616,8 +1613,8 @@
               },
               "fontSize": {
                 "type": "unit",
-                "unit": "px",
-                "value": 24
+                "unit": "em",
+                "value": 1.7
               },
               "lineHeight": {
                 "type": "unit",
@@ -1687,8 +1684,8 @@
               },
               "fontSize": {
                 "type": "unit",
-                "unit": "px",
-                "value": 24
+                "unit": "em",
+                "value": 1.7
               },
               "lineHeight": {
                 "type": "unit",
@@ -1735,8 +1732,8 @@
               },
               "fontSize": {
                 "type": "unit",
-                "unit": "px",
-                "value": 24
+                "unit": "em",
+                "value": 1.7
               },
               "lineHeight": {
                 "type": "unit",
@@ -1814,8 +1811,8 @@
               },
               "fontSize": {
                 "type": "unit",
-                "unit": "px",
-                "value": 24
+                "unit": "em",
+                "value": 1.7
               },
               "lineHeight": {
                 "type": "unit",
