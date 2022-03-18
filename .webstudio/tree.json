@@ -1,5 +1,5 @@
 {
-  "id": "6234f48919bd06b52a41371f",
+  "id": "6234f79b31acea5ea42060e7",
   "root": {
     "component": "Box",
     "id": "root",
@@ -742,6 +742,11 @@
                 "type": "unit",
                 "unit": "number",
                 "value": 1.3
+              },
+              "marginTop": {
+                "type": "unit",
+                "unit": "em",
+                "value": 2
               }
             },
             "children": [
