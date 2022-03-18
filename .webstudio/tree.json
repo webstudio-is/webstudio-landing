@@ -1,5 +1,5 @@
 {
-  "id": "62347173b450b70c7c5a8e57",
+  "id": "6234f48919bd06b52a41371f",
   "root": {
     "component": "Box",
     "id": "root",
@@ -745,7 +745,7 @@
               }
             },
             "children": [
-              "Webstudio is an Open Source Visual Development Platform for Developers, Designers and cross-functional teams."
+              "Finally, an open source visual development tool!"
             ]
           },
           {
@@ -764,7 +764,22 @@
               }
             },
             "children": [
-              "Webstudio is designed to return the ownership to their users, dramatically reduce the cost as well as let you produce the fastest sites in the world, deployed to the edge. It is going to dramatically simplify collaboration between designers and developers on any type of site or web app."
+              "",
+              {
+                "component": "Bold",
+                "id": "6234ee40c778ff6aff3f3233",
+                "style": {},
+                "children": [
+                  "Visual development, without limitations.\n"
+                ]
+              },
+              "\n",
+              "No platform risk",
+              "\n",
+              "No back-end limitations",
+              "\n",
+              "No unreadable, one-way code",
+              "\n"
             ]
           },
           {
@@ -864,6 +879,11 @@
                       "textDecorationLine": {
                         "type": "keyword",
                         "value": "underline"
+                      },
+                      "fontSize": {
+                        "type": "unit",
+                        "unit": "em",
+                        "value": 1
                       }
                     },
                     "children": [
@@ -1224,7 +1244,7 @@
               }
             },
             "children": [
-              "A Nocode tool for building for the web today can be powerful. It doesn't have to be limited in what you can do with it. It doesn't have to produce slow sites, and it doesn't have to generate unreadable, one-way code.\n\nRemoving the need to write code and deal with the setup and infrastructure enables the next billion people to create software without programming knowledge.\n\nWebstudio's mission is to provide a powerful tool that enables visual development, integrates with the ecosystem over APIs, and integrates with your custom codebase.\n\nWebstudio will never impose a vendor lock-in: you will always own everything you created and be free to choose where and how you deploy it.\n\nDemocratizing software creation means for us lowering the barrier for creation, lowering the cost of maintenance as well as reducing or even removing the hosting cost."
+              "Webstudio is going to dramatically simplify collaboration between designers and developers on any type of site or web app.\n\nYou can build your front-end visually with Webstudio and connect it with your digital ecosystem over APIs or with any custom back-end system.\n\nYou own everything you create with Webstudio and you’re free to deploy it wherever you want!"
             ]
           },
           {
@@ -1253,7 +1273,7 @@
               }
             },
             "children": [
-              "Export and synchronize data from Webstudio",
+              "Deploy anywhere",
               "\n"
             ]
           },
@@ -1273,59 +1293,7 @@
               }
             },
             "children": [
-              "Webstudio produces three types of data and enables access to it over ",
-              "API: components tree, styles, and ",
-              {
-                "component": "Link",
-                "id": "6230d9cc9122509e462ee748",
-                "style": {
-                  "color": {
-                    "type": "keyword",
-                    "value": "rgba(9,105,218,1)"
-                  }
-                },
-                "children": [
-                  "GraphQL"
-                ]
-              },
-              " bindings. Additionally, it provides primitive components you can install via ",
-              {
-                "component": "Link",
-                "id": "6230d988a7e3cb54f414e09c",
-                "style": {
-                  "color": {
-                    "type": "keyword",
-                    "value": "rgba(9,105,218,1)"
-                  }
-                },
-                "children": [
-                  "npm"
-                ]
-              },
-              " in your codebase.",
-              "\n",
-              "\n",
-              "Webstudio will generate a ",
-              {
-                "component": "Link",
-                "id": "6230bd2653dc2d48c7c6243e",
-                "style": {
-                  "color": {
-                    "type": "keyword",
-                    "value": "rgba(9,105,218,1)"
-                  }
-                },
-                "children": [
-                  "Remix"
-                ]
-              },
-              " app for you out of the box, or you can choose to integrate primitive components and data from Webstudio with your custom code.",
-              "\n",
-              "\n",
-              "You can use a single component, one page, or the entire site from Webstudio because everything is a React component.",
-              "\n",
-              "\n",
-              "There is no \"eject\". You can synchronize the data any time and keep collaborating between custom code and Webstudio."
+              "Launch with one click directly from Webstudio or deploy the code to any other service like Vercel, Netlify, AWS, etc. yourself!"
             ]
           },
           {
@@ -1354,9 +1322,7 @@
               }
             },
             "children": [
-              "",
-              "Deploy anywhere",
-              ""
+              "For developers"
             ]
           },
           {
@@ -1375,7 +1341,7 @@
               }
             },
             "children": [
-              "You can choose to deploy with one click in a hosted version directly from Webstudio. You can choose to generate a Remix app or create a custom app and deploy it to any other service like Vercel, Netlify, AWS, etc. yourself."
+              "What if you could avoid writing declarative render components and CSS in code completely? What if you could create the visual components in a visual tool? What if you could play with CSS like you do in dev tools and make it synchronize with your production code?\n\nThat's the goal with Webstudio. Designers and product owners on your team can work on the front-end without needing your help for every task. The goal is to let you focus on business logic and custom rendering logic that requires code and remove pixel-moving tasks from your to-do list.\n\nAnd did we mention it’s open source?"
             ]
           },
           {
@@ -1404,7 +1370,7 @@
               }
             },
             "children": [
-              "Ecosystem integration over GraphQL APIs"
+              "For designers"
             ]
           },
           {
@@ -1423,73 +1389,7 @@
               }
             },
             "children": [
-              "Webstudio doesn't have a built-in CMS or E-Commerce. Instead, it has a UI to create API bindings.",
-              "\n",
-              "\n",
-              "You can add a ",
-              {
-                "component": "Link",
-                "id": "6230e8ad7da11e570e9e663f",
-                "style": {
-                  "color": {
-                    "type": "keyword",
-                    "value": "rgba(9,105,218,1)"
-                  }
-                },
-                "children": [
-                  "GraphQL"
-                ]
-              },
-              " ",
-              " binding to any component and choose which endpoint and data properties to bind to each component property.",
-              "\n",
-              "\n",
-              "Webstudio will optimize and cache data for you, making as few and as small requests as possible.",
-              "\n",
-              "\n",
-              "With this foundation, you can use any headless CMS or E-Commerce. For example, you can build a site or app that integrates ",
-              {
-                "component": "Link",
-                "id": "6230e6c11f320907cc0aff78",
-                "style": {
-                  "color": {
-                    "type": "keyword",
-                    "value": "rgba(9,105,218,1)"
-                  }
-                },
-                "children": [
-                  "Shopify"
-                ]
-              },
-              " for online shop or ",
-              {
-                "component": "Link",
-                "id": "6230e77d2606eb164128a774",
-                "style": {
-                  "color": {
-                    "type": "keyword",
-                    "value": "rgba(9,105,218,1)"
-                  }
-                },
-                "children": [
-                  "GraphCMS"
-                ]
-              },
-              " and ",
-              {
-                "component": "Link",
-                "id": "6230e8568f680a597d125de0",
-                "style": {
-                  "color": {
-                    "type": "keyword",
-                    "value": "rgba(9,105,218,1)"
-                  }
-                },
-                "children": [
-                  "Contentful"
-                ]
-              },
-              " for CMS content."
+              "The power to bring your designs to life on the web is here. Webstudio is like no tool you’ve ever used before. While other visual development tools limit you to their platform, you can take your Webstudio project and do anything with it!\n\nYou can integrate with any CMS or e-commerce platform, you can share your builds on GitHub, and you can collaborate with developers like never before."
             ]
           },
           {
@@ -1518,8 +1418,7 @@
               }
             },
             "children": [
-              "",
-              "Design Principles embracing the web foundation"
+              "For everyone"
             ]
           },
           {
@@ -1538,47 +1437,7 @@
               }
             },
             "children": [
-              "Webstudio embraces CSS and doesn't abstract away its properties or values. You can use the same concepts as if you write regular CSS, but visually. You will learn CSS by playing with the UI!",
-              "\n",
-              "\n",
-              "No selectors - no CSS specificity conflicts. You can select anything from the canvas.",
-              "\n",
-              "\n",
-              "Any component can be overwritten or wrapped by a custom code component.",
-              "\n",
-              "\n",
-              "Data source agnostic - create bindings for any ",
-              {
-                "component": "Link",
-                "id": "6230f0bdb54a80105f732264",
-                "style": {
-                  "color": {
-                    "type": "keyword",
-                    "value": "rgba(9,105,218,1)"
-                  }
-                },
-                "children": [
-                  "GraphQL"
-                ]
-              },
-              " API to any component, visually.",
-              "\n",
-              "\n",
-              "Embrace the web foundation on top of a distributed infrastructure, philosophy brought to us by ",
-              {
-                "component": "Link",
-                "id": "6230e927b54a80105f731fc3",
-                "style": {
-                  "color": {
-                    "type": "keyword",
-                    "value": "rgba(9,105,218,1)"
-                  }
-                },
-                "children": [
-                  "Remix"
-                ]
-              },
-              "."
+              "We want Webstudio to be useful to everyone. No matter your role or coding ability - you should be able to use it. Our mission is to democratize software creation for the web."
             ]
           },
           {
@@ -1607,7 +1466,7 @@
               }
             },
             "children": [
-              "Accessibility has the highest priority"
+              "Save time and money with empowered collaboration"
             ]
           },
           {
@@ -1626,24 +1485,7 @@
               }
             },
             "children": [
-              "Accessibility is our priority number one. Our commitment is to ensure the highest possible accessibility standard in Webstudio UI and produced sites or web apps.",
-              "\n",
-              "\n",
-              "Webstudio itself is already built using an accessible components foundation - ",
-              {
-                "component": "Link",
-                "id": "6230e94cb54a80105f731feb",
-                "style": {
-                  "color": {
-                    "type": "keyword",
-                    "value": "rgba(9,105,218,1)"
-                  }
-                },
-                "children": [
-                  "Radix UI"
-                ]
-              },
-              ". On top of that, we are committed to guiding the user towards fully accessible content, validating their work in real-time and identifying problems, pushing them to create accessible content."
+              "Imagine a team of designers, engineers, and product owners collaborating on the product in real-time. Any of them can work on the product, reducing the engineering hours needed and significantly reducing time spent on communication.\n\nEach team member can work on a different version of the same product, validate their assumptions and merge their version when a consensus is reached. "
             ]
           },
           {
@@ -1672,7 +1514,7 @@
               }
             },
             "children": [
-              "Performance is our foundation"
+              "Integrate with any service"
             ]
           },
           {
@@ -1691,10 +1533,10 @@
               }
             },
             "children": [
-              "We want you to deploy your ",
+              "With Webstudio you can use any headless CMS or e-commerce back-end. For example, you can build a site or app that integrates ",
               {
                 "component": "Link",
-                "id": "6230e96ab54a80105f732000",
+                "id": "6234f0d8be2dc53ea70e0148",
                 "style": {
                   "color": {
                     "type": "keyword",
@@ -1702,13 +1544,13 @@
                   }
                 },
                 "children": [
-                  "serverless"
+                  "Shopify"
                 ]
               },
-              " app to the ",
+              " for online shop or ",
               {
                 "component": "Link",
-                "id": "6230e986b54a80105f73205a",
+                "id": "6234f09ebe2dc53ea70e0031",
                 "style": {
                   "color": {
                     "type": "keyword",
@@ -1716,16 +1558,13 @@
                   }
                 },
                 "children": [
-                  "edge"
+                  "GraphCMS"
                 ]
               },
-              " with just one click. Running on the edge means your code runs on a globally distributed server infrastructure, close to your users.",
-              "\n",
-              "\n",
-              "Furthermore, thanks to ",
+              " and ",
               {
                 "component": "Link",
-                "id": "6230e9adb54a80105f73211c",
+                "id": "6234f0d8be2dc53ea70e0149",
                 "style": {
                   "color": {
                     "type": "keyword",
@@ -1733,13 +1572,27 @@
                   }
                 },
                 "children": [
-                  "Remix"
+                  "Contentful"
                 ]
               },
-              " your app runtime won’t even depend on Node and can be deployed virtually anywhere, for example, Cloudflare Workers or Vercel Serverless Function.",
+              " for CMS content.",
               "\n",
               "\n",
-              "Remix also ensures the highest possible Frontend performance by lazy loading and progressive enhancement. Webstudio takes full advantage of that."
+              "Webstudio features a UI to create API bindings. You can add a ",
+              {
+                "component": "Link",
+                "id": "6234f0d8be2dc53ea70e014a",
+                "style": {
+                  "color": {
+                    "type": "keyword",
+                    "value": "rgba(9,105,218,1)"
+                  }
+                },
+                "children": [
+                  "GraphQL"
+                ]
+              },
+              " binding to any component and choose which endpoint and data properties to bind to each component property. Webstudio will optimize and cache data for you, making as few and as small requests as possible."
             ]
           },
           {
@@ -1768,7 +1621,7 @@
               }
             },
             "children": [
-              "Power is in our DNA"
+              "Code, visually"
             ]
           },
           {
@@ -1787,7 +1640,30 @@
               }
             },
             "children": [
-              "We build the tool to leverage the web platform and give that power to the user.\n\nNo walled garden, no artificial simplification or limitation. If something is possible on the web - it should be possible with Webstudio."
+              "Webstudio is a true visual development tool that embraces CSS, unlike drag-and-drop builders that produce bloated, unreadable code and slow sites.",
+              "\n",
+              "\n",
+              "With Webstudio, you build visually while the code is written for you. Your code comes to life in real time on the canvas, where you can also select and move elements.",
+              "\n",
+              "\n",
+              "Any component can be overwritten or wrapped by a custom code component. You can visually create bindings for any GraphQL API to any component.",
+              "\n",
+              "\n",
+              "No platform risk or vendor lock-in, ever! Embrace the web foundation on top of a distributed infrastructure. (thanks, ",
+              {
+                "component": "Link",
+                "id": "6234f19c4aa2225b84a501ec",
+                "style": {
+                  "color": {
+                    "type": "keyword",
+                    "value": "rgba(9,105,218,1)"
+                  }
+                },
+                "children": [
+                  "Remix"
+                ]
+              },
+              ")"
             ]
           },
           {
@@ -1816,7 +1692,7 @@
               }
             },
             "children": [
-              "Extensibility - everything is a component"
+              "Export and synchronize data from Webstudio"
             ]
           },
           {
@@ -1835,19 +1711,7 @@
               }
             },
             "children": [
-              "A page is a component, a link is a component, a text is a component.",
-              "\n",
-              "\n",
-              "A component can be wrapped in a new component or replaced. You can extend the functionality of any visual component created in Webstudio with ",
-              {
-                "component": "Bold",
-                "id": "6230ea1ab54a80105f732124",
-                "style": {},
-                "children": [
-                  "any"
-                ]
-              },
-              " custom logic, or you can choose to replace it entirely."
+              "Webstudio produces three types of data and enables access to it over API: components tree, styles, and GraphQL bindings. Additionally, it provides primitive components you can install via npm in your codebase.\n\nWebstudio will generate a Remix app for you out of the box, or you can choose to integrate primitive components and data from Webstudio with your custom code.\n\nYou can use a single component, one page, or the entire site from Webstudio because everything is a React component. There is no \"eject\".\n\nYou can synchronize the data any time and keep collaborating between custom code and Webstudio!"
             ]
           },
           {
@@ -1876,12 +1740,12 @@
               }
             },
             "children": [
-              "Real-time collaboration for cross-functional teams"
+              "Performance is our foundation"
             ]
           },
           {
             "component": "Paragraph",
-            "id": "6230e2f32383ed51e4bab25a",
+            "id": "6234f26a22ff547e921dcb25",
             "style": {
               "fontSize": {
                 "type": "unit",
@@ -1895,7 +1759,38 @@
               }
             },
             "children": [
-              "We envision a cross-functional team collaboration between designers, engineers, product owners, and customers in real-time. Any of them can adjust components visually and shorten the communication loop between all parties.\n\nFurthermore, each of them can work on a different version of the same product, validate their assumptions and merge their version when consensus is reached."
+              "We want you to deploy your ",
+              {
+                "component": "Link",
+                "id": "6234f2b422ff547e921dcca2",
+                "style": {
+                  "color": {
+                    "type": "keyword",
+                    "value": "rgba(9,105,218,1)"
+                  }
+                },
+                "children": [
+                  "serverless"
+                ]
+              },
+              " app to the ",
+              {
+                "component": "Link",
+                "id": "6234f2d0b3b58e2c116f0c3a",
+                "style": {
+                  "color": {
+                    "type": "keyword",
+                    "value": "rgba(9,105,218,1)"
+                  }
+                },
+                "children": [
+                  "edge"
+                ]
+              },
+              " with just one click. Running on the edge means your code runs on a globally distributed server infrastructure, close to your users. Furthermore, thanks to Remix your app runtime won’t depend on Node and can be deployed virtually anywhere, for example, Cloudflare Workers or Vercel Serverless Function.",
+              "\n",
+              "\n",
+              "Remix also ensures the highest possible front-end performance by utlizing lazy loading and progressive enhancement."
             ]
           },
           {
@@ -1924,7 +1819,7 @@
               }
             },
             "children": [
-              "A sustainable business model on top of Open Source"
+              "Accessibility commitment"
             ]
           },
           {
@@ -1943,151 +1838,24 @@
               }
             },
             "children": [
-              "If everything is Open Source and free, how can we sustain the development?\n\nWebstudio is free forever for all non-profits and any personal or commercial usage by individuals. We will also have a cloud version that is far more capable than comparable products and free of charge.\n\nOur business model is based on:\n\n1. A cloud version of the Webstudio for for-profit companies\n2. An on-premises installation of Webstudio for for-profit companies\n3. Premium support"
-            ]
-          },
-          {
-            "component": "Heading",
-            "id": "6230e3502383ed51e4bab3c7",
-            "style": {
-              "marginTop": {
-                "type": "unit",
-                "unit": "em",
-                "value": 2
+              "Our commitment is to ensure the highest possible accessibility standard in Webstudio UI and produced sites or web apps. Webstudio itself is already built using an accessible components foundation - ",
+              {
+                "component": "Link",
+                "id": "6234f36e5ba2220f2a2b4395",
+                "style": {
+                  "color": {
+                    "type": "keyword",
+                    "value": "rgba(9,105,218,1)"
+                  }
+                },
+                "children": [
+                  "Radix UI"
+                ]
               },
-              "marginBottom": {
-                "type": "unit",
-                "unit": "px",
-                "value": 0
-              },
-              "fontSize": {
-                "type": "unit",
-                "unit": "px",
-                "value": 24
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              }
-            },
-            "children": [
-              "For developers"
-            ]
-          },
-          {
-            "component": "Paragraph",
-            "id": "6230e3582383ed51e4bab3f0",
-            "style": {
-              "fontSize": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              }
-            },
-            "children": [
-              "What if you could avoid writing declarative render components and CSS in code completely?\n\nWhat if you could create the visual components in a visual tool?\n\nWhat if you could play with CSS like you do in dev tools and make it synchronize with your production code?\n\nWell, that's the goal with Webstudio.\n\nMore than that, designers and product owners on your team can apply the changes without creating tickets you have to work on.\n\nThe goal is to let you focus on business logic and custom rendering logic that requires code and remove pixel-moving tasks from your to-do list."
-            ]
-          },
-          {
-            "component": "Heading",
-            "id": "6230e3672383ed51e4bab46a",
-            "style": {
-              "marginTop": {
-                "type": "unit",
-                "unit": "em",
-                "value": 2
-              },
-              "marginBottom": {
-                "type": "unit",
-                "unit": "px",
-                "value": 0
-              },
-              "fontSize": {
-                "type": "unit",
-                "unit": "px",
-                "value": 24
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              }
-            },
-            "children": [
-              "For designers"
-            ]
-          },
-          {
-            "component": "Paragraph",
-            "id": "6230e3722383ed51e4bab4be",
-            "style": {
-              "fontSize": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              }
-            },
-            "children": [
-              "What if you could change any color in the system, and it would automatically get applied to the entire product?\n\nWhat if you could change any layout and any other CSS property in the design and deploy it to production yourself?\n\nThis is the full power of visual development instead of a developer handoff."
-            ]
-          },
-          {
-            "component": "Heading",
-            "id": "6230e37c2383ed51e4bab514",
-            "style": {
-              "marginTop": {
-                "type": "unit",
-                "unit": "em",
-                "value": 2
-              },
-              "marginBottom": {
-                "type": "unit",
-                "unit": "px",
-                "value": 0
-              },
-              "fontSize": {
-                "type": "unit",
-                "unit": "px",
-                "value": 24
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              }
-            },
-            "children": [
-              "For everyone"
-            ]
-          },
-          {
-            "component": "Paragraph",
-            "id": "6230e3882383ed51e4bab56c",
-            "style": {
-              "fontSize": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              }
-            },
-            "children": [
-              "We want Webstudio to be useful to everyone. No matter what your role or skills are - you should be able to use it. Our mission is to democratize software creation for the web."
+              ".",
+              "\n",
+              "\n",
+              "On top of that, we are committed to guiding the user towards fully accessible content, validating their work in real-time and identifying problems, pushing them to create accessible content."
             ]
           }
         ]
