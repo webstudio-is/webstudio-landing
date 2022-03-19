@@ -1,12 +1,12 @@
 {
-  "id": "6234fee8fc53df3f97248811",
+  "id": "6235c46edd67c1fddb9ee7ed",
   "root": {
     "component": "Box",
     "id": "root",
     "style": {
       "fontFamily": {
         "type": "keyword",
-        "value": "Arial"
+        "value": "-apple-system, system-ui, Arial"
       },
       "fontSize": {
         "type": "unit",
@@ -751,6 +751,10 @@
                 "type": "unit",
                 "unit": "em",
                 "value": 2
+              },
+              "color": {
+                "type": "keyword",
+                "value": "rgba(5,5,5,1)"
               }
             },
             "children": [
