@@ -1,5 +1,5 @@
 {
-  "id": "6235c46edd67c1fddb9ee7ed",
+  "id": "62367682e1e8bff9800f61b4",
   "root": {
     "component": "Box",
     "id": "root",
@@ -859,7 +859,6 @@
                   }
                 },
                 "children": [
-                  "",
                   {
                     "component": "Bold",
                     "id": "6234f806344e003f935b07a8",
@@ -869,34 +868,38 @@
                     ]
                   },
                   "\n",
-                  "Subscribe and follow us on Twitter ",
+                  "Don't hesitate to start a ",
                   {
                     "component": "Link",
-                    "id": "622b239ed6f6c165cd175005",
+                    "id": "62367508530e273db420abe3",
                     "style": {
                       "color": {
                         "type": "keyword",
                         "value": "rgba(9,105,218,1)"
-                      },
-                      "textDecorationColor": {
-                        "type": "keyword",
-                        "value": "rgba(5,111,236,1)"
-                      },
-                      "textDecorationLine": {
-                        "type": "keyword",
-                        "value": "underline"
-                      },
-                      "fontSize": {
-                        "type": "unit",
-                        "unit": "em",
-                        "value": 1
                       }
                     },
                     "children": [
-                      "@webstudiois"
+                      "discussion"
                     ]
                   },
-                  " "
+                  " on Github and give it a star.",
+                  "\n",
+                  "Subscribe and follow us on ",
+                  {
+                    "component": "Link",
+                    "id": "62367508530e273db420abe5",
+                    "style": {
+                      "color": {
+                        "type": "keyword",
+                        "value": "rgba(9,105,218,1)"
+                      }
+                    },
+                    "children": [
+                      "Twitter"
+                    ]
+                  },
+                  ".",
+                  "\n"
                 ]
               },
               {
