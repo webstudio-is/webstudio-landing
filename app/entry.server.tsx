@@ -13,6 +13,8 @@ export default function handleRequest(
     <RemixServer context={remixContext} url={request.url} />
   );
 
+  // @webstudio
+  // Inline critical CSS as a style tag for maximum performance.
   markup = insertCriticalCss(markup);
 
   responseHeaders.set("Content-Type", "text/html");

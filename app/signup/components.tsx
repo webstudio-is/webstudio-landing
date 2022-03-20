@@ -7,6 +7,10 @@ import { useTransition, Form } from "remix";
 
 type SignupState = "initial" | "pending" | "complete";
 
+/**
+ * Abstract away the form submission state.
+ * UI needs to map "submitting" and "idle" to SignupState.
+ */
 const useSignupState = (): SignupState => {
   const transition = useTransition();
   const [state, setState] = useState<SignupState>("initial");
@@ -21,6 +25,10 @@ const useSignupState = (): SignupState => {
   return state;
 };
 
+/**
+ * This component is used to override SignupForm component from webstudio.
+ * It renders Remix's Form component instead which takes care of data submission.
+ */
 export const SignupForm = ({ children }: WrapperComponentProps) => {
   const signupState = useSignupState();
   if (signupState === "complete") {
@@ -38,6 +46,9 @@ export const SignupForm = ({ children }: WrapperComponentProps) => {
   );
 };
 
+/**
+ * Success message shown to the user after subscribing.
+ */
 export const SignupSuccess = (props: WrapperComponentProps) => {
   const signupState = useSignupState();
   return signupState === "complete" ? <WrapperComponent {...props} /> : null;
