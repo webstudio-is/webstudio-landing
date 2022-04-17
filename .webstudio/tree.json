@@ -1,5 +1,5 @@
 {
-  "id": "62367682e1e8bff9800f61b4",
+  "id": "625c0fcf1ae9bb517e1af4c3",
   "root": {
     "component": "Box",
     "id": "root",
@@ -267,7 +267,7 @@
               },
               "backgroundColor": {
                 "type": "keyword",
-                "value": "rgba(245,245,245,1)"
+                "value": "rgba(245,245,245,0.5)"
               },
               "paddingTop": {
                 "type": "unit",
@@ -290,7 +290,7 @@
               },
               "backdropFilter": {
                 "type": "keyword",
-                "value": "none"
+                "value": "blur(10px)"
               },
               "mixBlendMode": {
                 "type": "keyword",
