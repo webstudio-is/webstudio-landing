@@ -2,31 +2,19 @@
   {
     "props": [
       {
-        "id": "6230bb02d640771d4ed927bc",
-        "prop": "href",
-        "value": "mailto:hi@webstudio.is"
-      }
-    ],
-    "id": "625c0fcf1ae9bb517e1af4c4",
-    "instanceId": "6230bb4eecd6c567fd796109",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
-  },
-  {
-    "props": [
-      {
-        "id": "6230bb02d640771d4ed927bc",
+        "id": "622f3136c3d83fc434aed6dc",
         "prop": "href",
         "value": "https://twitter.com/webstudiois"
       },
       {
-        "id": "6230bb3cd640771d4ed927bd",
+        "id": "622f317ec3d83fc434aed6dd",
         "prop": "target",
         "value": "_blank"
       }
     ],
-    "id": "625c0fcf1ae9bb517e1af4c5",
-    "instanceId": "6230bb1decd6c567fd796106",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
+    "id": "62766c18b8482e10398cd725",
+    "instanceId": "622b239ed6f6c165cd175005",
+    "treeId": "62766c17b8482e10398cd724"
   },
   {
     "props": [
@@ -51,179 +39,21 @@
         "value": "Email"
       }
     ],
-    "id": "625c0fcf1ae9bb517e1af4c6",
+    "id": "62766c18b8482e10398cd726",
     "instanceId": "6228f1891d8408d9c068f1d1",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
+    "treeId": "62766c17b8482e10398cd724"
   },
   {
     "props": [
       {
-        "id": "6230e8d57e83350f67f1b120",
-        "prop": "href",
-        "value": "https://remix.run/"
-      },
-      {
-        "id": "6230e92e7e83350f67f1b123",
-        "prop": "target",
-        "value": "_blank"
+        "id": "622fa4c3a548036ea6f7c5b2",
+        "prop": "override",
+        "value": "SignupSuccess"
       }
     ],
-    "id": "625c0fcf1ae9bb517e1af4c7",
-    "instanceId": "6230e927b54a80105f731fc3",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
-  },
-  {
-    "props": [
-      {
-        "id": "6230e8d57e83350f67f1b120",
-        "prop": "href",
-        "value": "https://remix.run/"
-      },
-      {
-        "id": "6230e9b37e83350f67f1b128",
-        "prop": "target",
-        "value": "_blank"
-      }
-    ],
-    "id": "625c0fcf1ae9bb517e1af4c8",
-    "instanceId": "6230e9adb54a80105f73211c",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
-  },
-  {
-    "props": [
-      {
-        "id": "6230e8d57e83350f67f1b120",
-        "prop": "href",
-        "value": "https://graphql.org/"
-      },
-      {
-        "id": "6230f0ce7e83350f67f1b12a",
-        "prop": "target",
-        "value": "_blank"
-      }
-    ],
-    "id": "625c0fcf1ae9bb517e1af4c9",
-    "instanceId": "6230f0bdb54a80105f732264",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
-  },
-  {
-    "props": [
-      {
-        "id": "6234f128a068df2cd46c54f2",
-        "prop": "href",
-        "value": "https://graphql.org/"
-      },
-      {
-        "id": "6234f140a068df2cd46c54f3",
-        "prop": "target",
-        "value": "_blank"
-      }
-    ],
-    "id": "625c0fcf1ae9bb517e1af4ca",
-    "instanceId": "6234f0d8be2dc53ea70e014a",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
-  },
-  {
-    "props": [
-      {
-        "id": "6234f34aeae6510673a00044",
-        "prop": "href",
-        "value": "https://www.radix-ui.com/"
-      },
-      {
-        "id": "6234f376eae6510673a00045",
-        "prop": "target",
-        "value": "_blank"
-      }
-    ],
-    "id": "625c0fcf1ae9bb517e1af4cb",
-    "instanceId": "6234f36e5ba2220f2a2b4395",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
-  },
-  {
-    "props": [
-      {
-        "id": "6230e3f7cdb26cab18f82e59",
-        "prop": "href",
-        "value": "https://www.npmjs.com/"
-      },
-      {
-        "id": "6230e5d9cdb26cab18f82e5c",
-        "prop": "target",
-        "value": "_blank"
-      }
-    ],
-    "id": "625c0fcf1ae9bb517e1af4cc",
-    "instanceId": "6230d988a7e3cb54f414e09c",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
-  },
-  {
-    "props": [
-      {
-        "id": "6230e3f7cdb26cab18f82e59",
-        "prop": "href",
-        "value": "https://www.shopify.com"
-      },
-      {
-        "id": "6230e6d7cdb26cab18f82e5f",
-        "prop": "target",
-        "value": "_blank"
-      }
-    ],
-    "id": "625c0fcf1ae9bb517e1af4cd",
-    "instanceId": "6230e6c11f320907cc0aff78",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
-  },
-  {
-    "props": [
-      {
-        "id": "6230e828d589613ad204e8f6",
-        "prop": "href",
-        "value": "https://www.contentful.com"
-      },
-      {
-        "id": "6230e861d589613ad204e8f7",
-        "prop": "target",
-        "value": "_blank"
-      }
-    ],
-    "id": "625c0fcf1ae9bb517e1af4ce",
-    "instanceId": "6230e8568f680a597d125de0",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
-  },
-  {
-    "props": [
-      {
-        "id": "6230e8d57e83350f67f1b120",
-        "prop": "href",
-        "value": "https://graphql.org/"
-      },
-      {
-        "id": "6230e8fc7e83350f67f1b122",
-        "prop": "target",
-        "value": "_blank"
-      }
-    ],
-    "id": "625c0fcf1ae9bb517e1af4cf",
-    "instanceId": "6230e8f0b54a80105f731ea9",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
-  },
-  {
-    "props": [
-      {
-        "id": "6234f1feb091f9d206845678",
-        "prop": "href",
-        "value": "https://en.wikipedia.org/wiki/Serverless_computing"
-      },
-      {
-        "id": "6234f223b091f9d206845679",
-        "prop": "target",
-        "value": "_blank"
-      }
-    ],
-    "id": "625c0fcf1ae9bb517e1af4d0",
-    "instanceId": "6234f21a22ff547e921dca23",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
+    "id": "62766c18b8482e10398cd727",
+    "instanceId": "622fa41b00ea8231d10bddd8",
+    "treeId": "62766c17b8482e10398cd724"
   },
   {
     "props": [
@@ -233,9 +63,38 @@
         "value": "SignupForm"
       }
     ],
-    "id": "625c0fcf1ae9bb517e1af4d1",
+    "id": "62766c18b8482e10398cd728",
     "instanceId": "6228f1581d8408d9c068f1cf",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
+    "treeId": "62766c17b8482e10398cd724"
+  },
+  {
+    "props": [
+      {
+        "id": "6230bb02d640771d4ed927bc",
+        "prop": "href",
+        "value": "https://twitter.com/webstudiois"
+      },
+      {
+        "id": "6230bb3cd640771d4ed927bd",
+        "prop": "target",
+        "value": "_blank"
+      }
+    ],
+    "id": "62766c18b8482e10398cd729",
+    "instanceId": "6230bb1decd6c567fd796106",
+    "treeId": "62766c17b8482e10398cd724"
+  },
+  {
+    "props": [
+      {
+        "id": "6230bb02d640771d4ed927bc",
+        "prop": "href",
+        "value": "mailto:hi@webstudio.is"
+      }
+    ],
+    "id": "62766c18b8482e10398cd72a",
+    "instanceId": "6230bb4eecd6c567fd796109",
+    "treeId": "62766c17b8482e10398cd724"
   },
   {
     "props": [
@@ -250,9 +109,43 @@
         "value": "_blank"
       }
     ],
-    "id": "625c0fcf1ae9bb517e1af4d2",
+    "id": "62766c18b8482e10398cd72b",
     "instanceId": "6230d9cc9122509e462ee748",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
+    "treeId": "62766c17b8482e10398cd724"
+  },
+  {
+    "props": [
+      {
+        "id": "6230e3f7cdb26cab18f82e59",
+        "prop": "href",
+        "value": "https://www.npmjs.com/"
+      },
+      {
+        "id": "6230e5d9cdb26cab18f82e5c",
+        "prop": "target",
+        "value": "_blank"
+      }
+    ],
+    "id": "62766c18b8482e10398cd72c",
+    "instanceId": "6230d988a7e3cb54f414e09c",
+    "treeId": "62766c17b8482e10398cd724"
+  },
+  {
+    "props": [
+      {
+        "id": "6230e3f7cdb26cab18f82e59",
+        "prop": "href",
+        "value": "https://remix.run/"
+      },
+      {
+        "id": "6230e5ebcdb26cab18f82e5d",
+        "prop": "target",
+        "value": "_blank"
+      }
+    ],
+    "id": "62766c18b8482e10398cd72d",
+    "instanceId": "6230bd2653dc2d48c7c6243e",
+    "treeId": "62766c17b8482e10398cd724"
   },
   {
     "props": [
@@ -267,9 +160,77 @@
         "value": "_blank"
       }
     ],
-    "id": "625c0fcf1ae9bb517e1af4d3",
+    "id": "62766c18b8482e10398cd72e",
     "instanceId": "6230e63b1f320907cc0afda3",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
+    "treeId": "62766c17b8482e10398cd724"
+  },
+  {
+    "props": [
+      {
+        "id": "6230e3f7cdb26cab18f82e59",
+        "prop": "href",
+        "value": "https://www.shopify.com"
+      },
+      {
+        "id": "6230e6d7cdb26cab18f82e5f",
+        "prop": "target",
+        "value": "_blank"
+      }
+    ],
+    "id": "62766c18b8482e10398cd72f",
+    "instanceId": "6230e6c11f320907cc0aff78",
+    "treeId": "62766c17b8482e10398cd724"
+  },
+  {
+    "props": [
+      {
+        "id": "6230e73d8b14915bd407228f",
+        "prop": "href",
+        "value": "https://graphcms.com"
+      },
+      {
+        "id": "6230e7928b14915bd4072290",
+        "prop": "target",
+        "value": "_blank"
+      }
+    ],
+    "id": "62766c18b8482e10398cd730",
+    "instanceId": "6230e77d2606eb164128a774",
+    "treeId": "62766c17b8482e10398cd724"
+  },
+  {
+    "props": [
+      {
+        "id": "6230e73d8b14915bd407228f",
+        "prop": "href",
+        "value": "https://graphql.org/"
+      },
+      {
+        "id": "6230e7eb8b14915bd4072291",
+        "prop": "target",
+        "value": "_blank"
+      }
+    ],
+    "id": "62766c18b8482e10398cd731",
+    "instanceId": "6230e7d42606eb164128a87a",
+    "treeId": "62766c17b8482e10398cd724"
+  },
+  {
+    "props": [
+      {
+        "id": "6230e828d589613ad204e8f6",
+        "prop": "href",
+        "value": "https://www.contentful.com"
+      },
+      {
+        "id": "6230e861d589613ad204e8f7",
+        "prop": "target",
+        "value": "_blank"
+      }
+    ],
+    "id": "62766c18b8482e10398cd732",
+    "instanceId": "6230e8568f680a597d125de0",
+    "treeId": "62766c17b8482e10398cd724"
   },
   {
     "props": [
@@ -284,9 +245,43 @@
         "value": "_blank"
       }
     ],
-    "id": "625c0fcf1ae9bb517e1af4d4",
+    "id": "62766c18b8482e10398cd733",
     "instanceId": "6230e8ad7da11e570e9e663f",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
+    "treeId": "62766c17b8482e10398cd724"
+  },
+  {
+    "props": [
+      {
+        "id": "6230e8d57e83350f67f1b120",
+        "prop": "href",
+        "value": "https://graphql.org/"
+      },
+      {
+        "id": "6230e8fc7e83350f67f1b122",
+        "prop": "target",
+        "value": "_blank"
+      }
+    ],
+    "id": "62766c18b8482e10398cd734",
+    "instanceId": "6230e8f0b54a80105f731ea9",
+    "treeId": "62766c17b8482e10398cd724"
+  },
+  {
+    "props": [
+      {
+        "id": "6230e8d57e83350f67f1b120",
+        "prop": "href",
+        "value": "https://remix.run/"
+      },
+      {
+        "id": "6230e92e7e83350f67f1b123",
+        "prop": "target",
+        "value": "_blank"
+      }
+    ],
+    "id": "62766c18b8482e10398cd735",
+    "instanceId": "6230e927b54a80105f731fc3",
+    "treeId": "62766c17b8482e10398cd724"
   },
   {
     "props": [
@@ -301,9 +296,94 @@
         "value": "_blank"
       }
     ],
-    "id": "625c0fcf1ae9bb517e1af4d5",
+    "id": "62766c18b8482e10398cd736",
     "instanceId": "6230e94cb54a80105f731feb",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
+    "treeId": "62766c17b8482e10398cd724"
+  },
+  {
+    "props": [
+      {
+        "id": "6230e8d57e83350f67f1b120",
+        "prop": "href",
+        "value": "https://en.wikipedia.org/wiki/Serverless_computing"
+      },
+      {
+        "id": "6230e9737e83350f67f1b125",
+        "prop": "target",
+        "value": "_blank"
+      }
+    ],
+    "id": "62766c18b8482e10398cd737",
+    "instanceId": "6230e96ab54a80105f732000",
+    "treeId": "62766c17b8482e10398cd724"
+  },
+  {
+    "props": [
+      {
+        "id": "6230e8d57e83350f67f1b120",
+        "prop": "href",
+        "value": "https://en.wikipedia.org/wiki/Edge_computing"
+      },
+      {
+        "id": "6230e9907e83350f67f1b127",
+        "prop": "target",
+        "value": "_blank"
+      }
+    ],
+    "id": "62766c18b8482e10398cd738",
+    "instanceId": "6230e986b54a80105f73205a",
+    "treeId": "62766c17b8482e10398cd724"
+  },
+  {
+    "props": [
+      {
+        "id": "6230e8d57e83350f67f1b120",
+        "prop": "href",
+        "value": "https://remix.run/"
+      },
+      {
+        "id": "6230e9b37e83350f67f1b128",
+        "prop": "target",
+        "value": "_blank"
+      }
+    ],
+    "id": "62766c18b8482e10398cd739",
+    "instanceId": "6230e9adb54a80105f73211c",
+    "treeId": "62766c17b8482e10398cd724"
+  },
+  {
+    "props": [
+      {
+        "id": "6230e8d57e83350f67f1b120",
+        "prop": "href",
+        "value": "https://graphql.org/"
+      },
+      {
+        "id": "6230f0ce7e83350f67f1b12a",
+        "prop": "target",
+        "value": "_blank"
+      }
+    ],
+    "id": "62766c18b8482e10398cd73a",
+    "instanceId": "6230f0bdb54a80105f732264",
+    "treeId": "62766c17b8482e10398cd724"
+  },
+  {
+    "props": [
+      {
+        "id": "623123852dee83bcf7d52ddc",
+        "prop": "href",
+        "value": "https://webstudio.is"
+      },
+      {
+        "id": "62312975cbbf21d5f122b377",
+        "prop": "aria-label",
+        "value": "Logo"
+      }
+    ],
+    "id": "62766c18b8482e10398cd73b",
+    "instanceId": "62311c912f049ea39db7d784",
+    "treeId": "62766c17b8482e10398cd724"
   },
   {
     "props": [
@@ -323,9 +403,26 @@
         "value": "Follow @webstudio-is on GitHub"
       }
     ],
-    "id": "625c0fcf1ae9bb517e1af4d6",
+    "id": "62766c18b8482e10398cd73c",
     "instanceId": "6231b7450d69e2661a490581",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
+    "treeId": "62766c17b8482e10398cd724"
+  },
+  {
+    "props": [
+      {
+        "id": "623376f5c2504f7732fa827d",
+        "prop": "href",
+        "value": "https://alpha.webstudio.is/rest/project/clone/webstudiois"
+      },
+      {
+        "id": "62337764c2504f7732fa827e",
+        "prop": "target",
+        "value": "_blank"
+      }
+    ],
+    "id": "62766c18b8482e10398cd73d",
+    "instanceId": "6233771ea41246f8ea0225ce",
+    "treeId": "62766c17b8482e10398cd724"
   },
   {
     "props": [
@@ -345,89 +442,9 @@
         "value": "Logo"
       }
     ],
-    "id": "625c0fcf1ae9bb517e1af4d7",
+    "id": "62766c18b8482e10398cd73e",
     "instanceId": "6233a4362e5d952bb6fb2177",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
-  },
-  {
-    "props": [
-      {
-        "id": "6234f02c4b98cd1dac59ff9c",
-        "prop": "href",
-        "value": "https://shopify.com/"
-      },
-      {
-        "id": "6234f1174b98cd1dac59ffa0",
-        "prop": "target",
-        "value": "_blank"
-      }
-    ],
-    "id": "625c0fcf1ae9bb517e1af4d8",
-    "instanceId": "6234f0d8be2dc53ea70e0148",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
-  },
-  {
-    "props": [
-      {
-        "id": "622fa4c3a548036ea6f7c5b2",
-        "prop": "override",
-        "value": "SignupSuccess"
-      }
-    ],
-    "id": "625c0fcf1ae9bb517e1af4d9",
-    "instanceId": "622fa41b00ea8231d10bddd8",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
-  },
-  {
-    "props": [
-      {
-        "id": "6230e3f7cdb26cab18f82e59",
-        "prop": "href",
-        "value": "https://remix.run/"
-      },
-      {
-        "id": "6230e5ebcdb26cab18f82e5d",
-        "prop": "target",
-        "value": "_blank"
-      }
-    ],
-    "id": "625c0fcf1ae9bb517e1af4da",
-    "instanceId": "6230bd2653dc2d48c7c6243e",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
-  },
-  {
-    "props": [
-      {
-        "id": "6230e73d8b14915bd407228f",
-        "prop": "href",
-        "value": "https://graphcms.com"
-      },
-      {
-        "id": "6230e7928b14915bd4072290",
-        "prop": "target",
-        "value": "_blank"
-      }
-    ],
-    "id": "625c0fcf1ae9bb517e1af4db",
-    "instanceId": "6230e77d2606eb164128a774",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
-  },
-  {
-    "props": [
-      {
-        "id": "6230e8d57e83350f67f1b120",
-        "prop": "href",
-        "value": "https://en.wikipedia.org/wiki/Edge_computing"
-      },
-      {
-        "id": "6230e9907e83350f67f1b127",
-        "prop": "target",
-        "value": "_blank"
-      }
-    ],
-    "id": "625c0fcf1ae9bb517e1af4dc",
-    "instanceId": "6230e986b54a80105f73205a",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
+    "treeId": "62766c17b8482e10398cd724"
   },
   {
     "props": [
@@ -442,111 +459,9 @@
         "value": "blank"
       }
     ],
-    "id": "625c0fcf1ae9bb517e1af4dd",
+    "id": "62766c18b8482e10398cd73f",
     "instanceId": "6234f09ebe2dc53ea70e0031",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
-  },
-  {
-    "props": [
-      {
-        "id": "6234f2bd5f24aa77adce8fa3",
-        "prop": "href",
-        "value": "https://en.wikipedia.org/wiki/Serverless_computing"
-      },
-      {
-        "id": "6234f2e65f24aa77adce8fa4",
-        "prop": "target",
-        "value": "_blank"
-      }
-    ],
-    "id": "625c0fcf1ae9bb517e1af4de",
-    "instanceId": "6234f2b422ff547e921dcca2",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
-  },
-  {
-    "props": [
-      {
-        "id": "6230e73d8b14915bd407228f",
-        "prop": "href",
-        "value": "https://graphql.org/"
-      },
-      {
-        "id": "6230e7eb8b14915bd4072291",
-        "prop": "target",
-        "value": "_blank"
-      }
-    ],
-    "id": "625c0fcf1ae9bb517e1af4df",
-    "instanceId": "6230e7d42606eb164128a87a",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
-  },
-  {
-    "props": [
-      {
-        "id": "622f3136c3d83fc434aed6dc",
-        "prop": "href",
-        "value": "https://twitter.com/webstudiois"
-      },
-      {
-        "id": "622f317ec3d83fc434aed6dd",
-        "prop": "target",
-        "value": "_blank"
-      }
-    ],
-    "id": "625c0fcf1ae9bb517e1af4e0",
-    "instanceId": "622b239ed6f6c165cd175005",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
-  },
-  {
-    "props": [
-      {
-        "id": "623123852dee83bcf7d52ddc",
-        "prop": "href",
-        "value": "https://webstudio.is"
-      },
-      {
-        "id": "62312975cbbf21d5f122b377",
-        "prop": "aria-label",
-        "value": "Logo"
-      }
-    ],
-    "id": "625c0fcf1ae9bb517e1af4e1",
-    "instanceId": "62311c912f049ea39db7d784",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
-  },
-  {
-    "props": [
-      {
-        "id": "6230e8d57e83350f67f1b120",
-        "prop": "href",
-        "value": "https://en.wikipedia.org/wiki/Serverless_computing"
-      },
-      {
-        "id": "6230e9737e83350f67f1b125",
-        "prop": "target",
-        "value": "_blank"
-      }
-    ],
-    "id": "625c0fcf1ae9bb517e1af4e2",
-    "instanceId": "6230e96ab54a80105f732000",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
-  },
-  {
-    "props": [
-      {
-        "id": "6234f1feb091f9d206845678",
-        "prop": "href",
-        "value": "https://en.wikipedia.org/wiki/Edge_computing"
-      },
-      {
-        "id": "6234f243b091f9d20684567a",
-        "prop": "target",
-        "value": "_blank"
-      }
-    ],
-    "id": "625c0fcf1ae9bb517e1af4e3",
-    "instanceId": "6234f22c22ff547e921dca65",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
+    "treeId": "62766c17b8482e10398cd724"
   },
   {
     "props": [
@@ -561,60 +476,43 @@
         "value": "_blank"
       }
     ],
-    "id": "625c0fcf1ae9bb517e1af4e4",
+    "id": "62766c18b8482e10398cd740",
     "instanceId": "6234f0d8be2dc53ea70e0149",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
+    "treeId": "62766c17b8482e10398cd724"
   },
   {
     "props": [
       {
-        "id": "6234f2bd5f24aa77adce8fa3",
+        "id": "6234f02c4b98cd1dac59ff9c",
         "prop": "href",
-        "value": "https://en.wikipedia.org/wiki/Edge_computing"
+        "value": "https://shopify.com/"
       },
       {
-        "id": "6234f32c5f24aa77adce8fa5",
+        "id": "6234f1174b98cd1dac59ffa0",
         "prop": "target",
         "value": "_blank"
       }
     ],
-    "id": "625c0fcf1ae9bb517e1af4e5",
-    "instanceId": "6234f2d0b3b58e2c116f0c3a",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
+    "id": "62766c18b8482e10398cd741",
+    "instanceId": "6234f0d8be2dc53ea70e0148",
+    "treeId": "62766c17b8482e10398cd724"
   },
   {
     "props": [
       {
-        "id": "623673ca4c43a3556da8988c",
+        "id": "6234f128a068df2cd46c54f2",
         "prop": "href",
-        "value": "https://github.com/webstudio-is/webstudio/discussions"
+        "value": "https://graphql.org/"
       },
       {
-        "id": "623673d44c43a3556da8988d",
+        "id": "6234f140a068df2cd46c54f3",
         "prop": "target",
         "value": "_blank"
       }
     ],
-    "id": "625c0fcf1ae9bb517e1af4e6",
-    "instanceId": "623673bad91c938254a85562",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
-  },
-  {
-    "props": [
-      {
-        "id": "623376f5c2504f7732fa827d",
-        "prop": "href",
-        "value": "https://alpha.webstudio.is/rest/project/clone/webstudiois"
-      },
-      {
-        "id": "62337764c2504f7732fa827e",
-        "prop": "target",
-        "value": "_blank"
-      }
-    ],
-    "id": "625c0fcf1ae9bb517e1af4e7",
-    "instanceId": "6233771ea41246f8ea0225ce",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
+    "id": "62766c18b8482e10398cd742",
+    "instanceId": "6234f0d8be2dc53ea70e014a",
+    "treeId": "62766c17b8482e10398cd724"
   },
   {
     "props": [
@@ -629,9 +527,111 @@
         "value": "_blank"
       }
     ],
-    "id": "625c0fcf1ae9bb517e1af4e8",
+    "id": "62766c18b8482e10398cd743",
     "instanceId": "6234f19c4aa2225b84a501ec",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
+    "treeId": "62766c17b8482e10398cd724"
+  },
+  {
+    "props": [
+      {
+        "id": "6234f1feb091f9d206845678",
+        "prop": "href",
+        "value": "https://en.wikipedia.org/wiki/Serverless_computing"
+      },
+      {
+        "id": "6234f223b091f9d206845679",
+        "prop": "target",
+        "value": "_blank"
+      }
+    ],
+    "id": "62766c18b8482e10398cd744",
+    "instanceId": "6234f21a22ff547e921dca23",
+    "treeId": "62766c17b8482e10398cd724"
+  },
+  {
+    "props": [
+      {
+        "id": "6234f1feb091f9d206845678",
+        "prop": "href",
+        "value": "https://en.wikipedia.org/wiki/Edge_computing"
+      },
+      {
+        "id": "6234f243b091f9d20684567a",
+        "prop": "target",
+        "value": "_blank"
+      }
+    ],
+    "id": "62766c18b8482e10398cd745",
+    "instanceId": "6234f22c22ff547e921dca65",
+    "treeId": "62766c17b8482e10398cd724"
+  },
+  {
+    "props": [
+      {
+        "id": "6234f2bd5f24aa77adce8fa3",
+        "prop": "href",
+        "value": "https://en.wikipedia.org/wiki/Serverless_computing"
+      },
+      {
+        "id": "6234f2e65f24aa77adce8fa4",
+        "prop": "target",
+        "value": "_blank"
+      }
+    ],
+    "id": "62766c18b8482e10398cd746",
+    "instanceId": "6234f2b422ff547e921dcca2",
+    "treeId": "62766c17b8482e10398cd724"
+  },
+  {
+    "props": [
+      {
+        "id": "6234f2bd5f24aa77adce8fa3",
+        "prop": "href",
+        "value": "https://en.wikipedia.org/wiki/Edge_computing"
+      },
+      {
+        "id": "6234f32c5f24aa77adce8fa5",
+        "prop": "target",
+        "value": "_blank"
+      }
+    ],
+    "id": "62766c18b8482e10398cd747",
+    "instanceId": "6234f2d0b3b58e2c116f0c3a",
+    "treeId": "62766c17b8482e10398cd724"
+  },
+  {
+    "props": [
+      {
+        "id": "6234f34aeae6510673a00044",
+        "prop": "href",
+        "value": "https://www.radix-ui.com/"
+      },
+      {
+        "id": "6234f376eae6510673a00045",
+        "prop": "target",
+        "value": "_blank"
+      }
+    ],
+    "id": "62766c18b8482e10398cd748",
+    "instanceId": "6234f36e5ba2220f2a2b4395",
+    "treeId": "62766c17b8482e10398cd724"
+  },
+  {
+    "props": [
+      {
+        "id": "623673ca4c43a3556da8988c",
+        "prop": "href",
+        "value": "https://github.com/webstudio-is/webstudio/discussions"
+      },
+      {
+        "id": "623673d44c43a3556da8988d",
+        "prop": "target",
+        "value": "_blank"
+      }
+    ],
+    "id": "62766c18b8482e10398cd749",
+    "instanceId": "623673bad91c938254a85562",
+    "treeId": "62766c17b8482e10398cd724"
   },
   {
     "props": [
@@ -646,9 +646,9 @@
         "value": "_blank"
       }
     ],
-    "id": "625c0fcf1ae9bb517e1af4e9",
+    "id": "62766c18b8482e10398cd74a",
     "instanceId": "62367508530e273db420abe3",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
+    "treeId": "62766c17b8482e10398cd724"
   },
   {
     "props": [
@@ -663,8 +663,8 @@
         "value": "_blank"
       }
     ],
-    "id": "625c0fcf1ae9bb517e1af4ea",
+    "id": "62766c18b8482e10398cd74b",
     "instanceId": "62367508530e273db420abe5",
-    "treeId": "625c0fcf1ae9bb517e1af4c3"
+    "treeId": "62766c17b8482e10398cd724"
   }
 ]

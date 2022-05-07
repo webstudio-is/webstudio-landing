@@ -529,10 +529,10 @@
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-4.6.0.tgz#3c7c9c46e678feefe7a2e5bb609d3dbd665ffb3f"
   integrity sha512-t09vSN3MdfsyCHoFcTRCH/iUtG7OJ0CsjzB8cjAmKc/va/kIgeDI/TxsigdncE/4be734m0cvIYwNaV4i2XqAw==
 
-"@stitches/react@^1.2.7":
-  version "1.2.7"
-  resolved "https://registry.yarnpkg.com/@stitches/react/-/react-1.2.7.tgz#aea2403fac726db66d1740d29557e3910b1a1dc7"
-  integrity sha512-6AxpUag7OW55ANzRnuy7R15FEyQeZ66fytVo3BBilFIU0mfo3t49CAMcEAL/A1SbhSj/FCdWkn/XrbjGBTJTzg==
+"@stitches/core@^1.2.7":
+  version "1.2.8"
+  resolved "https://registry.yarnpkg.com/@stitches/core/-/core-1.2.8.tgz#dce3b8fdc764fbc6dbea30c83b73bfb52cf96173"
+  integrity sha512-Gfkvwk9o9kE9r9XNBmJRfV8zONvXThnm1tcuojL04Uy5uRyqg93DC83lDebl0rocZCfKSjUv+fWYtMQmEDJldg==
 
 "@szmarczak/http-timer@^4.0.5":
   version "4.0.6"
@@ -836,24 +836,25 @@
   dependencies:
     web-streams-polyfill "^3.1.1"
 
-"@webstudio-is/cli@^0.1.4":
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/@webstudio-is/cli/-/cli-0.1.4.tgz#168a4b8a9f7f5361933bf77655e8c1e68da1ffb3"
-  integrity sha512-ikb1fgLP2hil/QnTjm/GWsmTnSZsjFiTnz+3VHCagIS+3StRjd21xtVUtqd5pD1lpQs6pNxXCKXXECxH0FJFQQ==
+"@webstudio-is/cli@^0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@webstudio-is/cli/-/cli-0.2.0.tgz#206db068c95ffa4fbc20cef7841c87e6fe574874"
+  integrity sha512-W+pg2e/F9du1uQpWUS8/W87vy/W3/A9+Z9rXtEXmGjAX+4ocNEfVgaoLcDI+vbx+FH+vVtsPpsPWxyWvgpkyrQ==
   dependencies:
     fs-extra "^10.0.1"
     inquirer "^8.2.1"
     meow "^10.1.2"
     node-fetch "^3.2.2"
 
-"@webstudio-is/sdk@^0.1.17":
-  version "0.1.17"
-  resolved "https://registry.yarnpkg.com/@webstudio-is/sdk/-/sdk-0.1.17.tgz#8cae4ffbb111cf923e28c549771acd240e51a75e"
-  integrity sha512-kq21HpY2zGADIkVu7Dn6jR08IzR07IE4aSm70roxc/qv+ZEoEmPj3EqJm8KmV+2qQwjUNV9/1ab3mYFi0E1X9Q==
+"@webstudio-is/sdk@^0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@webstudio-is/sdk/-/sdk-0.2.0.tgz#8dfdac45b6700af812b491de089009c15e57d0e2"
+  integrity sha512-6ZPGJYOcWrVlZKBJSg4IJJoQB5Lpz4NsACfAMxkYhAQ9lbHcZvG32fpJclymPe3Dug6MyUPUFZ4IDVYaB1LLZQ==
   dependencies:
     "@prisma/client" "^3.10.0"
-    "@stitches/react" "^1.2.7"
+    "@stitches/core" "^1.2.7"
     immer "^9.0.12"
+    mitt "^3.0.0"
     prisma "^3.10.0"
     react-nano-state "^0.4.0"
 
@@ -3768,6 +3769,11 @@ minizlib@^2.1.1:
   dependencies:
     minipass "^3.0.0"
     yallist "^4.0.0"
+
+mitt@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/mitt/-/mitt-3.0.0.tgz#69ef9bd5c80ff6f57473e8d89326d01c414be0bd"
+  integrity sha512-7dX2/10ITVyqh4aOSVI9gdape+t9l2/8QxHrFmUXu4EEUpdlxl6RudZUPZoc+zuY2hk1j7XxVroIVIan/pD/SQ==
 
 mkdirp@^1.0.3, mkdirp@^1.0.4:
   version "1.0.4"

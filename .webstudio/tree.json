@@ -1,781 +1,598 @@
 {
-  "id": "625c0fcf1ae9bb517e1af4c3",
+  "id": "62766c17b8482e10398cd724",
   "root": {
     "component": "Box",
     "id": "root",
-    "style": {
-      "fontFamily": {
-        "type": "keyword",
-        "value": "-apple-system, system-ui, Arial"
-      },
-      "fontSize": {
-        "type": "unit",
-        "unit": "px",
-        "value": 14
-      },
-      "lineHeight": {
-        "type": "unit",
-        "unit": "px",
-        "value": 20
-      },
-      "color": {
-        "type": "keyword",
-        "value": "rgba(5,5,5,1)"
-      },
-      "minHeight": {
-        "type": "unit",
-        "unit": "vh",
-        "value": 100
-      },
-      "flexDirection": {
-        "type": "keyword",
-        "value": "row"
-      },
-      "maxWidth": {
-        "type": "keyword",
-        "value": "none"
-      },
-      "minWidth": {
-        "type": "unit",
-        "unit": "px",
-        "value": 200
-      },
-      "marginRight": {
-        "type": "unit",
-        "unit": "px",
-        "value": 0
-      },
-      "marginLeft": {
-        "type": "unit",
-        "unit": "px",
-        "value": 0
-      },
-      "paddingRight": {
-        "type": "unit",
-        "unit": "px",
-        "value": 0
-      },
-      "paddingLeft": {
-        "type": "unit",
-        "unit": "px",
-        "value": 0
-      },
-      "display": {
-        "type": "keyword",
-        "value": "flex"
-      },
-      "rowGap": {
-        "type": "unit",
-        "unit": "em",
-        "value": 0
-      },
-      "paddingTop": {
-        "type": "unit",
-        "unit": "px",
-        "value": 0
-      },
-      "backgroundColor": {
-        "type": "keyword",
-        "value": "rgba(245,245,245,1)"
-      },
-      "width": {
-        "type": "keyword",
-        "value": "auto"
-      },
-      "height": {
-        "type": "keyword",
-        "value": "auto"
-      },
-      "alignItems": {
-        "type": "keyword",
-        "value": "center"
-      },
-      "justifyContent": {
-        "type": "keyword",
-        "value": "center"
-      },
-      "justifyItems": {
-        "type": "keyword",
-        "value": "center"
-      },
-      "borderLeftWidth": {
-        "type": "unit",
-        "unit": "px",
-        "value": 0
-      },
-      "borderBottomWidth": {
-        "type": "unit",
-        "unit": "px",
-        "value": 0
-      },
-      "borderRightWidth": {
-        "type": "unit",
-        "unit": "px",
-        "value": 0
-      },
-      "borderTopWidth": {
-        "type": "unit",
-        "unit": "px",
-        "value": 0
-      },
-      "boxShadow": {
-        "type": "keyword",
-        "value": "inset 0 0 0 1px #d7dbdf"
-      },
-      "borderTopLeftRadius": {
-        "type": "unit",
-        "unit": "em",
-        "value": 0
-      },
-      "borderTopRightRadius": {
-        "type": "unit",
-        "unit": "em",
-        "value": 0
-      },
-      "borderBottomLeftRadius": {
-        "type": "unit",
-        "unit": "em",
-        "value": 0
-      },
-      "borderBottomRightRadius": {
-        "type": "unit",
-        "unit": "em",
-        "value": 0
-      },
-      "borderTopStyle": {
-        "type": "keyword",
-        "value": "none"
-      },
-      "borderRightStyle": {
-        "type": "keyword",
-        "value": "none"
-      },
-      "borderBottomStyle": {
-        "type": "keyword",
-        "value": "none"
-      },
-      "borderLeftStyle": {
-        "type": "keyword",
-        "value": "none"
-      },
-      "borderTopColor": {
-        "type": "keyword",
-        "value": "rgba(0,0,0,0)"
-      },
-      "borderRightColor": {
-        "type": "keyword",
-        "value": "rgba(0,0,0,0)"
-      },
-      "borderBottomColor": {
-        "type": "keyword",
-        "value": "rgba(0,0,0,0)"
-      },
-      "borderLeftColor": {
-        "type": "keyword",
-        "value": "rgba(0,0,0,0)"
-      }
-    },
     "children": [
       {
         "component": "Box",
         "id": "6230f40d9b118da42f65d3ed",
-        "style": {
-          "paddingBottom": {
-            "type": "unit",
-            "unit": "px",
-            "value": 30
-          },
-          "display": {
-            "type": "keyword",
-            "value": "block"
-          },
-          "flexDirection": {
-            "type": "keyword",
-            "value": "column"
-          },
-          "rowGap": {
-            "type": "unit",
-            "unit": "em",
-            "value": 0
-          },
-          "marginLeft": {
-            "type": "unit",
-            "unit": "px",
-            "value": 0
-          },
-          "maxWidth": {
-            "type": "unit",
-            "unit": "px",
-            "value": 750
-          },
-          "paddingTop": {
-            "type": "unit",
-            "unit": "px",
-            "value": 50
-          },
-          "fontSize": {
-            "type": "unit",
-            "unit": "px",
-            "value": 18
-          },
-          "paddingLeft": {
-            "type": "unit",
-            "unit": "px",
-            "value": 20
-          },
-          "paddingRight": {
-            "type": "unit",
-            "unit": "px",
-            "value": 20
-          },
-          "minWidth": {
-            "type": "unit",
-            "unit": "px",
-            "value": 360
-          },
-          "width": {
-            "type": "keyword",
-            "value": "auto"
-          }
-        },
         "children": [
           {
             "component": "Box",
             "id": "6233a4152e5d952bb6fb2118",
-            "style": {
-              "display": {
-                "type": "keyword",
-                "value": "flex"
-              },
-              "flexDirection": {
-                "type": "keyword",
-                "value": "column"
-              },
-              "rowGap": {
-                "type": "unit",
-                "unit": "px",
-                "value": 20
-              },
-              "position": {
-                "type": "keyword",
-                "value": "sticky"
-              },
-              "top": {
-                "type": "unit",
-                "unit": "number",
-                "value": 0
-              },
-              "backgroundColor": {
-                "type": "keyword",
-                "value": "rgba(245,245,245,0.5)"
-              },
-              "paddingTop": {
-                "type": "unit",
-                "unit": "px",
-                "value": 10
-              },
-              "paddingBottom": {
-                "type": "unit",
-                "unit": "px",
-                "value": 10
-              },
-              "opacity": {
-                "type": "unit",
-                "unit": "number",
-                "value": 0.95
-              },
-              "filter": {
-                "type": "keyword",
-                "value": "none"
-              },
-              "backdropFilter": {
-                "type": "keyword",
-                "value": "blur(10px)"
-              },
-              "mixBlendMode": {
-                "type": "keyword",
-                "value": "normal"
-              }
-            },
             "children": [
               {
                 "component": "Link",
                 "id": "6233a4362e5d952bb6fb2177",
-                "style": {
-                  "width": {
-                    "type": "unit",
-                    "unit": "px",
-                    "value": 50
-                  },
-                  "height": {
-                    "type": "unit",
-                    "unit": "px",
-                    "value": 50
-                  },
-                  "backgroundRepeat": {
-                    "type": "keyword",
-                    "value": "no-repeat"
-                  },
-                  "backgroundSize": {
-                    "type": "keyword",
-                    "value": "contain"
-                  },
-                  "backgroundImage": {
-                    "type": "keyword",
-                    "value": "url(/logo.svg)"
-                  },
-                  "backgroundOrigin": {
-                    "type": "keyword",
-                    "value": "border-box"
-                  },
-                  "marginLeft": {
-                    "type": "keyword",
-                    "value": "auto"
-                  },
-                  "marginRight": {
-                    "type": "keyword",
-                    "value": "auto"
-                  },
-                  "display": {
-                    "type": "keyword",
-                    "value": "block"
-                  }
-                },
-                "children": []
-              },
-              {
-                "component": "Box",
-                "id": "6233a141f9961ea7f847266c",
-                "style": {
-                  "display": {
-                    "type": "keyword",
-                    "value": "flex"
-                  },
-                  "alignItems": {
-                    "type": "keyword",
-                    "value": "normal"
-                  },
-                  "justifyContent": {
-                    "type": "keyword",
-                    "value": "space-between"
-                  },
-                  "minHeight": {
-                    "type": "unit",
-                    "unit": "px",
-                    "value": 20
-                  },
-                  "height": {
-                    "type": "keyword",
-                    "value": "auto"
-                  }
-                },
-                "children": [
+                "children": [],
+                "cssRules": [
                   {
-                    "component": "Link",
-                    "id": "6233771ea41246f8ea0225ce",
+                    "breakpoint": {
+                      "$oid": "626fc63909a681e2a912b5a4"
+                    },
                     "style": {
-                      "display": {
-                        "type": "keyword",
-                        "value": "inline-flex"
-                      },
-                      "alignItems": {
-                        "type": "keyword",
-                        "value": "center"
-                      },
-                      "paddingLeft": {
+                      "width": {
                         "type": "unit",
                         "unit": "px",
-                        "value": 35
-                      },
-                      "paddingTop": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 5
-                      },
-                      "paddingBottom": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 5
-                      },
-                      "paddingRight": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 10
+                        "value": 50
                       },
                       "height": {
                         "type": "unit",
                         "unit": "px",
-                        "value": 16
+                        "value": 50
                       },
-                      "fontWeight": {
+                      "backgroundRepeat": {
                         "type": "keyword",
-                        "value": "bold"
+                        "value": "no-repeat"
                       },
-                      "fontSize": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 12
-                      },
-                      "lineHeight": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 12
-                      },
-                      "color": {
+                      "backgroundSize": {
                         "type": "keyword",
-                        "value": "rgba(36,41,47,1)"
-                      },
-                      "whiteSpace": {
-                        "type": "keyword",
-                        "value": "nowrap"
-                      },
-                      "textDecorationLine": {
-                        "type": "keyword",
-                        "value": "none"
-                      },
-                      "backgroundColor": {
-                        "type": "keyword",
-                        "value": "rgba(235,240,244,1)"
+                        "value": "contain"
                       },
                       "backgroundImage": {
                         "type": "keyword",
                         "value": "url(/logo.svg)"
                       },
-                      "backgroundRepeat": {
+                      "backgroundOrigin": {
                         "type": "keyword",
-                        "value": "no-repeat"
+                        "value": "border-box"
                       },
-                      "backgroundPositionX": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 10
-                      },
-                      "backgroundPositionY": {
-                        "type": "unit",
-                        "unit": "%",
-                        "value": 50
-                      },
-                      "borderTopColor": {
+                      "marginLeft": {
                         "type": "keyword",
-                        "value": "rgba(204,209,213,1)"
+                        "value": "auto"
                       },
-                      "borderRightColor": {
+                      "marginRight": {
                         "type": "keyword",
-                        "value": "rgba(204,209,213,1)"
+                        "value": "auto"
                       },
-                      "borderBottomColor": {
+                      "display": {
                         "type": "keyword",
-                        "value": "rgba(204,209,213,1)"
-                      },
-                      "borderLeftColor": {
-                        "type": "keyword",
-                        "value": "rgba(204,209,213,1)"
-                      },
-                      "borderTopLeftRadius": {
-                        "type": "unit",
-                        "unit": "em",
-                        "value": 0.25
-                      },
-                      "borderTopRightRadius": {
-                        "type": "unit",
-                        "unit": "em",
-                        "value": 0.25
-                      },
-                      "borderBottomLeftRadius": {
-                        "type": "unit",
-                        "unit": "em",
-                        "value": 0.25
-                      },
-                      "borderBottomRightRadius": {
-                        "type": "unit",
-                        "unit": "em",
-                        "value": 0.25
-                      },
-                      "borderTopWidth": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 1
-                      },
-                      "borderRightWidth": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 1
-                      },
-                      "borderBottomWidth": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 1
-                      },
-                      "borderLeftWidth": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 1
-                      },
-                      "borderTopStyle": {
-                        "type": "keyword",
-                        "value": "solid"
-                      },
-                      "borderRightStyle": {
-                        "type": "keyword",
-                        "value": "solid"
-                      },
-                      "borderBottomStyle": {
-                        "type": "keyword",
-                        "value": "solid"
-                      },
-                      "borderLeftStyle": {
-                        "type": "keyword",
-                        "value": "solid"
-                      },
-                      "backgroundSize": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 20
+                        "value": "block"
                       }
-                    },
+                    }
+                  }
+                ]
+              },
+              {
+                "component": "Box",
+                "id": "6233a141f9961ea7f847266c",
+                "children": [
+                  {
+                    "component": "Link",
+                    "id": "6233771ea41246f8ea0225ce",
                     "children": [
                       "Try Webstudio (alpha)"
+                    ],
+                    "cssRules": [
+                      {
+                        "breakpoint": {
+                          "$oid": "626fc63909a681e2a912b5a4"
+                        },
+                        "style": {
+                          "display": {
+                            "type": "keyword",
+                            "value": "inline-flex"
+                          },
+                          "alignItems": {
+                            "type": "keyword",
+                            "value": "center"
+                          },
+                          "paddingLeft": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 35
+                          },
+                          "paddingTop": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 5
+                          },
+                          "paddingBottom": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 5
+                          },
+                          "paddingRight": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 10
+                          },
+                          "height": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 16
+                          },
+                          "fontWeight": {
+                            "type": "keyword",
+                            "value": "bold"
+                          },
+                          "fontSize": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 12
+                          },
+                          "lineHeight": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 12
+                          },
+                          "color": {
+                            "type": "keyword",
+                            "value": "rgba(36,41,47,1)"
+                          },
+                          "whiteSpace": {
+                            "type": "keyword",
+                            "value": "nowrap"
+                          },
+                          "textDecorationLine": {
+                            "type": "keyword",
+                            "value": "none"
+                          },
+                          "backgroundColor": {
+                            "type": "keyword",
+                            "value": "rgba(235,240,244,1)"
+                          },
+                          "backgroundImage": {
+                            "type": "keyword",
+                            "value": "url(/logo.svg)"
+                          },
+                          "backgroundRepeat": {
+                            "type": "keyword",
+                            "value": "no-repeat"
+                          },
+                          "backgroundPositionX": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 10
+                          },
+                          "backgroundPositionY": {
+                            "type": "unit",
+                            "unit": "%",
+                            "value": 50
+                          },
+                          "borderTopColor": {
+                            "type": "keyword",
+                            "value": "rgba(204,209,213,1)"
+                          },
+                          "borderRightColor": {
+                            "type": "keyword",
+                            "value": "rgba(204,209,213,1)"
+                          },
+                          "borderBottomColor": {
+                            "type": "keyword",
+                            "value": "rgba(204,209,213,1)"
+                          },
+                          "borderLeftColor": {
+                            "type": "keyword",
+                            "value": "rgba(204,209,213,1)"
+                          },
+                          "borderTopLeftRadius": {
+                            "type": "unit",
+                            "unit": "em",
+                            "value": 0.25
+                          },
+                          "borderTopRightRadius": {
+                            "type": "unit",
+                            "unit": "em",
+                            "value": 0.25
+                          },
+                          "borderBottomLeftRadius": {
+                            "type": "unit",
+                            "unit": "em",
+                            "value": 0.25
+                          },
+                          "borderBottomRightRadius": {
+                            "type": "unit",
+                            "unit": "em",
+                            "value": 0.25
+                          },
+                          "borderTopWidth": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 1
+                          },
+                          "borderRightWidth": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 1
+                          },
+                          "borderBottomWidth": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 1
+                          },
+                          "borderLeftWidth": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 1
+                          },
+                          "borderTopStyle": {
+                            "type": "keyword",
+                            "value": "solid"
+                          },
+                          "borderRightStyle": {
+                            "type": "keyword",
+                            "value": "solid"
+                          },
+                          "borderBottomStyle": {
+                            "type": "keyword",
+                            "value": "solid"
+                          },
+                          "borderLeftStyle": {
+                            "type": "keyword",
+                            "value": "solid"
+                          },
+                          "backgroundSize": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 20
+                          }
+                        }
+                      }
                     ]
                   },
                   {
                     "component": "Link",
                     "id": "6231b7450d69e2661a490581",
+                    "children": [
+                      "Follow @webstudio-is"
+                    ],
+                    "cssRules": [
+                      {
+                        "breakpoint": {
+                          "$oid": "626fc63909a681e2a912b5a4"
+                        },
+                        "style": {
+                          "position": {
+                            "type": "keyword",
+                            "value": "relative"
+                          },
+                          "top": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 0
+                          },
+                          "right": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 0
+                          },
+                          "bottom": {
+                            "type": "keyword",
+                            "value": "auto"
+                          },
+                          "left": {
+                            "type": "keyword",
+                            "value": "auto"
+                          },
+                          "height": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 16
+                          },
+                          "width": {
+                            "type": "keyword",
+                            "value": "auto"
+                          },
+                          "backgroundImage": {
+                            "type": "keyword",
+                            "value": "url(/octocat.svg)"
+                          },
+                          "backgroundRepeat": {
+                            "type": "keyword",
+                            "value": "no-repeat"
+                          },
+                          "backgroundSize": {
+                            "type": "keyword",
+                            "value": "auto"
+                          },
+                          "paddingTop": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 5
+                          },
+                          "paddingBottom": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 5
+                          },
+                          "paddingRight": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 10
+                          },
+                          "paddingLeft": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 30
+                          },
+                          "backgroundPositionX": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 10
+                          },
+                          "backgroundPositionY": {
+                            "type": "unit",
+                            "unit": "%",
+                            "value": 50
+                          },
+                          "backgroundColor": {
+                            "type": "keyword",
+                            "value": "rgba(235,240,244,1)"
+                          },
+                          "borderTopColor": {
+                            "type": "keyword",
+                            "value": "rgba(204,209,213,1)"
+                          },
+                          "borderRightColor": {
+                            "type": "keyword",
+                            "value": "rgba(204,209,213,1)"
+                          },
+                          "borderBottomColor": {
+                            "type": "keyword",
+                            "value": "rgba(204,209,213,1)"
+                          },
+                          "borderLeftColor": {
+                            "type": "keyword",
+                            "value": "rgba(204,209,213,1)"
+                          },
+                          "color": {
+                            "type": "keyword",
+                            "value": "rgba(36,41,47,1)"
+                          },
+                          "fontSize": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 12
+                          },
+                          "borderTopLeftRadius": {
+                            "type": "unit",
+                            "unit": "em",
+                            "value": 0.25
+                          },
+                          "borderTopRightRadius": {
+                            "type": "unit",
+                            "unit": "em",
+                            "value": 0.25
+                          },
+                          "borderBottomLeftRadius": {
+                            "type": "unit",
+                            "unit": "em",
+                            "value": 0.25
+                          },
+                          "borderBottomRightRadius": {
+                            "type": "unit",
+                            "unit": "em",
+                            "value": 0.25
+                          },
+                          "borderTopWidth": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 1
+                          },
+                          "borderRightWidth": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 1
+                          },
+                          "borderBottomWidth": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 1
+                          },
+                          "borderLeftWidth": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 1
+                          },
+                          "textDecorationLine": {
+                            "type": "keyword",
+                            "value": "none"
+                          },
+                          "lineHeight": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 12
+                          },
+                          "display": {
+                            "type": "keyword",
+                            "value": "inline-flex"
+                          },
+                          "alignItems": {
+                            "type": "keyword",
+                            "value": "center"
+                          },
+                          "fontWeight": {
+                            "type": "keyword",
+                            "value": "bold"
+                          },
+                          "borderTopStyle": {
+                            "type": "keyword",
+                            "value": "solid"
+                          },
+                          "borderRightStyle": {
+                            "type": "keyword",
+                            "value": "solid"
+                          },
+                          "borderBottomStyle": {
+                            "type": "keyword",
+                            "value": "solid"
+                          },
+                          "borderLeftStyle": {
+                            "type": "keyword",
+                            "value": "solid"
+                          },
+                          "whiteSpace": {
+                            "type": "keyword",
+                            "value": "nowrap"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "cssRules": [
+                  {
+                    "breakpoint": {
+                      "$oid": "626fc63909a681e2a912b5a4"
+                    },
                     "style": {
-                      "position": {
-                        "type": "keyword",
-                        "value": "relative"
-                      },
-                      "top": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 0
-                      },
-                      "right": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 0
-                      },
-                      "bottom": {
-                        "type": "keyword",
-                        "value": "auto"
-                      },
-                      "left": {
-                        "type": "keyword",
-                        "value": "auto"
-                      },
-                      "height": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 16
-                      },
-                      "width": {
-                        "type": "keyword",
-                        "value": "auto"
-                      },
-                      "backgroundImage": {
-                        "type": "keyword",
-                        "value": "url(/octocat.svg)"
-                      },
-                      "backgroundRepeat": {
-                        "type": "keyword",
-                        "value": "no-repeat"
-                      },
-                      "backgroundSize": {
-                        "type": "keyword",
-                        "value": "auto"
-                      },
-                      "paddingTop": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 5
-                      },
-                      "paddingBottom": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 5
-                      },
-                      "paddingRight": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 10
-                      },
-                      "paddingLeft": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 30
-                      },
-                      "backgroundPositionX": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 10
-                      },
-                      "backgroundPositionY": {
-                        "type": "unit",
-                        "unit": "%",
-                        "value": 50
-                      },
-                      "backgroundColor": {
-                        "type": "keyword",
-                        "value": "rgba(235,240,244,1)"
-                      },
-                      "borderTopColor": {
-                        "type": "keyword",
-                        "value": "rgba(204,209,213,1)"
-                      },
-                      "borderRightColor": {
-                        "type": "keyword",
-                        "value": "rgba(204,209,213,1)"
-                      },
-                      "borderBottomColor": {
-                        "type": "keyword",
-                        "value": "rgba(204,209,213,1)"
-                      },
-                      "borderLeftColor": {
-                        "type": "keyword",
-                        "value": "rgba(204,209,213,1)"
-                      },
-                      "color": {
-                        "type": "keyword",
-                        "value": "rgba(36,41,47,1)"
-                      },
-                      "fontSize": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 12
-                      },
-                      "borderTopLeftRadius": {
-                        "type": "unit",
-                        "unit": "em",
-                        "value": 0.25
-                      },
-                      "borderTopRightRadius": {
-                        "type": "unit",
-                        "unit": "em",
-                        "value": 0.25
-                      },
-                      "borderBottomLeftRadius": {
-                        "type": "unit",
-                        "unit": "em",
-                        "value": 0.25
-                      },
-                      "borderBottomRightRadius": {
-                        "type": "unit",
-                        "unit": "em",
-                        "value": 0.25
-                      },
-                      "borderTopWidth": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 1
-                      },
-                      "borderRightWidth": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 1
-                      },
-                      "borderBottomWidth": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 1
-                      },
-                      "borderLeftWidth": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 1
-                      },
-                      "textDecorationLine": {
-                        "type": "keyword",
-                        "value": "none"
-                      },
-                      "lineHeight": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 12
-                      },
                       "display": {
                         "type": "keyword",
-                        "value": "inline-flex"
+                        "value": "flex"
                       },
                       "alignItems": {
                         "type": "keyword",
-                        "value": "center"
+                        "value": "normal"
                       },
-                      "fontWeight": {
+                      "justifyContent": {
                         "type": "keyword",
-                        "value": "bold"
+                        "value": "space-between"
                       },
-                      "borderTopStyle": {
-                        "type": "keyword",
-                        "value": "solid"
+                      "minHeight": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 20
                       },
-                      "borderRightStyle": {
+                      "height": {
                         "type": "keyword",
-                        "value": "solid"
+                        "value": "auto"
+                      }
+                    }
+                  },
+                  {
+                    "style": {
+                      "flexWrap": {
+                        "type": "keyword",
+                        "value": "wrap"
                       },
-                      "borderBottomStyle": {
-                        "type": "keyword",
-                        "value": "solid"
+                      "rowGap": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 10
                       },
-                      "borderLeftStyle": {
+                      "justifyContent": {
                         "type": "keyword",
-                        "value": "solid"
-                      },
-                      "whiteSpace": {
-                        "type": "keyword",
-                        "value": "nowrap"
+                        "value": "space-evenly"
                       }
                     },
-                    "children": [
-                      "Follow @webstudio-is"
-                    ]
+                    "breakpoint": "626fc63909a681e2a912b5a4"
                   }
                 ]
+              }
+            ],
+            "cssRules": [
+              {
+                "breakpoint": {
+                  "$oid": "626fc63909a681e2a912b5a4"
+                },
+                "style": {
+                  "display": {
+                    "type": "keyword",
+                    "value": "flex"
+                  },
+                  "flexDirection": {
+                    "type": "keyword",
+                    "value": "column"
+                  },
+                  "rowGap": {
+                    "type": "unit",
+                    "unit": "px",
+                    "value": 20
+                  },
+                  "position": {
+                    "type": "keyword",
+                    "value": "sticky"
+                  },
+                  "top": {
+                    "type": "unit",
+                    "unit": "number",
+                    "value": 0
+                  },
+                  "backgroundColor": {
+                    "type": "keyword",
+                    "value": "rgba(245,245,245,0.5)"
+                  },
+                  "paddingTop": {
+                    "type": "unit",
+                    "unit": "px",
+                    "value": 10
+                  },
+                  "paddingBottom": {
+                    "type": "unit",
+                    "unit": "px",
+                    "value": 10
+                  },
+                  "opacity": {
+                    "type": "unit",
+                    "unit": "number",
+                    "value": 0.95
+                  },
+                  "filter": {
+                    "type": "keyword",
+                    "value": "none"
+                  },
+                  "backdropFilter": {
+                    "type": "keyword",
+                    "value": "blur(10px)"
+                  },
+                  "mixBlendMode": {
+                    "type": "keyword",
+                    "value": "normal"
+                  }
+                }
               }
             ]
           },
           {
             "component": "Heading",
             "id": "6233cca0b4438c31bbb4fb5c",
-            "style": {
-              "fontSize": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1.7
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              },
-              "marginTop": {
-                "type": "unit",
-                "unit": "em",
-                "value": 2
-              },
-              "color": {
-                "type": "keyword",
-                "value": "rgba(5,5,5,1)"
-              }
-            },
             "children": [
               "Finally, an open source visual development tool!"
+            ],
+            "cssRules": [
+              {
+                "breakpoint": {
+                  "$oid": "626fc63909a681e2a912b5a4"
+                },
+                "style": {
+                  "fontSize": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 1.7
+                  },
+                  "lineHeight": {
+                    "type": "unit",
+                    "unit": "number",
+                    "value": 1.3
+                  },
+                  "marginTop": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 2
+                  },
+                  "color": {
+                    "type": "keyword",
+                    "value": "rgba(5,5,5,1)"
+                  }
+                }
+              }
             ]
           },
           {
             "component": "Paragraph",
             "id": "6233cc59b4438c31bbb4fb19",
-            "style": {
-              "fontSize": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              }
-            },
             "children": [
               "Visual development, without limitations.\n",
               "\n",
@@ -785,63 +602,12 @@
               "\n",
               "No unreadable, one-way code",
               "\n"
-            ]
-          },
-          {
-            "component": "Box",
-            "id": "6228f3f16bf5bc91af5c7615",
-            "style": {
-              "display": {
-                "type": "keyword",
-                "value": "flex"
-              },
-              "flexDirection": {
-                "type": "keyword",
-                "value": "column"
-              },
-              "columnGap": {
-                "type": "unit",
-                "unit": "number",
-                "value": 0
-              },
-              "rowGap": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1
-              },
-              "minHeight": {
-                "type": "unit",
-                "unit": "px",
-                "value": 0
-              },
-              "paddingTop": {
-                "type": "unit",
-                "unit": "px",
-                "value": 18
-              },
-              "paddingBottom": {
-                "type": "unit",
-                "unit": "px",
-                "value": 18
-              },
-              "position": {
-                "type": "keyword",
-                "value": "static"
-              },
-              "top": {
-                "type": "unit",
-                "unit": "px",
-                "value": 100
-              },
-              "backgroundColor": {
-                "type": "keyword",
-                "value": "rgba(0,0,0,0)"
-              }
-            },
-            "children": [
+            ],
+            "cssRules": [
               {
-                "component": "TextBlock",
-                "id": "6228f3d96bf5bc91af5c7614",
+                "breakpoint": {
+                  "$oid": "626fc63909a681e2a912b5a4"
+                },
                 "style": {
                   "fontSize": {
                     "type": "unit",
@@ -852,19 +618,32 @@
                     "type": "unit",
                     "unit": "number",
                     "value": 1.3
-                  },
-                  "backgroundColor": {
-                    "type": "keyword",
-                    "value": "rgba(0,0,0,0)"
                   }
-                },
+                }
+              }
+            ]
+          },
+          {
+            "component": "Box",
+            "id": "6228f3f16bf5bc91af5c7615",
+            "children": [
+              {
+                "component": "TextBlock",
+                "id": "6228f3d96bf5bc91af5c7614",
                 "children": [
                   {
                     "component": "Bold",
                     "id": "6234f806344e003f935b07a8",
-                    "style": {},
                     "children": [
                       "Sound exciting?"
+                    ],
+                    "cssRules": [
+                      {
+                        "breakpoint": {
+                          "$oid": "626fc63909a681e2a912b5a4"
+                        },
+                        "style": {}
+                      }
                     ]
                   },
                   "\n",
@@ -872,14 +651,21 @@
                   {
                     "component": "Link",
                     "id": "62367508530e273db420abe3",
-                    "style": {
-                      "color": {
-                        "type": "keyword",
-                        "value": "rgba(9,105,218,1)"
-                      }
-                    },
                     "children": [
                       "discussion"
+                    ],
+                    "cssRules": [
+                      {
+                        "breakpoint": {
+                          "$oid": "626fc63909a681e2a912b5a4"
+                        },
+                        "style": {
+                          "color": {
+                            "type": "keyword",
+                            "value": "rgba(9,105,218,1)"
+                          }
+                        }
+                      }
                     ]
                   },
                   " on Github and give it a star.",
@@ -888,261 +674,563 @@
                   {
                     "component": "Link",
                     "id": "62367508530e273db420abe5",
-                    "style": {
-                      "color": {
-                        "type": "keyword",
-                        "value": "rgba(9,105,218,1)"
-                      }
-                    },
                     "children": [
                       "Twitter"
+                    ],
+                    "cssRules": [
+                      {
+                        "breakpoint": {
+                          "$oid": "626fc63909a681e2a912b5a4"
+                        },
+                        "style": {
+                          "color": {
+                            "type": "keyword",
+                            "value": "rgba(9,105,218,1)"
+                          }
+                        }
+                      }
                     ]
                   },
                   ".",
                   "\n"
+                ],
+                "cssRules": [
+                  {
+                    "breakpoint": {
+                      "$oid": "626fc63909a681e2a912b5a4"
+                    },
+                    "style": {
+                      "fontSize": {
+                        "type": "unit",
+                        "unit": "em",
+                        "value": 1
+                      },
+                      "lineHeight": {
+                        "type": "unit",
+                        "unit": "number",
+                        "value": 1.3
+                      },
+                      "backgroundColor": {
+                        "type": "keyword",
+                        "value": "rgba(0,0,0,0)"
+                      }
+                    }
+                  }
                 ]
               },
               {
                 "component": "Form",
                 "id": "6228f1581d8408d9c068f1cf",
-                "style": {
-                  "display": {
-                    "type": "keyword",
-                    "value": "flex"
-                  },
-                  "rowGap": {
-                    "type": "unit",
-                    "unit": "em",
-                    "value": 0
-                  },
-                  "columnGap": {
-                    "type": "unit",
-                    "unit": "px",
-                    "value": 0
-                  },
-                  "position": {
-                    "type": "keyword",
-                    "value": "static"
-                  },
-                  "top": {
-                    "type": "keyword",
-                    "value": "auto"
-                  }
-                },
                 "children": [
                   {
                     "component": "Input",
                     "id": "6228f1891d8408d9c068f1d1",
-                    "style": {
-                      "borderLeftWidth": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 0
-                      },
-                      "borderBottomWidth": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 0
-                      },
-                      "borderRightWidth": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 0
-                      },
-                      "borderTopWidth": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 0
-                      },
-                      "paddingLeft": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 5
-                      },
-                      "paddingRight": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 5
-                      },
-                      "paddingTop": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 0
-                      },
-                      "paddingBottom": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 0
-                      },
-                      "width": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 150
-                      },
-                      "height": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 25
-                      },
-                      "boxShadow": {
-                        "type": "keyword",
-                        "value": "inset 0 0 0 1px #d7dbdf"
-                      },
-                      "lineHeight": {
-                        "type": "unit",
-                        "unit": "number",
-                        "value": 1
-                      },
-                      "borderBottomRightRadius": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 4
-                      },
-                      "borderBottomLeftRadius": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 4
-                      },
-                      "borderTopRightRadius": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 4
-                      },
-                      "borderTopLeftRadius": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 4
-                      },
-                      "marginRight": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 10
-                      },
-                      "fontSize": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 14
+                    "children": [],
+                    "cssRules": [
+                      {
+                        "breakpoint": {
+                          "$oid": "626fc63909a681e2a912b5a4"
+                        },
+                        "style": {
+                          "borderLeftWidth": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 0
+                          },
+                          "borderBottomWidth": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 0
+                          },
+                          "borderRightWidth": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 0
+                          },
+                          "borderTopWidth": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 0
+                          },
+                          "paddingLeft": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 5
+                          },
+                          "paddingRight": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 5
+                          },
+                          "paddingTop": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 0
+                          },
+                          "paddingBottom": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 0
+                          },
+                          "width": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 150
+                          },
+                          "height": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 25
+                          },
+                          "boxShadow": {
+                            "type": "keyword",
+                            "value": "inset 0 0 0 1px #d7dbdf"
+                          },
+                          "lineHeight": {
+                            "type": "unit",
+                            "unit": "number",
+                            "value": 1
+                          },
+                          "borderBottomRightRadius": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 4
+                          },
+                          "borderBottomLeftRadius": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 4
+                          },
+                          "borderTopRightRadius": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 4
+                          },
+                          "borderTopLeftRadius": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 4
+                          },
+                          "marginRight": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 10
+                          },
+                          "fontSize": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 14
+                          }
+                        }
                       }
-                    },
-                    "children": []
+                    ]
                   },
                   {
                     "component": "Button",
                     "id": "6228f203010493ef242d86f1",
-                    "style": {
-                      "boxShadow": {
-                        "type": "keyword",
-                        "value": "inset 0 0 0 1px #d7dbdf"
-                      },
-                      "borderBottomRightRadius": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 4
-                      },
-                      "borderBottomLeftRadius": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 4
-                      },
-                      "borderTopRightRadius": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 4
-                      },
-                      "borderTopLeftRadius": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 4
-                      },
-                      "paddingLeft": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 10
-                      },
-                      "paddingRight": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 10
-                      },
-                      "borderTopWidth": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 0
-                      },
-                      "borderRightWidth": {
-                        "type": "unit",
-                        "unit": "number",
-                        "value": 0
-                      },
-                      "borderBottomWidth": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 0
-                      },
-                      "borderLeftWidth": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 0
-                      },
-                      "paddingBottom": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 0
-                      },
-                      "height": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 25
-                      },
-                      "fontSize": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 14
-                      },
-                      "lineHeight": {
-                        "type": "unit",
-                        "unit": "number",
-                        "value": 1
-                      },
-                      "display": {
-                        "type": "keyword",
-                        "value": "inline-block"
-                      },
-                      "justifyContent": {
-                        "type": "keyword",
-                        "value": "center"
-                      },
-                      "justifyItems": {
-                        "type": "keyword",
-                        "value": "center"
-                      },
-                      "alignItems": {
-                        "type": "keyword",
-                        "value": "center"
-                      },
-                      "width": {
-                        "type": "keyword",
-                        "value": "auto"
-                      },
-                      "paddingTop": {
-                        "type": "unit",
-                        "unit": "px",
-                        "value": 0
-                      },
-                      "backgroundColor": {
-                        "type": "keyword",
-                        "value": "rgba(255,255,255,1)"
-                      }
-                    },
                     "children": [
                       "Subscribe"
+                    ],
+                    "cssRules": [
+                      {
+                        "breakpoint": {
+                          "$oid": "626fc63909a681e2a912b5a4"
+                        },
+                        "style": {
+                          "boxShadow": {
+                            "type": "keyword",
+                            "value": "inset 0 0 0 1px #d7dbdf"
+                          },
+                          "borderBottomRightRadius": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 4
+                          },
+                          "borderBottomLeftRadius": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 4
+                          },
+                          "borderTopRightRadius": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 4
+                          },
+                          "borderTopLeftRadius": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 4
+                          },
+                          "paddingLeft": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 10
+                          },
+                          "paddingRight": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 10
+                          },
+                          "borderTopWidth": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 0
+                          },
+                          "borderRightWidth": {
+                            "type": "unit",
+                            "unit": "number",
+                            "value": 0
+                          },
+                          "borderBottomWidth": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 0
+                          },
+                          "borderLeftWidth": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 0
+                          },
+                          "paddingBottom": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 0
+                          },
+                          "height": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 25
+                          },
+                          "fontSize": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 14
+                          },
+                          "lineHeight": {
+                            "type": "unit",
+                            "unit": "number",
+                            "value": 1
+                          },
+                          "display": {
+                            "type": "keyword",
+                            "value": "inline-block"
+                          },
+                          "justifyContent": {
+                            "type": "keyword",
+                            "value": "center"
+                          },
+                          "justifyItems": {
+                            "type": "keyword",
+                            "value": "center"
+                          },
+                          "alignItems": {
+                            "type": "keyword",
+                            "value": "center"
+                          },
+                          "width": {
+                            "type": "keyword",
+                            "value": "auto"
+                          },
+                          "paddingTop": {
+                            "type": "unit",
+                            "unit": "px",
+                            "value": 0
+                          },
+                          "backgroundColor": {
+                            "type": "keyword",
+                            "value": "rgba(255,255,255,1)"
+                          }
+                        }
+                      }
                     ]
+                  }
+                ],
+                "cssRules": [
+                  {
+                    "breakpoint": {
+                      "$oid": "626fc63909a681e2a912b5a4"
+                    },
+                    "style": {
+                      "display": {
+                        "type": "keyword",
+                        "value": "flex"
+                      },
+                      "rowGap": {
+                        "type": "unit",
+                        "unit": "em",
+                        "value": 0
+                      },
+                      "columnGap": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 0
+                      },
+                      "position": {
+                        "type": "keyword",
+                        "value": "static"
+                      },
+                      "top": {
+                        "type": "keyword",
+                        "value": "auto"
+                      }
+                    }
                   }
                 ]
               },
               {
                 "component": "Paragraph",
                 "id": "622fa41b00ea8231d10bddd8",
+                "children": [
+                  "Thank you for your interest! Follow us on ",
+                  {
+                    "component": "Link",
+                    "id": "6230bb1decd6c567fd796106",
+                    "children": [
+                      "twitter"
+                    ],
+                    "cssRules": [
+                      {
+                        "breakpoint": {
+                          "$oid": "626fc63909a681e2a912b5a4"
+                        },
+                        "style": {
+                          "color": {
+                            "type": "keyword",
+                            "value": "rgba(9,105,218,1)"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  " or say hi per ",
+                  {
+                    "component": "Link",
+                    "id": "6230bb4eecd6c567fd796109",
+                    "children": [
+                      "email"
+                    ],
+                    "cssRules": [
+                      {
+                        "breakpoint": {
+                          "$oid": "626fc63909a681e2a912b5a4"
+                        },
+                        "style": {
+                          "color": {
+                            "type": "keyword",
+                            "value": "rgba(9,105,218,1)"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  "!"
+                ],
+                "cssRules": [
+                  {
+                    "breakpoint": {
+                      "$oid": "626fc63909a681e2a912b5a4"
+                    },
+                    "style": {
+                      "fontSize": {
+                        "type": "unit",
+                        "unit": "em",
+                        "value": 1
+                      },
+                      "lineHeight": {
+                        "type": "unit",
+                        "unit": "number",
+                        "value": 1.3
+                      },
+                      "marginBottom": {
+                        "type": "unit",
+                        "unit": "px",
+                        "value": 0
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "cssRules": [
+              {
+                "breakpoint": {
+                  "$oid": "626fc63909a681e2a912b5a4"
+                },
+                "style": {
+                  "display": {
+                    "type": "keyword",
+                    "value": "flex"
+                  },
+                  "flexDirection": {
+                    "type": "keyword",
+                    "value": "column"
+                  },
+                  "columnGap": {
+                    "type": "unit",
+                    "unit": "number",
+                    "value": 0
+                  },
+                  "rowGap": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 1
+                  },
+                  "minHeight": {
+                    "type": "unit",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  "paddingTop": {
+                    "type": "unit",
+                    "unit": "px",
+                    "value": 18
+                  },
+                  "paddingBottom": {
+                    "type": "unit",
+                    "unit": "px",
+                    "value": 18
+                  },
+                  "position": {
+                    "type": "keyword",
+                    "value": "static"
+                  },
+                  "top": {
+                    "type": "unit",
+                    "unit": "px",
+                    "value": 100
+                  },
+                  "backgroundColor": {
+                    "type": "keyword",
+                    "value": "rgba(0,0,0,0)"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "component": "Heading",
+            "id": "62154cad05b68d36fac42a9f",
+            "children": [
+              "On the mission to democratize software creation on the web\n"
+            ],
+            "cssRules": [
+              {
+                "breakpoint": {
+                  "$oid": "626fc63909a681e2a912b5a4"
+                },
+                "style": {
+                  "fontSize": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 1.7
+                  },
+                  "lineHeight": {
+                    "type": "unit",
+                    "unit": "number",
+                    "value": 1.3
+                  },
+                  "marginBottom": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 0
+                  },
+                  "marginTop": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 2
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "component": "Paragraph",
+            "id": "62154deb05b68d36fac42aa1",
+            "children": [
+              "Webstudio is going to dramatically simplify collaboration between designers and developers on any type of site or web app.\n\nYou can build your front-end visually with Webstudio and connect it with your digital ecosystem over APIs or with any custom back-end system.\n\nYou own everything you create with Webstudio and you’re free to deploy it wherever you want!"
+            ],
+            "cssRules": [
+              {
+                "breakpoint": {
+                  "$oid": "626fc63909a681e2a912b5a4"
+                },
+                "style": {
+                  "lineHeight": {
+                    "type": "unit",
+                    "unit": "number",
+                    "value": 1.3
+                  },
+                  "marginBottom": {
+                    "type": "unit",
+                    "unit": "px",
+                    "value": 18
+                  },
+                  "marginTop": {
+                    "type": "unit",
+                    "unit": "px",
+                    "value": 18
+                  },
+                  "fontSize": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 1
+                  },
+                  "display": {
+                    "type": "keyword",
+                    "value": "block"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "component": "Heading",
+            "id": "6215567f85eb55cfe714d73d",
+            "children": [
+              "Deploy anywhere",
+              "\n"
+            ],
+            "cssRules": [
+              {
+                "breakpoint": {
+                  "$oid": "626fc63909a681e2a912b5a4"
+                },
+                "style": {
+                  "fontSize": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 1.7
+                  },
+                  "lineHeight": {
+                    "type": "unit",
+                    "unit": "number",
+                    "value": 1.3
+                  },
+                  "marginBottom": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 0
+                  },
+                  "marginTop": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 2
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "component": "Paragraph",
+            "id": "622e01a53850a4661b0a4cf4",
+            "children": [
+              "Launch with one click directly from Webstudio or deploy the code to any other service like Vercel, Netlify, AWS, etc. yourself!"
+            ],
+            "cssRules": [
+              {
+                "breakpoint": {
+                  "$oid": "626fc63909a681e2a912b5a4"
+                },
                 "style": {
                   "fontSize": {
                     "type": "unit",
@@ -1153,435 +1241,360 @@
                     "type": "unit",
                     "unit": "number",
                     "value": 1.3
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "component": "Heading",
+            "id": "6230da269122509e462ee774",
+            "children": [
+              "For developers"
+            ],
+            "cssRules": [
+              {
+                "breakpoint": {
+                  "$oid": "626fc63909a681e2a912b5a4"
+                },
+                "style": {
+                  "fontSize": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 1.7
+                  },
+                  "lineHeight": {
+                    "type": "unit",
+                    "unit": "number",
+                    "value": 1.3
+                  },
+                  "marginTop": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 2
                   },
                   "marginBottom": {
                     "type": "unit",
                     "unit": "px",
                     "value": 0
                   }
-                },
-                "children": [
-                  "Thank you for your interest! Follow us on ",
-                  {
-                    "component": "Link",
-                    "id": "6230bb1decd6c567fd796106",
-                    "style": {
-                      "color": {
-                        "type": "keyword",
-                        "value": "rgba(9,105,218,1)"
-                      }
-                    },
-                    "children": [
-                      "twitter"
-                    ]
-                  },
-                  " or say hi per ",
-                  {
-                    "component": "Link",
-                    "id": "6230bb4eecd6c567fd796109",
-                    "style": {
-                      "color": {
-                        "type": "keyword",
-                        "value": "rgba(9,105,218,1)"
-                      }
-                    },
-                    "children": [
-                      "email"
-                    ]
-                  },
-                  "!"
-                ]
+                }
               }
-            ]
-          },
-          {
-            "component": "Heading",
-            "id": "62154cad05b68d36fac42a9f",
-            "style": {
-              "fontSize": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1.7
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              },
-              "marginBottom": {
-                "type": "unit",
-                "unit": "em",
-                "value": 0
-              },
-              "marginTop": {
-                "type": "unit",
-                "unit": "em",
-                "value": 2
-              }
-            },
-            "children": [
-              "On the mission to democratize software creation on the web\n"
-            ]
-          },
-          {
-            "component": "Paragraph",
-            "id": "62154deb05b68d36fac42aa1",
-            "style": {
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              },
-              "marginBottom": {
-                "type": "unit",
-                "unit": "px",
-                "value": 18
-              },
-              "marginTop": {
-                "type": "unit",
-                "unit": "px",
-                "value": 18
-              },
-              "fontSize": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1
-              },
-              "display": {
-                "type": "keyword",
-                "value": "block"
-              }
-            },
-            "children": [
-              "Webstudio is going to dramatically simplify collaboration between designers and developers on any type of site or web app.\n\nYou can build your front-end visually with Webstudio and connect it with your digital ecosystem over APIs or with any custom back-end system.\n\nYou own everything you create with Webstudio and you’re free to deploy it wherever you want!"
-            ]
-          },
-          {
-            "component": "Heading",
-            "id": "6215567f85eb55cfe714d73d",
-            "style": {
-              "fontSize": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1.7
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              },
-              "marginBottom": {
-                "type": "unit",
-                "unit": "em",
-                "value": 0
-              },
-              "marginTop": {
-                "type": "unit",
-                "unit": "em",
-                "value": 2
-              }
-            },
-            "children": [
-              "Deploy anywhere",
-              "\n"
-            ]
-          },
-          {
-            "component": "Paragraph",
-            "id": "622e01a53850a4661b0a4cf4",
-            "style": {
-              "fontSize": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              }
-            },
-            "children": [
-              "Launch with one click directly from Webstudio or deploy the code to any other service like Vercel, Netlify, AWS, etc. yourself!"
-            ]
-          },
-          {
-            "component": "Heading",
-            "id": "6230da269122509e462ee774",
-            "style": {
-              "fontSize": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1.7
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              },
-              "marginTop": {
-                "type": "unit",
-                "unit": "em",
-                "value": 2
-              },
-              "marginBottom": {
-                "type": "unit",
-                "unit": "px",
-                "value": 0
-              }
-            },
-            "children": [
-              "For developers"
             ]
           },
           {
             "component": "Paragraph",
             "id": "6230e0f90dba0c391a1ecdf5",
-            "style": {
-              "fontSize": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              }
-            },
             "children": [
               "What if you could avoid writing declarative render components and CSS in code completely? What if you could create the visual components in a visual tool? What if you could play with CSS like you do in dev tools and make it synchronize with your production code?\n\nThat's the goal with Webstudio. Designers and product owners on your team can work on the front-end without needing your help for every task. The goal is to let you focus on business logic and custom rendering logic that requires code and remove pixel-moving tasks from your to-do list.\n\nAnd did we mention it’s open source?"
+            ],
+            "cssRules": [
+              {
+                "breakpoint": {
+                  "$oid": "626fc63909a681e2a912b5a4"
+                },
+                "style": {
+                  "fontSize": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 1
+                  },
+                  "lineHeight": {
+                    "type": "unit",
+                    "unit": "number",
+                    "value": 1.3
+                  }
+                }
+              }
             ]
           },
           {
             "component": "Heading",
             "id": "6230da4c9122509e462ee7a5",
-            "style": {
-              "fontSize": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1.7
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              },
-              "marginTop": {
-                "type": "unit",
-                "unit": "em",
-                "value": 2
-              },
-              "marginBottom": {
-                "type": "unit",
-                "unit": "px",
-                "value": 0
-              }
-            },
             "children": [
               "For designers"
+            ],
+            "cssRules": [
+              {
+                "breakpoint": {
+                  "$oid": "626fc63909a681e2a912b5a4"
+                },
+                "style": {
+                  "fontSize": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 1.7
+                  },
+                  "lineHeight": {
+                    "type": "unit",
+                    "unit": "number",
+                    "value": 1.3
+                  },
+                  "marginTop": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 2
+                  },
+                  "marginBottom": {
+                    "type": "unit",
+                    "unit": "px",
+                    "value": 0
+                  }
+                }
+              }
             ]
           },
           {
             "component": "Paragraph",
             "id": "6230e17696358f7c8fa739f1",
-            "style": {
-              "fontSize": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              }
-            },
             "children": [
               "The power to bring your designs to life on the web is here. Webstudio is like no tool you’ve ever used before. While other visual development tools limit you to their platform, you can take your Webstudio project and do anything with it!\n\nYou can integrate with any CMS or e-commerce platform, you can share your builds on GitHub, and you can collaborate with developers like never before."
+            ],
+            "cssRules": [
+              {
+                "breakpoint": {
+                  "$oid": "626fc63909a681e2a912b5a4"
+                },
+                "style": {
+                  "fontSize": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 1
+                  },
+                  "lineHeight": {
+                    "type": "unit",
+                    "unit": "number",
+                    "value": 1.3
+                  }
+                }
+              }
             ]
           },
           {
             "component": "Heading",
             "id": "6230dcc345867d509f5dd46e",
-            "style": {
-              "fontSize": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1.7
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              },
-              "marginTop": {
-                "type": "unit",
-                "unit": "em",
-                "value": 2
-              },
-              "marginBottom": {
-                "type": "unit",
-                "unit": "px",
-                "value": 0
-              }
-            },
             "children": [
               "For everyone"
+            ],
+            "cssRules": [
+              {
+                "breakpoint": {
+                  "$oid": "626fc63909a681e2a912b5a4"
+                },
+                "style": {
+                  "fontSize": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 1.7
+                  },
+                  "lineHeight": {
+                    "type": "unit",
+                    "unit": "number",
+                    "value": 1.3
+                  },
+                  "marginTop": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 2
+                  },
+                  "marginBottom": {
+                    "type": "unit",
+                    "unit": "px",
+                    "value": 0
+                  }
+                }
+              }
             ]
           },
           {
             "component": "Paragraph",
             "id": "6230e22c2383ed51e4baafd2",
-            "style": {
-              "fontSize": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              }
-            },
             "children": [
               "We want Webstudio to be useful to everyone. No matter your role or coding ability - you should be able to use it. Our mission is to democratize software creation for the web."
+            ],
+            "cssRules": [
+              {
+                "breakpoint": {
+                  "$oid": "626fc63909a681e2a912b5a4"
+                },
+                "style": {
+                  "fontSize": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 1
+                  },
+                  "lineHeight": {
+                    "type": "unit",
+                    "unit": "number",
+                    "value": 1.3
+                  }
+                }
+              }
             ]
           },
           {
             "component": "Heading",
             "id": "6230dda00dba0c391a1ecc2a",
-            "style": {
-              "marginTop": {
-                "type": "unit",
-                "unit": "em",
-                "value": 2
-              },
-              "marginBottom": {
-                "type": "unit",
-                "unit": "px",
-                "value": 0
-              },
-              "fontSize": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1.7
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              }
-            },
             "children": [
               "Save time and money with empowered collaboration"
+            ],
+            "cssRules": [
+              {
+                "breakpoint": {
+                  "$oid": "626fc63909a681e2a912b5a4"
+                },
+                "style": {
+                  "marginTop": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 2
+                  },
+                  "marginBottom": {
+                    "type": "unit",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  "fontSize": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 1.7
+                  },
+                  "lineHeight": {
+                    "type": "unit",
+                    "unit": "number",
+                    "value": 1.3
+                  }
+                }
+              }
             ]
           },
           {
             "component": "Paragraph",
             "id": "6230e2652383ed51e4bab002",
-            "style": {
-              "fontSize": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              }
-            },
             "children": [
               "Imagine a team of designers, engineers, and product owners collaborating on the product in real-time. Any of them can work on the product, reducing the engineering hours needed and significantly reducing time spent on communication.\n\nEach team member can work on a different version of the same product, validate their assumptions and merge their version when a consensus is reached. "
+            ],
+            "cssRules": [
+              {
+                "breakpoint": {
+                  "$oid": "626fc63909a681e2a912b5a4"
+                },
+                "style": {
+                  "fontSize": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 1
+                  },
+                  "lineHeight": {
+                    "type": "unit",
+                    "unit": "number",
+                    "value": 1.3
+                  }
+                }
+              }
             ]
           },
           {
             "component": "Heading",
             "id": "6230e2762383ed51e4bab038",
-            "style": {
-              "marginTop": {
-                "type": "unit",
-                "unit": "em",
-                "value": 2
-              },
-              "marginBottom": {
-                "type": "unit",
-                "unit": "px",
-                "value": 0
-              },
-              "fontSize": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1.7
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              }
-            },
             "children": [
               "Integrate with any service"
+            ],
+            "cssRules": [
+              {
+                "breakpoint": {
+                  "$oid": "626fc63909a681e2a912b5a4"
+                },
+                "style": {
+                  "marginTop": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 2
+                  },
+                  "marginBottom": {
+                    "type": "unit",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  "fontSize": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 1.7
+                  },
+                  "lineHeight": {
+                    "type": "unit",
+                    "unit": "number",
+                    "value": 1.3
+                  }
+                }
+              }
             ]
           },
           {
             "component": "Paragraph",
             "id": "6230e2872383ed51e4bab068",
-            "style": {
-              "fontSize": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              }
-            },
             "children": [
               "With Webstudio you can use any headless CMS or e-commerce back-end. For example, you can build a site or app that integrates ",
               {
                 "component": "Link",
                 "id": "6234f0d8be2dc53ea70e0148",
-                "style": {
-                  "color": {
-                    "type": "keyword",
-                    "value": "rgba(9,105,218,1)"
-                  }
-                },
                 "children": [
                   "Shopify"
+                ],
+                "cssRules": [
+                  {
+                    "breakpoint": {
+                      "$oid": "626fc63909a681e2a912b5a4"
+                    },
+                    "style": {
+                      "color": {
+                        "type": "keyword",
+                        "value": "rgba(9,105,218,1)"
+                      }
+                    }
+                  }
                 ]
               },
               " for online shop or ",
               {
                 "component": "Link",
                 "id": "6234f09ebe2dc53ea70e0031",
-                "style": {
-                  "color": {
-                    "type": "keyword",
-                    "value": "rgba(9,105,218,1)"
-                  }
-                },
                 "children": [
                   "GraphCMS"
+                ],
+                "cssRules": [
+                  {
+                    "breakpoint": {
+                      "$oid": "626fc63909a681e2a912b5a4"
+                    },
+                    "style": {
+                      "color": {
+                        "type": "keyword",
+                        "value": "rgba(9,105,218,1)"
+                      }
+                    }
+                  }
                 ]
               },
               " and ",
               {
                 "component": "Link",
                 "id": "6234f0d8be2dc53ea70e0149",
-                "style": {
-                  "color": {
-                    "type": "keyword",
-                    "value": "rgba(9,105,218,1)"
-                  }
-                },
                 "children": [
                   "Contentful"
+                ],
+                "cssRules": [
+                  {
+                    "breakpoint": {
+                      "$oid": "626fc63909a681e2a912b5a4"
+                    },
+                    "style": {
+                      "color": {
+                        "type": "keyword",
+                        "value": "rgba(9,105,218,1)"
+                      }
+                    }
+                  }
                 ]
               },
               " for CMS content.",
@@ -1591,63 +1604,84 @@
               {
                 "component": "Link",
                 "id": "6234f0d8be2dc53ea70e014a",
-                "style": {
-                  "color": {
-                    "type": "keyword",
-                    "value": "rgba(9,105,218,1)"
-                  }
-                },
                 "children": [
                   "GraphQL"
+                ],
+                "cssRules": [
+                  {
+                    "breakpoint": {
+                      "$oid": "626fc63909a681e2a912b5a4"
+                    },
+                    "style": {
+                      "color": {
+                        "type": "keyword",
+                        "value": "rgba(9,105,218,1)"
+                      }
+                    }
+                  }
                 ]
               },
               " binding to any component and choose which endpoint and data properties to bind to each component property. Webstudio will optimize and cache data for you, making as few and as small requests as possible."
+            ],
+            "cssRules": [
+              {
+                "breakpoint": {
+                  "$oid": "626fc63909a681e2a912b5a4"
+                },
+                "style": {
+                  "fontSize": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 1
+                  },
+                  "lineHeight": {
+                    "type": "unit",
+                    "unit": "number",
+                    "value": 1.3
+                  }
+                }
+              }
             ]
           },
           {
             "component": "Heading",
             "id": "6230e2aa2383ed51e4bab0c6",
-            "style": {
-              "marginTop": {
-                "type": "unit",
-                "unit": "em",
-                "value": 2
-              },
-              "marginBottom": {
-                "type": "unit",
-                "unit": "px",
-                "value": 0
-              },
-              "fontSize": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1.7
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              }
-            },
             "children": [
               "Code, visually"
+            ],
+            "cssRules": [
+              {
+                "breakpoint": {
+                  "$oid": "626fc63909a681e2a912b5a4"
+                },
+                "style": {
+                  "marginTop": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 2
+                  },
+                  "marginBottom": {
+                    "type": "unit",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  "fontSize": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 1.7
+                  },
+                  "lineHeight": {
+                    "type": "unit",
+                    "unit": "number",
+                    "value": 1.3
+                  }
+                }
+              }
             ]
           },
           {
             "component": "Paragraph",
             "id": "6230e2b62383ed51e4bab109",
-            "style": {
-              "fontSize": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              }
-            },
             "children": [
               "Webstudio is a true visual development tool that embraces CSS, unlike drag-and-drop builders that produce bloated, unreadable code and slow sites.",
               "\n",
@@ -1662,212 +1696,556 @@
               {
                 "component": "Link",
                 "id": "6234f19c4aa2225b84a501ec",
-                "style": {
-                  "color": {
-                    "type": "keyword",
-                    "value": "rgba(9,105,218,1)"
-                  }
-                },
                 "children": [
                   "Remix"
+                ],
+                "cssRules": [
+                  {
+                    "breakpoint": {
+                      "$oid": "626fc63909a681e2a912b5a4"
+                    },
+                    "style": {
+                      "color": {
+                        "type": "keyword",
+                        "value": "rgba(9,105,218,1)"
+                      }
+                    }
+                  }
                 ]
               },
               ")"
+            ],
+            "cssRules": [
+              {
+                "breakpoint": {
+                  "$oid": "626fc63909a681e2a912b5a4"
+                },
+                "style": {
+                  "fontSize": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 1
+                  },
+                  "lineHeight": {
+                    "type": "unit",
+                    "unit": "number",
+                    "value": 1.3
+                  }
+                }
+              }
             ]
           },
           {
             "component": "Heading",
             "id": "6230e2bf2383ed51e4bab14d",
-            "style": {
-              "marginTop": {
-                "type": "unit",
-                "unit": "em",
-                "value": 2
-              },
-              "marginBottom": {
-                "type": "unit",
-                "unit": "px",
-                "value": 0
-              },
-              "fontSize": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1.7
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              }
-            },
             "children": [
               "Export and synchronize data from Webstudio"
+            ],
+            "cssRules": [
+              {
+                "breakpoint": {
+                  "$oid": "626fc63909a681e2a912b5a4"
+                },
+                "style": {
+                  "marginTop": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 2
+                  },
+                  "marginBottom": {
+                    "type": "unit",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  "fontSize": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 1.7
+                  },
+                  "lineHeight": {
+                    "type": "unit",
+                    "unit": "number",
+                    "value": 1.3
+                  }
+                }
+              }
             ]
           },
           {
             "component": "Paragraph",
             "id": "6230e2c92383ed51e4bab194",
-            "style": {
-              "fontSize": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              }
-            },
             "children": [
               "Webstudio produces three types of data and enables access to it over API: components tree, styles, and GraphQL bindings. Additionally, it provides primitive components you can install via npm in your codebase.\n\nWebstudio will generate a Remix app for you out of the box, or you can choose to integrate primitive components and data from Webstudio with your custom code.\n\nYou can use a single component, one page, or the entire site from Webstudio because everything is a React component. There is no \"eject\".\n\nYou can synchronize the data any time and keep collaborating between custom code and Webstudio!"
+            ],
+            "cssRules": [
+              {
+                "breakpoint": {
+                  "$oid": "626fc63909a681e2a912b5a4"
+                },
+                "style": {
+                  "fontSize": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 1
+                  },
+                  "lineHeight": {
+                    "type": "unit",
+                    "unit": "number",
+                    "value": 1.3
+                  }
+                }
+              }
             ]
           },
           {
             "component": "Heading",
             "id": "6230e2ea2383ed51e4bab226",
-            "style": {
-              "marginTop": {
-                "type": "unit",
-                "unit": "em",
-                "value": 2
-              },
-              "marginBottom": {
-                "type": "unit",
-                "unit": "px",
-                "value": 0
-              },
-              "fontSize": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1.7
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              }
-            },
             "children": [
               "Performance is our foundation"
+            ],
+            "cssRules": [
+              {
+                "breakpoint": {
+                  "$oid": "626fc63909a681e2a912b5a4"
+                },
+                "style": {
+                  "marginTop": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 2
+                  },
+                  "marginBottom": {
+                    "type": "unit",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  "fontSize": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 1.7
+                  },
+                  "lineHeight": {
+                    "type": "unit",
+                    "unit": "number",
+                    "value": 1.3
+                  }
+                }
+              }
             ]
           },
           {
             "component": "Paragraph",
             "id": "6234f26a22ff547e921dcb25",
-            "style": {
-              "fontSize": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              }
-            },
             "children": [
               "We want you to deploy your ",
               {
                 "component": "Link",
                 "id": "6234f2b422ff547e921dcca2",
-                "style": {
-                  "color": {
-                    "type": "keyword",
-                    "value": "rgba(9,105,218,1)"
-                  }
-                },
                 "children": [
                   "serverless"
+                ],
+                "cssRules": [
+                  {
+                    "breakpoint": {
+                      "$oid": "626fc63909a681e2a912b5a4"
+                    },
+                    "style": {
+                      "color": {
+                        "type": "keyword",
+                        "value": "rgba(9,105,218,1)"
+                      }
+                    }
+                  }
                 ]
               },
               " app to the ",
               {
                 "component": "Link",
                 "id": "6234f2d0b3b58e2c116f0c3a",
-                "style": {
-                  "color": {
-                    "type": "keyword",
-                    "value": "rgba(9,105,218,1)"
-                  }
-                },
                 "children": [
                   "edge"
+                ],
+                "cssRules": [
+                  {
+                    "breakpoint": {
+                      "$oid": "626fc63909a681e2a912b5a4"
+                    },
+                    "style": {
+                      "color": {
+                        "type": "keyword",
+                        "value": "rgba(9,105,218,1)"
+                      }
+                    }
+                  }
                 ]
               },
               " with just one click. Running on the edge means your code runs on a globally distributed server infrastructure, close to your users. Furthermore, thanks to Remix your app runtime won’t depend on Node and can be deployed virtually anywhere, for example, Cloudflare Workers or Vercel Serverless Function.",
               "\n",
               "\n",
               "Remix also ensures the highest possible front-end performance by utilizing lazy loading and progressive enhancement."
+            ],
+            "cssRules": [
+              {
+                "breakpoint": {
+                  "$oid": "626fc63909a681e2a912b5a4"
+                },
+                "style": {
+                  "fontSize": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 1
+                  },
+                  "lineHeight": {
+                    "type": "unit",
+                    "unit": "number",
+                    "value": 1.3
+                  }
+                }
+              }
             ]
           },
           {
             "component": "Heading",
             "id": "6230e33b2383ed51e4bab353",
-            "style": {
-              "marginTop": {
-                "type": "unit",
-                "unit": "em",
-                "value": 2
-              },
-              "marginBottom": {
-                "type": "unit",
-                "unit": "px",
-                "value": 0
-              },
-              "fontSize": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1.7
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              }
-            },
             "children": [
               "Accessibility commitment"
+            ],
+            "cssRules": [
+              {
+                "breakpoint": {
+                  "$oid": "626fc63909a681e2a912b5a4"
+                },
+                "style": {
+                  "marginTop": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 2
+                  },
+                  "marginBottom": {
+                    "type": "unit",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  "fontSize": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 1.7
+                  },
+                  "lineHeight": {
+                    "type": "unit",
+                    "unit": "number",
+                    "value": 1.3
+                  }
+                }
+              }
             ]
           },
           {
             "component": "Paragraph",
             "id": "6230e3442383ed51e4bab39f",
-            "style": {
-              "fontSize": {
-                "type": "unit",
-                "unit": "em",
-                "value": 1
-              },
-              "lineHeight": {
-                "type": "unit",
-                "unit": "number",
-                "value": 1.3
-              }
-            },
             "children": [
               "Our commitment is to ensure the highest possible accessibility standard in Webstudio UI and produced sites or web apps. Webstudio itself is already built using an accessible components foundation - ",
               {
                 "component": "Link",
                 "id": "6234f36e5ba2220f2a2b4395",
-                "style": {
-                  "color": {
-                    "type": "keyword",
-                    "value": "rgba(9,105,218,1)"
-                  }
-                },
                 "children": [
                   "Radix UI"
+                ],
+                "cssRules": [
+                  {
+                    "breakpoint": {
+                      "$oid": "626fc63909a681e2a912b5a4"
+                    },
+                    "style": {
+                      "color": {
+                        "type": "keyword",
+                        "value": "rgba(9,105,218,1)"
+                      }
+                    }
+                  }
                 ]
               },
               ".",
               "\n",
               "\n",
               "On top of that, we are committed to guiding the user towards fully accessible content, validating their work in real-time and identifying problems, pushing them to create accessible content."
+            ],
+            "cssRules": [
+              {
+                "breakpoint": {
+                  "$oid": "626fc63909a681e2a912b5a4"
+                },
+                "style": {
+                  "fontSize": {
+                    "type": "unit",
+                    "unit": "em",
+                    "value": 1
+                  },
+                  "lineHeight": {
+                    "type": "unit",
+                    "unit": "number",
+                    "value": 1.3
+                  }
+                }
+              }
             ]
           }
+        ],
+        "cssRules": [
+          {
+            "breakpoint": {
+              "$oid": "626fc63909a681e2a912b5a4"
+            },
+            "style": {
+              "paddingBottom": {
+                "type": "unit",
+                "unit": "px",
+                "value": 30
+              },
+              "display": {
+                "type": "keyword",
+                "value": "block"
+              },
+              "flexDirection": {
+                "type": "keyword",
+                "value": "column"
+              },
+              "rowGap": {
+                "type": "unit",
+                "unit": "em",
+                "value": 0
+              },
+              "marginLeft": {
+                "type": "unit",
+                "unit": "px",
+                "value": 0
+              },
+              "maxWidth": {
+                "type": "unit",
+                "unit": "px",
+                "value": 750
+              },
+              "paddingTop": {
+                "type": "unit",
+                "unit": "px",
+                "value": 50
+              },
+              "fontSize": {
+                "type": "unit",
+                "unit": "px",
+                "value": 18
+              },
+              "paddingLeft": {
+                "type": "unit",
+                "unit": "px",
+                "value": 20
+              },
+              "paddingRight": {
+                "type": "unit",
+                "unit": "px",
+                "value": 20
+              },
+              "minWidth": {
+                "type": "unit",
+                "unit": "px",
+                "value": 360
+              },
+              "width": {
+                "type": "keyword",
+                "value": "auto"
+              }
+            }
+          },
+          {
+            "style": {
+              "minWidth": {
+                "type": "unit",
+                "unit": "px",
+                "value": 340
+              }
+            },
+            "breakpoint": "626fc63909a681e2a912b5a4"
+          }
         ]
+      }
+    ],
+    "cssRules": [
+      {
+        "breakpoint": {
+          "$oid": "626fc63909a681e2a912b5a4"
+        },
+        "style": {
+          "fontFamily": {
+            "type": "keyword",
+            "value": "-apple-system, system-ui, Arial"
+          },
+          "fontSize": {
+            "type": "unit",
+            "unit": "px",
+            "value": 14
+          },
+          "lineHeight": {
+            "type": "unit",
+            "unit": "px",
+            "value": 20
+          },
+          "color": {
+            "type": "keyword",
+            "value": "rgba(5,5,5,1)"
+          },
+          "minHeight": {
+            "type": "unit",
+            "unit": "vh",
+            "value": 100
+          },
+          "flexDirection": {
+            "type": "keyword",
+            "value": "row"
+          },
+          "maxWidth": {
+            "type": "keyword",
+            "value": "none"
+          },
+          "minWidth": {
+            "type": "unit",
+            "unit": "px",
+            "value": 200
+          },
+          "marginRight": {
+            "type": "unit",
+            "unit": "px",
+            "value": 0
+          },
+          "marginLeft": {
+            "type": "unit",
+            "unit": "px",
+            "value": 0
+          },
+          "paddingRight": {
+            "type": "unit",
+            "unit": "px",
+            "value": 0
+          },
+          "paddingLeft": {
+            "type": "unit",
+            "unit": "px",
+            "value": 0
+          },
+          "display": {
+            "type": "keyword",
+            "value": "flex"
+          },
+          "rowGap": {
+            "type": "unit",
+            "unit": "em",
+            "value": 0
+          },
+          "paddingTop": {
+            "type": "unit",
+            "unit": "px",
+            "value": 0
+          },
+          "backgroundColor": {
+            "type": "keyword",
+            "value": "rgba(245,245,245,1)"
+          },
+          "width": {
+            "type": "keyword",
+            "value": "auto"
+          },
+          "height": {
+            "type": "keyword",
+            "value": "auto"
+          },
+          "alignItems": {
+            "type": "keyword",
+            "value": "center"
+          },
+          "justifyContent": {
+            "type": "keyword",
+            "value": "center"
+          },
+          "justifyItems": {
+            "type": "keyword",
+            "value": "center"
+          },
+          "borderLeftWidth": {
+            "type": "unit",
+            "unit": "px",
+            "value": 0
+          },
+          "borderBottomWidth": {
+            "type": "unit",
+            "unit": "px",
+            "value": 0
+          },
+          "borderRightWidth": {
+            "type": "unit",
+            "unit": "px",
+            "value": 0
+          },
+          "borderTopWidth": {
+            "type": "unit",
+            "unit": "px",
+            "value": 0
+          },
+          "boxShadow": {
+            "type": "keyword",
+            "value": "inset 0 0 0 1px #d7dbdf"
+          },
+          "borderTopLeftRadius": {
+            "type": "unit",
+            "unit": "em",
+            "value": 0
+          },
+          "borderTopRightRadius": {
+            "type": "unit",
+            "unit": "em",
+            "value": 0
+          },
+          "borderBottomLeftRadius": {
+            "type": "unit",
+            "unit": "em",
+            "value": 0
+          },
+          "borderBottomRightRadius": {
+            "type": "unit",
+            "unit": "em",
+            "value": 0
+          },
+          "borderTopStyle": {
+            "type": "keyword",
+            "value": "none"
+          },
+          "borderRightStyle": {
+            "type": "keyword",
+            "value": "none"
+          },
+          "borderBottomStyle": {
+            "type": "keyword",
+            "value": "none"
+          },
+          "borderLeftStyle": {
+            "type": "keyword",
+            "value": "none"
+          },
+          "borderTopColor": {
+            "type": "keyword",
+            "value": "rgba(0,0,0,0)"
+          },
+          "borderRightColor": {
+            "type": "keyword",
+            "value": "rgba(0,0,0,0)"
+          },
+          "borderBottomColor": {
+            "type": "keyword",
+            "value": "rgba(0,0,0,0)"
+          },
+          "borderLeftColor": {
+            "type": "keyword",
+            "value": "rgba(0,0,0,0)"
+          }
+        }
       }
     ]
   }

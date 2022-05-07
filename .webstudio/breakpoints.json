@@ -1,0 +1,22 @@
+[
+  {
+    "id": "626fc63909a681e2a912b5a4",
+    "label": "Mobile",
+    "minWidth": 0
+  },
+  {
+    "id": "626fc63909a681e2a912b5a5",
+    "label": "Tablet",
+    "minWidth": 768
+  },
+  {
+    "id": "626fc63909a681e2a912b5a6",
+    "label": "Laptop",
+    "minWidth": 1024
+  },
+  {
+    "id": "626fc63909a681e2a912b5a7",
+    "label": "Desktop",
+    "minWidth": 1280
+  }
+]
