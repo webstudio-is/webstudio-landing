@@ -41,7 +41,7 @@ export const action: ActionFunction = async ({ request }) => {
  */
 const Component = (props: WrapperComponentProps) => {
   // useUserProps gives access to user defined props
-  const { override } = useUserProps(props.id);
+  const { override } = useUserProps(props.instance.id);
 
   // We want to override a component that has override="SignupForm" prop defined.
   if (override === "SignupForm") {
