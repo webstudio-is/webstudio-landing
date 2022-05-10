@@ -1,5 +1,5 @@
 {
-  "id": "627970d9e49294e14632ce6a",
+  "id": "627ae14e4ae1c21a2c039f16",
   "root": {
     "component": "Box",
     "id": "root",
@@ -531,6 +531,26 @@
                   "mixBlendMode": {
                     "type": "keyword",
                     "value": "normal"
+                  },
+                  "paddingLeft": {
+                    "type": "unit",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  "paddingRight": {
+                    "type": "unit",
+                    "unit": "px",
+                    "value": 0
+                  },
+                  "marginLeft": {
+                    "type": "unit",
+                    "unit": "px",
+                    "value": -20
+                  },
+                  "marginRight": {
+                    "type": "unit",
+                    "unit": "px",
+                    "value": -20
                   }
                 }
               }
@@ -1897,7 +1917,7 @@
               },
               "display": {
                 "type": "keyword",
-                "value": "block"
+                "value": "flex"
               },
               "flexDirection": {
                 "type": "keyword",
