@@ -18,9 +18,7 @@
                 "children": [],
                 "cssRules": [
                   {
-                    "breakpoint": {
-                      "$oid": "626fc63909a681e2a912b5a4"
-                    },
+                    "breakpoint": "626fc63909a681e2a912b5a4",
                     "style": {
                       "width": {
                         "type": "unit",
@@ -76,9 +74,7 @@
                     ],
                     "cssRules": [
                       {
-                        "breakpoint": {
-                          "$oid": "626fc63909a681e2a912b5a4"
-                        },
+                        "breakpoint": "626fc63909a681e2a912b5a4",
                         "style": {
                           "display": {
                             "type": "keyword",
@@ -250,9 +246,7 @@
                     ],
                     "cssRules": [
                       {
-                        "breakpoint": {
-                          "$oid": "626fc63909a681e2a912b5a4"
-                        },
+                        "breakpoint": "626fc63909a681e2a912b5a4",
                         "style": {
                           "position": {
                             "type": "keyword",
@@ -444,9 +438,7 @@
                 ],
                 "cssRules": [
                   {
-                    "breakpoint": {
-                      "$oid": "626fc63909a681e2a912b5a4"
-                    },
+                    "breakpoint": "626fc63909a681e2a912b5a4",
                     "style": {
                       "display": {
                         "type": "keyword",
@@ -458,7 +450,7 @@
                       },
                       "justifyContent": {
                         "type": "keyword",
-                        "value": "space-between"
+                        "value": "space-evenly"
                       },
                       "minHeight": {
                         "type": "unit",
@@ -468,11 +460,7 @@
                       "height": {
                         "type": "keyword",
                         "value": "auto"
-                      }
-                    }
-                  },
-                  {
-                    "style": {
+                      },
                       "flexWrap": {
                         "type": "keyword",
                         "value": "wrap"
@@ -481,22 +469,15 @@
                         "type": "unit",
                         "unit": "px",
                         "value": 10
-                      },
-                      "justifyContent": {
-                        "type": "keyword",
-                        "value": "space-evenly"
                       }
-                    },
-                    "breakpoint": "626fc63909a681e2a912b5a4"
+                    }
                   }
                 ]
               }
             ],
             "cssRules": [
               {
-                "breakpoint": {
-                  "$oid": "626fc63909a681e2a912b5a4"
-                },
+                "breakpoint": "626fc63909a681e2a912b5a4",
                 "style": {
                   "display": {
                     "type": "keyword",
@@ -563,9 +544,7 @@
             ],
             "cssRules": [
               {
-                "breakpoint": {
-                  "$oid": "626fc63909a681e2a912b5a4"
-                },
+                "breakpoint": "626fc63909a681e2a912b5a4",
                 "style": {
                   "fontSize": {
                     "type": "unit",
@@ -605,9 +584,7 @@
             ],
             "cssRules": [
               {
-                "breakpoint": {
-                  "$oid": "626fc63909a681e2a912b5a4"
-                },
+                "breakpoint": "626fc63909a681e2a912b5a4",
                 "style": {
                   "fontSize": {
                     "type": "unit",
@@ -639,9 +616,7 @@
                     ],
                     "cssRules": [
                       {
-                        "breakpoint": {
-                          "$oid": "626fc63909a681e2a912b5a4"
-                        },
+                        "breakpoint": "626fc63909a681e2a912b5a4",
                         "style": {}
                       }
                     ]
@@ -656,9 +631,7 @@
                     ],
                     "cssRules": [
                       {
-                        "breakpoint": {
-                          "$oid": "626fc63909a681e2a912b5a4"
-                        },
+                        "breakpoint": "626fc63909a681e2a912b5a4",
                         "style": {
                           "color": {
                             "type": "keyword",
@@ -679,9 +652,7 @@
                     ],
                     "cssRules": [
                       {
-                        "breakpoint": {
-                          "$oid": "626fc63909a681e2a912b5a4"
-                        },
+                        "breakpoint": "626fc63909a681e2a912b5a4",
                         "style": {
                           "color": {
                             "type": "keyword",
@@ -696,9 +667,7 @@
                 ],
                 "cssRules": [
                   {
-                    "breakpoint": {
-                      "$oid": "626fc63909a681e2a912b5a4"
-                    },
+                    "breakpoint": "626fc63909a681e2a912b5a4",
                     "style": {
                       "fontSize": {
                         "type": "unit",
@@ -728,9 +697,7 @@
                     "children": [],
                     "cssRules": [
                       {
-                        "breakpoint": {
-                          "$oid": "626fc63909a681e2a912b5a4"
-                        },
+                        "breakpoint": "626fc63909a681e2a912b5a4",
                         "style": {
                           "borderLeftWidth": {
                             "type": "unit",
@@ -833,9 +800,7 @@
                     ],
                     "cssRules": [
                       {
-                        "breakpoint": {
-                          "$oid": "626fc63909a681e2a912b5a4"
-                        },
+                        "breakpoint": "626fc63909a681e2a912b5a4",
                         "style": {
                           "boxShadow": {
                             "type": "keyword",
@@ -947,9 +912,7 @@
                 ],
                 "cssRules": [
                   {
-                    "breakpoint": {
-                      "$oid": "626fc63909a681e2a912b5a4"
-                    },
+                    "breakpoint": "626fc63909a681e2a912b5a4",
                     "style": {
                       "display": {
                         "type": "keyword",
@@ -990,9 +953,7 @@
                     ],
                     "cssRules": [
                       {
-                        "breakpoint": {
-                          "$oid": "626fc63909a681e2a912b5a4"
-                        },
+                        "breakpoint": "626fc63909a681e2a912b5a4",
                         "style": {
                           "color": {
                             "type": "keyword",
@@ -1011,9 +972,7 @@
                     ],
                     "cssRules": [
                       {
-                        "breakpoint": {
-                          "$oid": "626fc63909a681e2a912b5a4"
-                        },
+                        "breakpoint": "626fc63909a681e2a912b5a4",
                         "style": {
                           "color": {
                             "type": "keyword",
@@ -1027,9 +986,7 @@
                 ],
                 "cssRules": [
                   {
-                    "breakpoint": {
-                      "$oid": "626fc63909a681e2a912b5a4"
-                    },
+                    "breakpoint": "626fc63909a681e2a912b5a4",
                     "style": {
                       "fontSize": {
                         "type": "unit",
@@ -1053,9 +1010,7 @@
             ],
             "cssRules": [
               {
-                "breakpoint": {
-                  "$oid": "626fc63909a681e2a912b5a4"
-                },
+                "breakpoint": "626fc63909a681e2a912b5a4",
                 "style": {
                   "display": {
                     "type": "keyword",
@@ -1115,9 +1070,7 @@
             ],
             "cssRules": [
               {
-                "breakpoint": {
-                  "$oid": "626fc63909a681e2a912b5a4"
-                },
+                "breakpoint": "626fc63909a681e2a912b5a4",
                 "style": {
                   "fontSize": {
                     "type": "unit",
@@ -1151,9 +1104,7 @@
             ],
             "cssRules": [
               {
-                "breakpoint": {
-                  "$oid": "626fc63909a681e2a912b5a4"
-                },
+                "breakpoint": "626fc63909a681e2a912b5a4",
                 "style": {
                   "lineHeight": {
                     "type": "unit",
@@ -1192,9 +1143,7 @@
             ],
             "cssRules": [
               {
-                "breakpoint": {
-                  "$oid": "626fc63909a681e2a912b5a4"
-                },
+                "breakpoint": "626fc63909a681e2a912b5a4",
                 "style": {
                   "fontSize": {
                     "type": "unit",
@@ -1228,9 +1177,7 @@
             ],
             "cssRules": [
               {
-                "breakpoint": {
-                  "$oid": "626fc63909a681e2a912b5a4"
-                },
+                "breakpoint": "626fc63909a681e2a912b5a4",
                 "style": {
                   "fontSize": {
                     "type": "unit",
@@ -1254,9 +1201,7 @@
             ],
             "cssRules": [
               {
-                "breakpoint": {
-                  "$oid": "626fc63909a681e2a912b5a4"
-                },
+                "breakpoint": "626fc63909a681e2a912b5a4",
                 "style": {
                   "fontSize": {
                     "type": "unit",
@@ -1290,9 +1235,7 @@
             ],
             "cssRules": [
               {
-                "breakpoint": {
-                  "$oid": "626fc63909a681e2a912b5a4"
-                },
+                "breakpoint": "626fc63909a681e2a912b5a4",
                 "style": {
                   "fontSize": {
                     "type": "unit",
@@ -1316,9 +1259,7 @@
             ],
             "cssRules": [
               {
-                "breakpoint": {
-                  "$oid": "626fc63909a681e2a912b5a4"
-                },
+                "breakpoint": "626fc63909a681e2a912b5a4",
                 "style": {
                   "fontSize": {
                     "type": "unit",
@@ -1352,9 +1293,7 @@
             ],
             "cssRules": [
               {
-                "breakpoint": {
-                  "$oid": "626fc63909a681e2a912b5a4"
-                },
+                "breakpoint": "626fc63909a681e2a912b5a4",
                 "style": {
                   "fontSize": {
                     "type": "unit",
@@ -1378,9 +1317,7 @@
             ],
             "cssRules": [
               {
-                "breakpoint": {
-                  "$oid": "626fc63909a681e2a912b5a4"
-                },
+                "breakpoint": "626fc63909a681e2a912b5a4",
                 "style": {
                   "fontSize": {
                     "type": "unit",
@@ -1414,9 +1351,7 @@
             ],
             "cssRules": [
               {
-                "breakpoint": {
-                  "$oid": "626fc63909a681e2a912b5a4"
-                },
+                "breakpoint": "626fc63909a681e2a912b5a4",
                 "style": {
                   "fontSize": {
                     "type": "unit",
@@ -1440,9 +1375,7 @@
             ],
             "cssRules": [
               {
-                "breakpoint": {
-                  "$oid": "626fc63909a681e2a912b5a4"
-                },
+                "breakpoint": "626fc63909a681e2a912b5a4",
                 "style": {
                   "marginTop": {
                     "type": "unit",
@@ -1476,9 +1409,7 @@
             ],
             "cssRules": [
               {
-                "breakpoint": {
-                  "$oid": "626fc63909a681e2a912b5a4"
-                },
+                "breakpoint": "626fc63909a681e2a912b5a4",
                 "style": {
                   "fontSize": {
                     "type": "unit",
@@ -1502,9 +1433,7 @@
             ],
             "cssRules": [
               {
-                "breakpoint": {
-                  "$oid": "626fc63909a681e2a912b5a4"
-                },
+                "breakpoint": "626fc63909a681e2a912b5a4",
                 "style": {
                   "marginTop": {
                     "type": "unit",
@@ -1543,9 +1472,7 @@
                 ],
                 "cssRules": [
                   {
-                    "breakpoint": {
-                      "$oid": "626fc63909a681e2a912b5a4"
-                    },
+                    "breakpoint": "626fc63909a681e2a912b5a4",
                     "style": {
                       "color": {
                         "type": "keyword",
@@ -1564,9 +1491,7 @@
                 ],
                 "cssRules": [
                   {
-                    "breakpoint": {
-                      "$oid": "626fc63909a681e2a912b5a4"
-                    },
+                    "breakpoint": "626fc63909a681e2a912b5a4",
                     "style": {
                       "color": {
                         "type": "keyword",
@@ -1585,9 +1510,7 @@
                 ],
                 "cssRules": [
                   {
-                    "breakpoint": {
-                      "$oid": "626fc63909a681e2a912b5a4"
-                    },
+                    "breakpoint": "626fc63909a681e2a912b5a4",
                     "style": {
                       "color": {
                         "type": "keyword",
@@ -1609,9 +1532,7 @@
                 ],
                 "cssRules": [
                   {
-                    "breakpoint": {
-                      "$oid": "626fc63909a681e2a912b5a4"
-                    },
+                    "breakpoint": "626fc63909a681e2a912b5a4",
                     "style": {
                       "color": {
                         "type": "keyword",
@@ -1625,9 +1546,7 @@
             ],
             "cssRules": [
               {
-                "breakpoint": {
-                  "$oid": "626fc63909a681e2a912b5a4"
-                },
+                "breakpoint": "626fc63909a681e2a912b5a4",
                 "style": {
                   "fontSize": {
                     "type": "unit",
@@ -1651,9 +1570,7 @@
             ],
             "cssRules": [
               {
-                "breakpoint": {
-                  "$oid": "626fc63909a681e2a912b5a4"
-                },
+                "breakpoint": "626fc63909a681e2a912b5a4",
                 "style": {
                   "marginTop": {
                     "type": "unit",
@@ -1701,9 +1618,7 @@
                 ],
                 "cssRules": [
                   {
-                    "breakpoint": {
-                      "$oid": "626fc63909a681e2a912b5a4"
-                    },
+                    "breakpoint": "626fc63909a681e2a912b5a4",
                     "style": {
                       "color": {
                         "type": "keyword",
@@ -1717,9 +1632,7 @@
             ],
             "cssRules": [
               {
-                "breakpoint": {
-                  "$oid": "626fc63909a681e2a912b5a4"
-                },
+                "breakpoint": "626fc63909a681e2a912b5a4",
                 "style": {
                   "fontSize": {
                     "type": "unit",
@@ -1743,9 +1656,7 @@
             ],
             "cssRules": [
               {
-                "breakpoint": {
-                  "$oid": "626fc63909a681e2a912b5a4"
-                },
+                "breakpoint": "626fc63909a681e2a912b5a4",
                 "style": {
                   "marginTop": {
                     "type": "unit",
@@ -1779,9 +1690,7 @@
             ],
             "cssRules": [
               {
-                "breakpoint": {
-                  "$oid": "626fc63909a681e2a912b5a4"
-                },
+                "breakpoint": "626fc63909a681e2a912b5a4",
                 "style": {
                   "fontSize": {
                     "type": "unit",
@@ -1805,9 +1714,7 @@
             ],
             "cssRules": [
               {
-                "breakpoint": {
-                  "$oid": "626fc63909a681e2a912b5a4"
-                },
+                "breakpoint": "626fc63909a681e2a912b5a4",
                 "style": {
                   "marginTop": {
                     "type": "unit",
@@ -1846,9 +1753,7 @@
                 ],
                 "cssRules": [
                   {
-                    "breakpoint": {
-                      "$oid": "626fc63909a681e2a912b5a4"
-                    },
+                    "breakpoint": "626fc63909a681e2a912b5a4",
                     "style": {
                       "color": {
                         "type": "keyword",
@@ -1867,9 +1772,7 @@
                 ],
                 "cssRules": [
                   {
-                    "breakpoint": {
-                      "$oid": "626fc63909a681e2a912b5a4"
-                    },
+                    "breakpoint": "626fc63909a681e2a912b5a4",
                     "style": {
                       "color": {
                         "type": "keyword",
@@ -1886,9 +1789,7 @@
             ],
             "cssRules": [
               {
-                "breakpoint": {
-                  "$oid": "626fc63909a681e2a912b5a4"
-                },
+                "breakpoint": "626fc63909a681e2a912b5a4",
                 "style": {
                   "fontSize": {
                     "type": "unit",
@@ -1912,9 +1813,7 @@
             ],
             "cssRules": [
               {
-                "breakpoint": {
-                  "$oid": "626fc63909a681e2a912b5a4"
-                },
+                "breakpoint": "626fc63909a681e2a912b5a4",
                 "style": {
                   "marginTop": {
                     "type": "unit",
@@ -1953,9 +1852,7 @@
                 ],
                 "cssRules": [
                   {
-                    "breakpoint": {
-                      "$oid": "626fc63909a681e2a912b5a4"
-                    },
+                    "breakpoint": "626fc63909a681e2a912b5a4",
                     "style": {
                       "color": {
                         "type": "keyword",
@@ -1972,9 +1869,7 @@
             ],
             "cssRules": [
               {
-                "breakpoint": {
-                  "$oid": "626fc63909a681e2a912b5a4"
-                },
+                "breakpoint": "626fc63909a681e2a912b5a4",
                 "style": {
                   "fontSize": {
                     "type": "unit",
@@ -1993,9 +1888,7 @@
         ],
         "cssRules": [
           {
-            "breakpoint": {
-              "$oid": "626fc63909a681e2a912b5a4"
-            },
+            "breakpoint": "626fc63909a681e2a912b5a4",
             "style": {
               "paddingBottom": {
                 "type": "unit",
@@ -2048,32 +1941,20 @@
               "minWidth": {
                 "type": "unit",
                 "unit": "px",
-                "value": 360
+                "value": 340
               },
               "width": {
                 "type": "keyword",
                 "value": "auto"
               }
             }
-          },
-          {
-            "style": {
-              "minWidth": {
-                "type": "unit",
-                "unit": "px",
-                "value": 340
-              }
-            },
-            "breakpoint": "626fc63909a681e2a912b5a4"
           }
         ]
       }
     ],
     "cssRules": [
       {
-        "breakpoint": {
-          "$oid": "626fc63909a681e2a912b5a4"
-        },
+        "breakpoint": "626fc63909a681e2a912b5a4",
         "style": {
           "fontFamily": {
             "type": "keyword",
