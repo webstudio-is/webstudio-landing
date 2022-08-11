@@ -40,7 +40,7 @@
                       },
                       "backgroundImage": {
                         "type": "keyword",
-                        "value": "url(/logo.png)"
+                        "value": "url(/logo.webp)"
                       },
                       "backgroundOrigin": {
                         "type": "keyword",
@@ -139,7 +139,7 @@
                           },
                           "backgroundImage": {
                             "type": "keyword",
-                            "value": "url(/logo.png)"
+                            "value": "url(/logo.webp)"
                           },
                           "backgroundRepeat": {
                             "type": "keyword",
