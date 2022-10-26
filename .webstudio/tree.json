@@ -1,5 +1,5 @@
 {
-  "id": "627ae14e4ae1c21a2c039f16",
+  "id": "76f9e24e-b756-463d-8210-bd04129e6c91",
   "root": {
     "component": "Box",
     "id": "root",
@@ -40,7 +40,7 @@
                       },
                       "backgroundImage": {
                         "type": "keyword",
-                        "value": "url(/logo.webp)"
+                        "value": "url(/logo.svg)"
                       },
                       "backgroundOrigin": {
                         "type": "keyword",
@@ -59,6 +59,19 @@
                         "value": "block"
                       }
                     }
+                  },
+                  {
+                    "style": {
+                      "backgroundImage": {
+                        "type": "keyword",
+                        "value": "url(\"//webstudio.is/logo.webp\")"
+                      },
+                      "backgroundOrigin": {
+                        "type": "keyword",
+                        "value": "border-box"
+                      }
+                    },
+                    "breakpoint": "62cd84ff932fb745a520a5ad"
                   }
                 ]
               },
@@ -69,7 +82,9 @@
                   {
                     "component": "Link",
                     "id": "6233771ea41246f8ea0225ce",
-                    "children": ["Try Webstudio (alpha)"],
+                    "children": [
+                      "Try Webstudio (alpha)"
+                    ],
                     "cssRules": [
                       {
                         "breakpoint": "626fc63909a681e2a912b5a4",
@@ -139,7 +154,7 @@
                           },
                           "backgroundImage": {
                             "type": "keyword",
-                            "value": "url(/logo.webp)"
+                            "value": "url(/logo.svg)"
                           },
                           "backgroundRepeat": {
                             "type": "keyword",
@@ -233,13 +248,24 @@
                             "value": 20
                           }
                         }
+                      },
+                      {
+                        "style": {
+                          "backgroundImage": {
+                            "type": "keyword",
+                            "value": "url(\"//webstudio.is/logo.webp\")"
+                          }
+                        },
+                        "breakpoint": "62cd84ff932fb745a520a5ad"
                       }
                     ]
                   },
                   {
                     "component": "Link",
                     "id": "6231b7450d69e2661a490581",
-                    "children": ["Follow @webstudio-is"],
+                    "children": [
+                      "Follow @webstudio-is"
+                    ],
                     "cssRules": [
                       {
                         "breakpoint": "626fc63909a681e2a912b5a4",
@@ -428,6 +454,15 @@
                             "value": "nowrap"
                           }
                         }
+                      },
+                      {
+                        "style": {
+                          "backgroundImage": {
+                            "type": "keyword",
+                            "value": "url(\"//webstudio.is/octocat.svg\")"
+                          }
+                        },
+                        "breakpoint": "62cd84ff932fb745a520a5ad"
                       }
                     ]
                   }
@@ -555,7 +590,9 @@
           {
             "component": "Heading",
             "id": "6233cca0b4438c31bbb4fb5c",
-            "children": ["Finally, an open source visual development tool!"],
+            "children": [
+              "Finally, an open source visual development tool!"
+            ],
             "cssRules": [
               {
                 "breakpoint": "626fc63909a681e2a912b5a4",
@@ -625,7 +662,9 @@
                   {
                     "component": "Bold",
                     "id": "6234f806344e003f935b07a8",
-                    "children": ["Sound exciting?"],
+                    "children": [
+                      "Sound exciting?"
+                    ],
                     "cssRules": [
                       {
                         "breakpoint": "626fc63909a681e2a912b5a4",
@@ -638,7 +677,9 @@
                   {
                     "component": "Link",
                     "id": "62367508530e273db420abe3",
-                    "children": ["discussion"],
+                    "children": [
+                      "discussion"
+                    ],
                     "cssRules": [
                       {
                         "breakpoint": "626fc63909a681e2a912b5a4",
@@ -657,7 +698,9 @@
                   {
                     "component": "Link",
                     "id": "62367508530e273db420abe5",
-                    "children": ["Twitter"],
+                    "children": [
+                      "Twitter"
+                    ],
                     "cssRules": [
                       {
                         "breakpoint": "626fc63909a681e2a912b5a4",
@@ -803,7 +846,9 @@
                   {
                     "component": "Button",
                     "id": "6228f203010493ef242d86f1",
-                    "children": ["Subscribe"],
+                    "children": [
+                      "Subscribe"
+                    ],
                     "cssRules": [
                       {
                         "breakpoint": "626fc63909a681e2a912b5a4",
@@ -954,7 +999,9 @@
                   {
                     "component": "Link",
                     "id": "6230bb1decd6c567fd796106",
-                    "children": ["twitter"],
+                    "children": [
+                      "twitter"
+                    ],
                     "cssRules": [
                       {
                         "breakpoint": "626fc63909a681e2a912b5a4",
@@ -971,7 +1018,9 @@
                   {
                     "component": "Link",
                     "id": "6230bb4eecd6c567fd796109",
-                    "children": ["email"],
+                    "children": [
+                      "email"
+                    ],
                     "cssRules": [
                       {
                         "breakpoint": "626fc63909a681e2a912b5a4",
@@ -1139,7 +1188,10 @@
           {
             "component": "Heading",
             "id": "6215567f85eb55cfe714d73d",
-            "children": ["Deploy anywhere", "\n"],
+            "children": [
+              "Deploy anywhere",
+              "\n"
+            ],
             "cssRules": [
               {
                 "breakpoint": "626fc63909a681e2a912b5a4",
@@ -1195,7 +1247,9 @@
           {
             "component": "Heading",
             "id": "6230da269122509e462ee774",
-            "children": ["For developers"],
+            "children": [
+              "For developers"
+            ],
             "cssRules": [
               {
                 "breakpoint": "626fc63909a681e2a912b5a4",
@@ -1251,7 +1305,9 @@
           {
             "component": "Heading",
             "id": "6230da4c9122509e462ee7a5",
-            "children": ["For designers"],
+            "children": [
+              "For designers"
+            ],
             "cssRules": [
               {
                 "breakpoint": "626fc63909a681e2a912b5a4",
@@ -1307,7 +1363,9 @@
           {
             "component": "Heading",
             "id": "6230dcc345867d509f5dd46e",
-            "children": ["For everyone"],
+            "children": [
+              "For everyone"
+            ],
             "cssRules": [
               {
                 "breakpoint": "626fc63909a681e2a912b5a4",
@@ -1363,7 +1421,9 @@
           {
             "component": "Heading",
             "id": "6230dda00dba0c391a1ecc2a",
-            "children": ["Save time and money with empowered collaboration"],
+            "children": [
+              "Save time and money with empowered collaboration"
+            ],
             "cssRules": [
               {
                 "breakpoint": "626fc63909a681e2a912b5a4",
@@ -1419,7 +1479,9 @@
           {
             "component": "Heading",
             "id": "6230e2762383ed51e4bab038",
-            "children": ["Integrate with any service"],
+            "children": [
+              "Integrate with any service"
+            ],
             "cssRules": [
               {
                 "breakpoint": "626fc63909a681e2a912b5a4",
@@ -1456,7 +1518,9 @@
               {
                 "component": "Link",
                 "id": "6234f0d8be2dc53ea70e0148",
-                "children": ["Shopify"],
+                "children": [
+                  "Shopify"
+                ],
                 "cssRules": [
                   {
                     "breakpoint": "626fc63909a681e2a912b5a4",
@@ -1473,7 +1537,9 @@
               {
                 "component": "Link",
                 "id": "6234f09ebe2dc53ea70e0031",
-                "children": ["GraphCMS"],
+                "children": [
+                  "GraphCMS"
+                ],
                 "cssRules": [
                   {
                     "breakpoint": "626fc63909a681e2a912b5a4",
@@ -1490,7 +1556,9 @@
               {
                 "component": "Link",
                 "id": "6234f0d8be2dc53ea70e0149",
-                "children": ["Contentful"],
+                "children": [
+                  "Contentful"
+                ],
                 "cssRules": [
                   {
                     "breakpoint": "626fc63909a681e2a912b5a4",
@@ -1510,7 +1578,9 @@
               {
                 "component": "Link",
                 "id": "6234f0d8be2dc53ea70e014a",
-                "children": ["GraphQL"],
+                "children": [
+                  "GraphQL"
+                ],
                 "cssRules": [
                   {
                     "breakpoint": "626fc63909a681e2a912b5a4",
@@ -1546,7 +1616,9 @@
           {
             "component": "Heading",
             "id": "6230e2aa2383ed51e4bab0c6",
-            "children": ["Code, visually"],
+            "children": [
+              "Code, visually"
+            ],
             "cssRules": [
               {
                 "breakpoint": "626fc63909a681e2a912b5a4",
@@ -1592,7 +1664,9 @@
               {
                 "component": "Link",
                 "id": "6234f19c4aa2225b84a501ec",
-                "children": ["Remix"],
+                "children": [
+                  "Remix"
+                ],
                 "cssRules": [
                   {
                     "breakpoint": "626fc63909a681e2a912b5a4",
@@ -1628,7 +1702,9 @@
           {
             "component": "Heading",
             "id": "6230e2bf2383ed51e4bab14d",
-            "children": ["Export and synchronize data from Webstudio"],
+            "children": [
+              "Export and synchronize data from Webstudio"
+            ],
             "cssRules": [
               {
                 "breakpoint": "626fc63909a681e2a912b5a4",
@@ -1684,7 +1760,9 @@
           {
             "component": "Heading",
             "id": "6230e2ea2383ed51e4bab226",
-            "children": ["Performance is our foundation"],
+            "children": [
+              "Performance is our foundation"
+            ],
             "cssRules": [
               {
                 "breakpoint": "626fc63909a681e2a912b5a4",
@@ -1721,7 +1799,9 @@
               {
                 "component": "Link",
                 "id": "6234f2b422ff547e921dcca2",
-                "children": ["serverless"],
+                "children": [
+                  "serverless"
+                ],
                 "cssRules": [
                   {
                     "breakpoint": "626fc63909a681e2a912b5a4",
@@ -1738,7 +1818,9 @@
               {
                 "component": "Link",
                 "id": "6234f2d0b3b58e2c116f0c3a",
-                "children": ["edge"],
+                "children": [
+                  "edge"
+                ],
                 "cssRules": [
                   {
                     "breakpoint": "626fc63909a681e2a912b5a4",
@@ -1777,7 +1859,9 @@
           {
             "component": "Heading",
             "id": "6230e33b2383ed51e4bab353",
-            "children": ["Accessibility commitment"],
+            "children": [
+              "Accessibility commitment"
+            ],
             "cssRules": [
               {
                 "breakpoint": "626fc63909a681e2a912b5a4",
@@ -1814,7 +1898,9 @@
               {
                 "component": "Link",
                 "id": "6234f36e5ba2220f2a2b4395",
-                "children": ["Radix UI"],
+                "children": [
+                  "Radix UI"
+                ],
                 "cssRules": [
                   {
                     "breakpoint": "626fc63909a681e2a912b5a4",
