@@ -1,7 +1,7 @@
 import {
   WrapperComponent,
   type WrapperComponentProps,
-} from "@webstudio-is/sdk";
+} from "@webstudio-is/react-sdk";
 import { useEffect, useState } from "react";
 import { useTransition, Form } from "remix";
 
