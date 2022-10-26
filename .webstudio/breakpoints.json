@@ -1,22 +1,22 @@
 [
   {
+    "id": "626fc63909a681e2a912b5a4",
     "label": "Mobile",
-    "minWidth": 360,
-    "id": "62cd84ff932fb745a520a5ad"
+    "minWidth": 360
   },
   {
+    "id": "626fc63909a681e2a912b5a5",
     "label": "Tablet",
-    "minWidth": 768,
-    "id": "62cd84ff932fb745a520a5ae"
+    "minWidth": 768
   },
   {
+    "id": "626fc63909a681e2a912b5a6",
     "label": "Laptop",
-    "minWidth": 1024,
-    "id": "62cd84ff932fb745a520a5af"
+    "minWidth": 1024
   },
   {
+    "id": "626fc63909a681e2a912b5a7",
     "label": "Desktop",
-    "minWidth": 1280,
-    "id": "62cd84ff932fb745a520a5b0"
+    "minWidth": 1280
   }
 ]
